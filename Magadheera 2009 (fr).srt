@@ -3918,6 +3918,58 @@ Acceptes-tu ?
 J'accepte.
 
 894
+01:32:41,458 --> 01:32:45,540
+À une condition.
+Quoi ?
+
+895
+01:32:45,541 --> 01:32:50,800
+Le perdant sera banni
+du royaume.
+
+896
+01:32:50,800 --> 01:32:55,540
+Génial ! Défaites-moi, exilez-moi,
+
+897
+01:32:55,541 --> 01:32:58,999
+ainsi vous l'apprécierez ?
+
+898
+01:33:00,000 --> 01:33:03,207
+Il ne vivra pas.
+
+899
+01:33:03,208 --> 01:33:06,290
+Je le laisserai revenir vivant, Rani.
+
+900
+01:33:06,291 --> 01:33:14,540
+Je veux que vous voyiez les gens cracher
+sur son visage honteux.
+
+901
+01:33:32,250 --> 01:33:39,500
+Celui qui franchira cette ligne en premier
+avec le chunni de Rani sera le vainqueur.
+
+902
+01:33:39,500 --> 01:33:42,207
+<i>Bhairava, victoire !</i>
+
+903
+01:33:42,208 --> 01:33:45,999
+Les gens veulent que Bhairava gagne.
+
+904
+01:33:46,000 --> 01:33:49,582
+Il gagnera sûrement.
+
+905
+01:33:49,666 --> 01:33:54,900
+Je sais qui va gagner, Premier Ministre.
+
+906
 01:36:27,708 --> 01:36:34,500
 Bhairava ! Je sais que ton cœur
 n'est pas aussi fort que ton corps.
