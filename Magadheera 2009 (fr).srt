@@ -1,22 +1,22 @@
 1
 00:01:07,000 --> 00:01:10,900
-<i> Ram Charan * Kajal Aggarwal </i>
+<i>– Ram Charan * Kajal Aggarwal –</i>
 
 2
 00:01:14,900 --> 00:01:24,500
-<i>~ MAGADHEERA GRAND GUERRIER ~</i>
+<i>~ MAGADHEERA – GRAND GUERRIER ~</i>
 
 3
 00:01:35,630 --> 00:01:38,165
-<i>Un !</i>
+<i>Un !</i>
 
 4
 00:01:38,166 --> 00:01:39,915
-<i>Le temps presse !</i>
+<i>Le temps est court !</i>
 
 5
 00:01:39,916 --> 00:01:43,200
-<i>Commencez les prières, Guru !</i>
+<i>Commencez les prières, Guru !</i>
 
 6
 00:01:48,300 --> 00:01:52,000
@@ -24,7 +24,7 @@
 
 7
 00:01:54,333 --> 00:01:57,000
-<i>Dix !</i>
+<i>Dix !</i>
 
 8
 00:02:07,000 --> 00:02:12,000
@@ -32,19 +32,19 @@
 
 9
 00:02:14,300 --> 00:02:16,900
-<i>32 !</i>
+<i>32 !</i>
 
 10
 00:02:18,375 --> 00:02:22,000
-<i>43 !</i>
+<i>43 !</i>
 
 11
 00:02:26,400 --> 00:02:28,999
-<i>75 !</i>
+<i>75 !</i>
 
 12
 00:02:29,000 --> 00:02:32,000
-<i>Dites-moi la vérité, Bhairava !</i>
+<i>Dis-moi la vérité, Bhairava !</i>
 
 13
 00:02:35,600 --> 00:02:38,165
@@ -56,27 +56,27 @@
 
 15
 00:02:46,458 --> 00:02:49,900
-95 !
+95 !
 
 16
 00:02:59,000 --> 00:03:03,500
-99 !
+99 !
 
 17
 00:03:03,500 --> 00:03:07,199
-100 !
+100 !
 
 18
 00:03:10,541 --> 00:03:13,850
-  1609 avant notre ère  
+– 1609 av. J.-C. –
 
 19
 00:03:14,000 --> 00:03:17,000
-« Montagnes Aravali »
+– Montagnes d'Aravali –
 
 20
 00:03:17,625 --> 00:03:21,995
-"Bhairavakona"
+– Bhairavakona –
 
 21
 00:03:47,200 --> 00:03:50,000
@@ -84,17 +84,17 @@ Bhairava !
 
 22
 00:03:52,333 --> 00:03:57,199
-Dans ces derniers instants,
-dis moi la vérité.
+Dans ces derniers moments,
+dis la vérité.
 
 23
 00:04:00,250 --> 00:04:05,200
-Révéle l'amour
+Révèle l'amour
 que tu as caché à l'intérieur.
 
 24
 00:04:06,041 --> 00:04:09,299
-En ces derniers instants...
+Dans ces moments de mort...
 
 25
 00:04:11,375 --> 00:04:15,900
@@ -107,7 +107,7 @@ ma destination,
 
 27
 00:04:35,666 --> 00:04:38,500
-ma déesse de la lumière !
+ma Déesse de Lumière !
 
 28
 00:04:39,000 --> 00:04:41,040
@@ -115,7 +115,7 @@ Je t'aime.
 
 29
 00:04:41,041 --> 00:04:45,900
-Plus que moi, je t'aime.
+Plus que moi-même, je t'aime.
 
 30
 00:06:36,500 --> 00:06:38,500
@@ -123,18 +123,18 @@ Bhairava !
 
 31
 00:06:38,500 --> 00:06:45,249
-Ces nuages ​​​​sombres sont fiers
-de vous suicider.
+Ces nuages sombres sont fiers
+de prendre ta vie.
 
 32
 00:06:45,250 --> 00:06:51,999
 Ils ne savent pas que tu es le soleil
-qui a peut-être coulé aujourd'hui
+qui peut avoir couché aujourd'hui
 
 33
 00:06:52,000 --> 00:06:58,999
-mais un jour, tu reviendras en perçant
-l'obscurité pour réclamer ton amour,
+mais un jour, perçant les ténèbres
+pour réclamer ton amour,
 
 34
 00:06:59,000 --> 00:07:02,100
@@ -142,33 +142,33 @@ tu reviendras.
 
 35
 00:07:03,291 --> 00:07:07,700
-Tu reviendras, Bhairava !
+Tu reviendras, Bhairava !
 
 36
 00:07:08,000 --> 00:07:11,900
-- 400 ans plus tard -
 
+400 ans plus tard -
 37
 00:07:18,208 --> 00:07:25,333
-<i>~Guerrier...Guerrier...Guerrier...
-guerrier viril pour gagner les cœurs - Warrior~</i>
+<i>Guerrier... Guerrier... Guerrier...
+guerrier viril prêt à conquérir les cœurs - Guerrier</i>
 
 38
 00:07:25,333 --> 00:07:29,995
-<i>~Celui qui est venu percer
-ténèbres, grand guerrier...Guerrier~</i>
+<i>Celui qui est venu percer
+les ténèbres, grand guerrier... Guerrier</i>
 
 39
 00:07:29,995 --> 00:07:34,990
-<i>~Guerrier~</i>
+<i>Guerrier</i>
 
 40
 00:07:35,666 --> 00:07:37,290
--Vishakhapatnam-
 
+Vishakhapatnam -
 41
 00:07:37,400 --> 00:07:40,957
-Dans 10 minutes, le saut à moto va commencer.
+Dans 10 minutes, le saut en moto va commencer.
 
 42
 00:07:40,958 --> 00:07:43,199
@@ -181,26 +181,26 @@ gagnera.
 
 44
 00:07:47,040 --> 00:07:50,400
-- Ouais, Rahul, j'arrive.
-- Ouah! Tant de filles !
+Ouais, Rahul, j'arrive.
+Wow ! Tant de filles !
 
 45
 00:07:50,401 --> 00:07:53,900
-je dois emprunter une moto
-et discuter avec quelques filles.
+Je dois emprunter une moto
+et parler à quelques filles.
 
 46
 00:07:59,750 --> 00:08:03,500
-Oh mon Dieu! Elle est plus rapide qu'une moto.
+Oh Dieu ! Elle est plus rapide qu'une moto.
 
 47
 00:08:03,900 --> 00:08:08,707
-Voici notre organisateur d'événement,
+Voici notre organisatrice d'événements,
 Reshma.
 
 48
 00:08:11,800 --> 00:08:14,000
-- Salut. - Salut.
+Salut. - Salut.
 
 49
 00:08:14,000 --> 00:08:16,500
@@ -216,25 +216,25 @@ Commençons les enchères.
 
 52
 00:08:29,000 --> 00:08:30,900
-- Hé. - Salut. - Harsha.
+Hé. - Salut. - Harsha.
 
 53
 00:08:30,900 --> 00:08:33,790
-Salut, Harsha. Comment vas-tu?
+Salut, Harsha. Comment ça va ?
 
 54
 00:08:33,791 --> 00:08:37,000
-Ne le traînez pas.
+Ne fais pas durer les choses.
 Quel est le pari ?
 
 55
 00:08:37,000 --> 00:08:41,990
-- 1 est à 5. Cinq fois votre argent.
-- 5 contre 1 ?!
+1 contre 5. Cinq fois votre mise.
+5 contre 1 ?!
 
 56
 00:08:41,990 --> 00:08:47,000
-- Ça peut me marier.
+Ça peut me marier.
 Quelle hauteur ? - 20 pieds.
 
 57
@@ -243,8 +243,8 @@ Quelle hauteur ? - 20 pieds.
 
 58
 00:08:50,095 --> 00:08:53,499
-Nous allons abandonner.
-Toute erreur, nous perdons.
+On se retire.
+A la moindre erreur, on perd.
 
 59
 00:08:53,500 --> 00:08:55,599
@@ -252,7 +252,7 @@ Toute erreur, nous perdons.
 
 60
 00:08:55,600 --> 00:08:59,000
-<i>Imposture, imposture, imposture...</i>
+<i>Sham, Sham, Sham...</i>
 
 61
 00:09:01,900 --> 00:09:03,590
@@ -260,7 +260,7 @@ Honte.
 
 62
 00:09:03,791 --> 00:09:06,000
-Eh bien, Harsha ?
+Alors, Harsha ?
 
 63
 00:09:06,000 --> 00:09:08,500
@@ -277,53 +277,53 @@ Je le savais.
 66
 00:09:11,083 --> 00:09:16,000
 Pas à 5 contre 1.
-Faire 10 contre 1 ?
+Mais à 10 contre 1 ?
 
 67
 00:09:19,290 --> 00:09:22,000
-D'ACCORD.
+D'accord.
 
 68
 00:09:23,666 --> 00:09:25,375
-Paye, mon pote !
+Paie, mon pote !
 
 69
 00:09:25,375 --> 00:09:26,625
-Copain!
+Mon pote !
 
 70
 00:09:26,625 --> 00:09:30,982
 Si nous perdons,
-nous nettoierons les motos. Prends-le.
+nous laverons les motos. Prends-le.
 
 71
 00:09:31,000 --> 00:09:33,900
-- Harsha, tu es partant ?
-- Ouais.
+Harsha, tu participes ?
+Ouais.
 
 72
 00:09:33,900 --> 00:09:36,000
-Harsha se joint à nous !
+Harsha rejoint la compétition !
 
 73
 00:09:36,000 --> 00:09:41,000
-<i>Harsha rejoint cet événement !</i>
+<i>Rejoignant l'événement c'est Harsha !</i>
 
 74
 00:09:41,000 --> 00:09:46,000
-<i>Harsha...!</i>
+<i>Harsha... !</i>
 
 75
 00:10:18,600 --> 00:10:20,458
-Salut, Harsha. Performance excellente.
+Hé, Harsha. Excellente performance.
 
 76
 00:10:20,458 --> 00:10:22,500
-- Ouah. - Superbe.
+Wow. - Superbe.
 
 77
 00:10:22,708 --> 00:10:26,040
-Mon pote, un exploit palpitant !
+Mon pote, un exploit palpitant !
 
 78
 00:10:26,041 --> 00:10:28,207
@@ -331,195 +331,195 @@ Bois ça, rafraîchis-toi.
 
 79
 00:10:28,208 --> 00:10:32,900
-Où est ma poule dorée ?
+Où est ma Poule d'Or ?
 
 80
 00:10:35,200 --> 00:10:37,070
-Copain! Notre argent!
+Mon pote ! Notre argent !
 
 81
 00:10:37,083 --> 00:10:43,880
-Vous réservez le billet.
-Je vais plumer la poule. Suivre.
+Tu réserves le billet.
+Je vais cueillir la Poule. Suis-moi.
 
 82
 00:11:58,090 --> 00:12:03,500
-<i>~Debout, de haut. Les mains en l'air!
-Ba boup. Les mains en l'air! Ouf, ouf~</i>
+<i>Haut, haut. Mains en l'air !
+Ba bup. Mains en l'air ! Hup hup</i>
 
 83
 00:12:25,875 --> 00:12:34,000
-<i>~La Poule Dorée est là ; hé, poussin !~</i>
+<i>La Poule d'Or est ici ; hé, poulette !</i>
 
 84
 00:12:36,900 --> 00:12:44,300
-<i>~La Poule Dorée est là ; hé, poussin !~</i>
+<i>La Poule d'Or est ici ; hé, poulette !</i>
 
 85
 00:12:44,300 --> 00:12:48,350
-<i>~Découvrez les secrets de son sari orange~</i>
+<i>Vois les secrets de son sari orange</i>
 
 86
 00:12:48,350 --> 00:12:51,400
-<i>~Hé, poussin !~</i>
+<i>Hé, poulette !</i>
 
 87
 00:12:51,430 --> 00:12:58,500
-<i>~ Levez les mains, vérifiez, vérifiez, balancez les genoux,
-dhik dhik dolakutho~</i>
+<i>Haut haut mains en l'air, check check, swing de genoux,
+dhik dhik dolakutho</i>
 
 88
 00:12:58,500 --> 00:13:05,999
-<i>~zip zip zakaap navire navire secouer
-musique pas à pas kutho~</i>
+<i>zip zip zakaap ship ship shake up
+step step music kutho</i>
 
 89
 00:13:06,500 --> 00:13:10,000
-<i>~La Poule dorée est là !~</i>
+<i>La Poule d'Or est ici !</i>
 
 90
 00:13:10,000 --> 00:13:14,000
-<i>~La Poule dorée est là~</i>
+<i>La Poule d'Or est ici</i>
 
 91
 00:13:14,000 --> 00:13:18,000
-<i>~Hé, poussin !~</i>
+<i>Hé, poulette !</i>
 
 92
 00:13:18,000 --> 00:13:21,090
-<i>~changavi cheera gutu chusukondi~</i>
+<i>changavi cheera gutu chusukondi</i>
 
 93
 00:13:21,090 --> 00:13:26,000
-<i>~Hé, poussin !~</i>
+<i>Hé, poulette !</i>
 
 94
 00:13:39,900 --> 00:13:43,500
-<i>~sapamapadapa padapa padapa~</i>
+<i>sapamapadapa padapa padapa</i>
 
 95
 00:13:43,500 --> 00:13:47,500
-<i>~sapamapadapa sapaa mapaa dapaa~</i>
+<i>sapamapadapa sapaa mapaa dapaa</i>
 
 96
 00:13:47,500 --> 00:13:49,000
-<i>~sapamapadapa~</i>
+<i>sapamapadapa</i>
 
 97
 00:13:49,000 --> 00:13:53,500
-<i>~lève les mains, poussin - sapamapadapa~</i>
+<i>mains en l'air, poulette - sapamapadapa</i>
 
 98
 00:13:53,500 --> 00:13:54,900
-<i>~papapapa~</i>
+<i>papapapa</i>
 
 99
 00:14:02,125 --> 00:14:04,666
-<i>~n'exagère pas, chérie~</i>
+<i>ne vas pas trop loin, chère</i>
 
 100
 00:14:04,666 --> 00:14:09,400
-<i>~c'est là-dedans, dis-moi, dis-moi~</i>
+<i>c'est là-dedans, dis-moi, dis-moi</i>
 
 101
 00:14:09,400 --> 00:14:16,916
-<i>~quand tu regardes, ils gonflent ! Allez, allez~</i>
+<i>quand tu regardes, ils gonflent ! Va, va</i>
 
 102
 00:14:16,916 --> 00:14:24,300
-<i>~Je verrai ta beauté sans vergogne
-entre les espaces~</i>
+<i>Je verrai ta beauté sans vergogne
+entre les interstices</i>
 
 103
 00:14:24,300 --> 00:14:31,500
-<i>~si tu as besoin, je reviendrai ;
-ne me vole pas complètement ma beauté~</i>
+<i>si tu en as besoin, je reviendrai ;
+ne vole pas ma beauté complètement</i>
 
 104
 00:14:31,500 --> 00:14:38,200
-<i>~ levez-vous, les mains en l'air, vérifiez, vérifiez, balancez les genoux,
-dhik dhik dolakutho~</i>
+<i>haut haut, mains en l'air, check check, swing de genoux,
+dhik dhik dolakutho</i>
 
 105
 00:14:38,200 --> 00:14:46,900
-<i>~rightoo zip zip zakaap navire navire
-secoue la musique step step kutho~</i>
+<i>rightoo zip zip zakaap ship ship
+shake up step step music kutho</i>
 
 106
 00:15:16,541 --> 00:15:19,000
-<i>~je te vise, Poule Dorée !~</i>
+<i>visez-toi, Poule d'Or !</i>
 
 107
 00:15:19,000 --> 00:15:22,000
-<i>~qu'est-ce qu'il y a en toi, chérie ?~</i>
+<i>qu'y a-t-il à l'intérieur de toi, chère ?</i>
 
 108
 00:15:22,000 --> 00:15:24,200
-<i>~dis-nous, dis-nous~</i>
+<i>dis-nous, dis-nous</i>
 
 109
 00:15:24,208 --> 00:15:31,190
-<i>~ma beauté se cache,
-enivré par votre contact; allons-y~</i>
+<i>ma beauté se cache,
+enivrée par ton toucher ; allons-y</i>
 
 110
 00:15:31,250 --> 00:15:34,999
-<i>~tu es attrapée, ma poule~</i>
+<i>tu es prise, ma Poule</i>
 
 111
 00:15:35,000 --> 00:15:38,750
-<i>~Sortez ce qui est caché à l'intérieur~</i>
+<i>sors ce qui est caché à l'intérieur</i>
 
 112
 00:15:38,750 --> 00:15:42,333
-<i>~J'ai chaud et je suis dérangé~</i>
+<i>je suis toute émoustillée</i>
 
 113
 00:15:42,333 --> 00:15:45,000
-<i>~prends ce que tu veux~</i>
+<i>prends ce que tu veux</i>
 
 114
 00:15:45,000 --> 00:15:53,000
-<i>~hé hé, levez les mains, vérifiez, vérifiez,
-balancement du genou, dhik dhik dolakutho~</i>
+<i>hé hé, en l'air les mains, check check,
+swing des genoux, dhik dhik dolakutho</i>
 
 115
 00:15:53,000 --> 00:16:00,900
-<i>~ok zip zip check up ship ship
-secoue la musique step step kutho~</i>
+<i>d'accord zip zip, vérifie ship ship
+bouge, step step, musique kutho</i>
 
 116
 00:16:00,900 --> 00:16:08,000
-<i>~La Poule dorée est là !~</i>
+<i>La Poule d'Or est ici !</i>
 
 117
 00:16:08,000 --> 00:16:11,900
-<i>~hé, poussin !~</i>
+<i>hé, poulette !</i>
 
 118
 00:16:11,900 --> 00:16:15,000
-<i>~changavi cheera gutu chusukondi~</i>
+<i>changavi cheera gutu chusukondi</i>
 
 119
 00:16:15,000 --> 00:16:19,900
-<i>~hé, poussin !~</i>
+<i>hé, poulette !</i>
 
 120
 00:16:24,791 --> 00:16:27,975
-Chef! La danse d'un garçon m'a secoué.
+Patron ! La danse d'un garçon m'a secoué.
 
 121
 00:16:27,975 --> 00:16:32,500
 Il est tellement arrogant
-pour entrer dans votre région !
+d'entrer dans votre domaine !
 
 122
 00:16:44,900 --> 00:16:46,500
-~M~!
+~ M ~!
 
 123
 00:16:46,550 --> 00:16:47,000
-~E~!
+~ E ~!
 
 124
 00:16:47,000 --> 00:16:49,000
@@ -527,7 +527,7 @@ pour entrer dans votre région !
 
 125
 00:16:49,090 --> 00:16:51,900
-~Un~!
+~ A ~!
 
 126
 00:16:51,900 --> 00:16:57,500
@@ -536,11 +536,11 @@ pour entrer dans votre région !
 
 127
 00:17:05,500 --> 00:17:07,907
-Salutations, Maître !
+Salut, Maître !
 
 128
 00:17:10,791 --> 00:17:13,915
-Enfant. Tu veux la souder tout de suite ?
+Gamin. Tu veux la souder tout de suite ?
 
 129
 00:17:13,916 --> 00:17:17,250
@@ -548,19 +548,19 @@ Non, Maître. Juste un petit bricolage.
 
 130
 00:17:17,250 --> 00:17:20,900
-- Du bricolage ? - Ouais.
 
+Bricolage ? - Ouais.
 131
 00:17:21,000 --> 00:17:22,666
-C'est quoi cette touffe ?
+C'est quoi cette mèche ?
 
 132
 00:17:22,666 --> 00:17:25,458
-- Style, Maître. - Style?
 
+Du style, Maître. - Du style ?
 133
 00:17:25,458 --> 00:17:27,750
-Faites face à droite !
+Tourne la tête à droite !
 
 134
 00:17:27,750 --> 00:17:29,157
@@ -568,32 +568,32 @@ Un peu plus...
 
 135
 00:17:29,166 --> 00:17:31,207
-Je vais le couper !
+Je vais la couper !
 
 136
 00:17:31,208 --> 00:17:32,625
-- Ta touffe ! - Oh.
 
+Ta mèche ! - Oh.
 137
 00:17:32,625 --> 00:17:35,200
 Voyons, gamin !
 
 138
 00:17:35,200 --> 00:17:37,583
-- Maintenant! - Je t'aime bien!
 
+Maintenant ! - Je t'aime bien !
 139
 00:17:37,583 --> 00:17:40,125
-La danse ne fait pas trembler Bollywood.
+La danse ce n'est pas secouer Bollywood.
 
 140
 00:17:40,125 --> 00:17:44,000
-Les marches doivent faire tomber le toit.
-Droite?
+Les pas doivent faire tomber le toit.
+D'accord ?
 
 141
 00:17:44,000 --> 00:17:47,000
-Je l'ai déjà abattu, Maître.
+Déjà fait tomber, Maître.
 
 142
 00:17:47,000 --> 00:17:49,625
@@ -601,16 +601,16 @@ Ouais.
 
 143
 00:17:49,625 --> 00:17:53,200
-- Talentueux ! - Dans mon sang, Maître.
-- Bougez, patron.
 
+Talentueux ! - C'est dans mon sang, Maître.
+Bouge, Patron.
 144
 00:17:53,200 --> 00:17:56,125
-Pouvez-vous danser mieux que Boss ?
+Peux-tu danser mieux que le Patron ?
 
 145
 00:17:56,125 --> 00:17:58,666
-Pouvez-vous le faire?
+Peux-tu le faire ?
 
 146
 00:17:58,666 --> 00:18:00,125
@@ -618,116 +618,116 @@ Pourquoi me pousser ?
 
 147
 00:18:00,125 --> 00:18:02,790
-- S'il vous plaît, patron.
-- Il me veut pour?
 
+S'il te plaît, Patron.
+Tu veux que je le fasse ?
 148
 00:18:02,791 --> 00:18:05,565
-Alors ok!
+D'accord alors !
 
 149
 00:18:16,000 --> 00:18:19,900
-(extrait du film 'Gharana Mogodu' 1992)
+(de film 'Gharana Mogodu' 1992)
 
 150
 00:18:25,900 --> 00:18:27,900
-L'a tué!
+Bien joué !
 
 151
 00:18:42,208 --> 00:18:45,290
-Ce gamin a l'air...
+Ce gamin a l'air–
 
 152
 00:18:45,291 --> 00:18:46,992
-choqué?!
+choqué ?!
 
 153
 00:18:47,041 --> 00:18:51,620
-- Bouleversant, patron.
-- Merci. Il lui faut une semaine pour récupérer.
+Bouleversant, Patron.
+Merci. Il a besoin d'une semaine pour se remettre.
 
 154
 00:18:51,620 --> 00:18:55,820
-Bois du Boost et repose-toi, mon fils !
+Bois du Boost et repose-toi, fils !
 
 155
 00:18:55,875 --> 00:18:58,900
-Viens, ma poule dorée !
+Viens, ma Poule d'Or !
 
 156
 00:19:00,541 --> 00:19:04,957
-- Ils ne vous dérangeront plus.
-- Merci patron.
+Ils ne te dérangeront plus.
+Merci, Patron.
 
 157
 00:19:07,375 --> 00:19:10,307
-- Poulet! - Quoi?
+Poule ! - Quoi ?
 
 158
 00:19:19,000 --> 00:19:21,500
-<i>Je l'ai tué !</i>
+<i>Bien joué !</i>
 
 159
 00:19:46,666 --> 00:19:51,541
-Oh, mon fils. Tu l'as secouée !
+Oh, fils. Tu l'as secouée !
 Bien joué.
 
 160
 00:19:51,541 --> 00:19:53,166
-Patron, votre part.
+Patron, ta part.
 
 161
 00:19:53,166 --> 00:19:57,874
-Hé, poussin ! Ne croise jamais mon chemin.
+Hé, poulette ! Ne traverse jamais mon chemin.
 
 162
 00:19:58,291 --> 00:20:00,880
-Cela aussi?
+Ça aussi ?
 
 163
 00:20:01,500 --> 00:20:03,000
-  Hyderâbâd  
+– Hyderabad –
 
 164
 00:20:06,350 --> 00:20:07,583
-Avare!
+Radine !
 
 165
 00:20:07,583 --> 00:20:10,416
-Vous avez une auto, pas un taxi.
+Tu as pris un auto, pas un taxi.
 
 166
 00:20:10,416 --> 00:20:13,208
-- Pouvons-nous rejoindre l'aéroport ?
-- Ne t'inquiète pas.
 
+Peut-on atteindre l'aéroport ?
+Ne t'inquiète pas.
 167
 00:20:13,208 --> 00:20:17,165
 Pour ce trafic et notre budget,
-l'auto c'est mieux.
+un auto est mieux.
 
 168
 00:20:17,166 --> 00:20:20,707
 Si nous ne sommes pas à l'heure,
-le budget de votre hôpital va augmenter.
+le budget de ton hôpital va gonfler.
 
 169
 00:20:20,708 --> 00:20:22,375
-Où aller ?
+Où allons-nous ?
 
 170
 00:20:22,375 --> 00:20:25,333
-Bangkok pour les courses de moto
+Bangkok pour des courses de moto
 et des cascades.
 
 171
 00:20:25,333 --> 00:20:27,900
-Votre visage n'est pas celui d'un motard.
+Ton visage ne ressemble pas à celui d'un motard.
 
 172
 00:20:36,500 --> 00:20:40,833
-Mon pote, une fille m'appelle.
-Choisissez-la pour réduire les coûts.
+Mon pote, une fille fait signe.
+Prends-la pour réduire les coûts.
 
 173
 00:20:40,833 --> 00:20:43,900
@@ -735,46 +735,46 @@ Je vais te frapper, pas de problème !
 
 174
 00:20:47,833 --> 00:20:50,499
-Arrête arrête arrête.
+Arrête, arrête, arrête.
 
 175
 00:21:19,791 --> 00:21:22,095
-Copain!
+Mon pote !
 
 176
 00:21:22,166 --> 00:21:24,265
-Copain! Arrêtez l'auto !
+Mon pote ! Arrête l'auto !
 
 177
 00:21:24,375 --> 00:21:26,750
-- Quoi de neuf? - Cette fille...
 
+Qu'est-ce qui se passe ? - Cette fille...
 178
 00:21:26,750 --> 00:21:28,999
-Vous avez dit « non » ?
+Tu as fait signe 'non' ?
 
 179
 00:21:29,100 --> 00:21:31,990
-Fille churidhar blanche...
+Fille en churidhar blanc...
 sans elle...
 
 180
 00:21:32,000 --> 00:21:35,999
-Copain! Je viens.
+Mon pote ! J'arrive.
 
 181
 00:21:36,625 --> 00:21:39,290
-- Il a le sac à main.
-- Reste ici.
+Il a le sac.
+Reste ici.
 
 182
 00:21:39,291 --> 00:21:42,599
-- Allons y! - Asseyez-vous ici!
+Allez ! - Assieds-toi ici !
 
 183
 00:22:18,708 --> 00:22:21,040
-- Voir une fille ici
-dans un churidhar blanc ? - Non.
+Vous avez vu une fille ici
+en churidhar blanc ? - Non.
 
 184
 00:22:21,041 --> 00:22:24,100
@@ -782,7 +782,7 @@ Où est-elle allée ? Excusez-moi.
 
 185
 00:22:24,100 --> 00:22:27,098
-Vous voyez une fille dans un churidhar blanc ?
+Vous avez vu une fille en churidhar blanc ?
 
 186
 00:22:28,660 --> 00:22:31,990
@@ -790,17 +790,17 @@ Où est-elle allée ?
 
 187
 00:22:37,050 --> 00:22:39,700
-Euh...
+Uh...
 
 188
 00:22:39,900 --> 00:22:43,040
-- Excusez-moi. - Oui.
-- Chercher quelqu'un?
+Excusez-moi. - Oui.
+Vous cherchez quelqu'un ?
 
 189
 00:22:43,041 --> 00:22:48,082
-Oui, tout à l'heure, une fille dans un churidhar blanc
-a hélé une auto...
+Oui, à l'instant une fille en churidhar blanc
+a appelé un auto...
 
 190
 00:22:48,083 --> 00:22:51,700
@@ -808,48 +808,48 @@ C'est moi...
 
 191
 00:22:51,800 --> 00:22:54,499
-Pourquoi veux-tu la voir ?
+Pourquoi voulez-vous la voir ?
 
 192
 00:22:54,541 --> 00:22:56,665
-Tu la connais?
+Vous la connaissez ?
 
 193
 00:22:56,666 --> 00:23:00,457
-La connaître? Un peu...
+La connaître ? Un peu...
 
 194
 00:23:00,458 --> 00:23:04,625
-Quelle est son adresse?
-Je vais l'écrire. S'il te plaît.
+Quelle est son adresse ?
+Je vais l'écrire. S'il vous plaît.
 
 195
 00:23:04,625 --> 00:23:08,440
-Bonjour! Pourquoi tu la cherches ?
+Salut ! Pourquoi êtes-vous après elle ?
 
 196
 00:23:08,500 --> 00:23:12,541
-- Eh bien, nous sommes proches.
-- C'est vrai ? - Ouais.
+Eh bien, nous sommes proches.
+Vraiment ? - Ouais.
 
 197
 00:23:12,541 --> 00:23:16,640
-Vous ne connaissez pas son adresse ? Fermer?
+Vous ne connaissez pas son adresse ? Proches ?
 
 198
 00:23:16,833 --> 00:23:21,995
-- C'est une longue histoire.
-- Pas de problème, continue.
+C'est une longue histoire.
+Pas de problème, continuez.
 
 199
 00:23:22,291 --> 00:23:28,900
 Il y a un an, cette fille et moi
-est tombé profondément amoureux.
+sommes tombés profondément amoureux.
 
 200
 00:23:30,125 --> 00:23:34,900
-- Mais son père est un gros ennuyeux.
-- Alésage?
+Mais son père est un grand ennuyeux.
+Ennuyeux ?
 
 201
 00:23:34,916 --> 00:23:37,124
@@ -870,20 +870,20 @@ Elle ne s'appelle pas Rani.
 
 205
 00:23:47,000 --> 00:23:50,900
-Voir? Elle a changé de nom.
+Tu vois ? Elle a changé son nom.
 
 206
 00:23:51,000 --> 00:23:55,707
-- Comment s'appelle-t-elle maintenant ?
-- C'est un escroc.
+Comment s'appelle-t-elle maintenant ?
+C'est un escroc.
 
 207
 00:23:55,708 --> 00:23:59,495
-- Indu (Lune).  - Indu...
+Indu (Lune). - Indu...
 
 208
 00:23:59,583 --> 00:24:02,665
-OK, ce nom va bien. Réglé.
+OK, ce nom me va. Affaire conclue.
 
 209
 00:24:02,666 --> 00:24:04,582
@@ -891,82 +891,82 @@ Son adresse, s'il vous plaît.
 
 210
 00:24:04,583 --> 00:24:07,083
-- Viens avec moi. - Super.
+Venez avec moi. - Super.
 
 211
 00:24:07,083 --> 00:24:08,800
-Tu m'achètes une voiture ?
+Pouvez-vous me trouver un auto ?
 
 212
 00:24:08,800 --> 00:24:12,099
-Désolé, je vais le faire maintenant.
+Désolé, je le fais tout de suite.
 
 213
 00:24:12,100 --> 00:24:17,666
-Un gars m'a discuté,
+Un gars m'a abordée,
 mais pas pour ma robe.
 
 214
 00:24:17,666 --> 00:24:22,374
-- Je vais lui montrer à quel point je suis intelligent.
-- S'il te plaît viens. Allons-y.
+Je vais lui montrer à quel point je suis intelligente.
+S'il vous plaît, venez. Allons-y.
 
 215
 00:24:22,375 --> 00:24:25,880
-Allez. Sois prudent.
+Allez. Faites attention.
 
 216
 00:24:27,208 --> 00:24:28,999
-- Mon pote ! - S'asseoir.
+Mon pote ! - Assieds-toi.
 
 217
 00:24:29,000 --> 00:24:33,099
-Si je suis assis ici,
-comment peut-on être payé ?
+Si je m'assois ici,
+comment pouvez-vous être payé ?
 
 218
 00:24:34,000 --> 00:24:36,900
-Regarde ça?
+Vous voyez ça ?
 
 219
 00:24:36,900 --> 00:24:37,540
-Copain!
+Mon pote !
 
 220
 00:24:37,541 --> 00:24:40,415
--Auto, arrête là !
-- Arrêtez ici.
+Auto, arrête-toi ici !
+Arrête-toi ici.
 
 221
 00:24:40,416 --> 00:24:43,870
-C'est la maison d'Indu ? Indu? Indu!
+Est-ce la maison d'Indu ? Indu ? Indu !
 
 222
 00:24:43,870 --> 00:24:47,300
-Vous vous précipitez trop.
+Tu es trop pressé.
 
 223
 00:24:47,500 --> 00:24:52,900
-- Je ne pouvais pas retenir mon enthousiasme.
-- Payez le tarif. - Oh. Ouais.
+Je n'ai pas pu contenir mon excitation.
+Paie la course. - Oh. Oui.
 
 224
 00:24:53,208 --> 00:24:56,399
-- Aucun changement, monsieur.
-- Pas de problème, garde-le.
+Pas de monnaie, monsieur.
+Pas de problème, gardez-la.
 
 225
 00:24:56,625 --> 00:25:01,580
-Excusez-moi... vous ne parvenez pas à son adresse ?
+Excusez-moi... partir sans son adresse ?
 
 226
 00:25:01,580 --> 00:25:05,000
 Allez tout droit, tournez à gauche ;
-côté droit, 4ème maison.
+à droite, 4ème maison.
 
 227
 00:25:05,000 --> 00:25:06,700
-Oui!
+Oui !
 
 228
 00:25:15,090 --> 00:25:18,900
@@ -974,12 +974,12 @@ Oui!
 
 229
 00:25:19,000 --> 00:25:21,499
-Quoi?
+Quoi ?
 
 230
 00:25:21,583 --> 00:25:26,000
-- S'il te plaît, appelle ta fille ?
-- Pas du tout ; Elle est ma femme.
+Veuillez appeler votre fille ?
+Pas du tout ; c'est ma femme.
 
 231
 00:25:26,000 --> 00:25:28,999
@@ -987,65 +987,64 @@ Le mariage m'a rendu chauve.
 
 232
 00:25:29,000 --> 00:25:30,833
-- Vous vous trompez.
-- J'ai perdu mes cheveux.
+Vous vous trompez.
+J'ai perdu mes cheveux.
 
 233
 00:25:30,833 --> 00:25:33,450
-Je veux dire ta fille, Indu.
+Je parle de votre fille, Indu.
 
 234
 00:25:33,450 --> 00:25:36,200
-<i>Dois-je accoucher
-une fille pour lui ?</i>
+<i>Dois-je lui donner naissance pour lui ?</i>
 
 235
 00:25:36,200 --> 00:25:39,000
-- Quoi? Histoire d'amour ?
+Quoi ? Une histoire d'amour ?
 
 236
 00:25:39,000 --> 00:25:42,183
-- Exactement. - Tu es mon gendre.
-- Oh mon Dieu!
+Exactement. - Vous êtes mon gendre.
+Oh mon Dieu !
 
 237
 00:25:42,183 --> 00:25:45,125
-- Comme tu es gentil et timide !
-- Merci.
+Comme c'est joli que vous soyez timide !
+Merci.
 
 238
 00:25:45,125 --> 00:25:48,125
 Ma fille n'a jamais mentionné
-un gendre sexy.
+un gendre si séduisant.
 
 239
 00:25:48,125 --> 00:25:51,041
 Pas encore engagé.
-Après avoir commis...
+Après l'engagement...
 
 240
 00:25:51,041 --> 00:25:53,500
-- Elle n'est pas engagée ? - Ouais.
-- Vous n'êtes pas engagé ?
+Elle n'est pas encore engagée ? - Oui.
+Vous n'êtes pas engagé ?
 
 241
 00:25:53,500 --> 00:25:57,625
-Pour vous engager, vous êtes là
+Pour m'engager, vous êtes ici
 pour me faire engager.
 
 242
 00:25:57,625 --> 00:26:01,625
-Aller! Mettre en scène une scène ?
+Allez ! Faire une scène ?
 
 243
 00:26:01,625 --> 00:26:05,083
-- Je n'ai pas d'enfants.
-- Pas d'enfants?
+Je n'ai pas d'enfants.
+Pas d'enfants ?
 
 244
 00:26:05,083 --> 00:26:09,540
-- Pourquoi m'envoyer ici ?
-- Bonjour. Essayez ma femme.
+Pourquoi m'envoyer ici ?
+Bonjour. Essayez avec ma femme.
 
 245
 00:26:09,541 --> 00:26:12,200
@@ -1054,7 +1053,7 @@ scène le lendemain,
 
 246
 00:26:12,200 --> 00:26:14,120
-le lendemain, vends-la
+le lendemain vendez-la
 à Bombay.
 
 247
@@ -1063,23 +1062,23 @@ Je chanterai des hymnes.
 
 248
 00:26:16,300 --> 00:26:19,832
-Dehors! Veut une fille !
+Dehors ! Vous voulez une fille !
 Comme si j'avais 2 femmes.
 
 249
 00:26:19,833 --> 00:26:24,000
-Qui sait? Des oncles comme toi
-avoir une maîtresse.
+Qui sait ? Les oncles comme vous
+ont une maîtresse.
 
 250
 00:26:24,000 --> 00:26:27,000
-- Qu'est-ce que tu dis?
-- <i>Allez, mec !</i>
+Que dites-vous ?
+<i>Sortez, mec !</i>
 
 251
 00:26:27,000 --> 00:26:30,500
-Qu'est-ce que vous avez dit?
-De quoi m'accuses-tu ?
+Qu'avez-vous dit ?
+De quoi m'accusez-vous ?
 
 252
 00:26:34,208 --> 00:26:35,870
@@ -1095,12 +1094,12 @@ Quelle idée confortable.
 
 255
 00:26:43,083 --> 00:26:45,800
-Est-elle jolie?
+Est-elle belle ?
 
 256
 00:26:45,833 --> 00:26:50,900
-- Combien de temps dure ta liaison ?
-- Vous me soupçonnez ?
+Depuis combien de temps dure votre affaire ?
+Vous me soupçonnez ?
 
 257
 00:26:50,900 --> 00:26:53,707
@@ -1108,17 +1107,17 @@ Il a monté un faux spectacle.
 
 258
 00:26:53,708 --> 00:26:55,666
-C'est réel!
+C'est vrai !
 
 259
 00:26:55,666 --> 00:27:01,000
-Est-ce que ce gamin serait inutile
-discuter de votre maîtresse ?
+Ce gamin parlerait-il inutilement
+de votre maîtresse ?
 
 260
 00:27:01,000 --> 00:27:04,875
-- Pas de son. - Kaala chérie.
-- Pas de son.
+Pas un mot. - Chéri Kaala.
+Pas un mot.
 
 261
 00:27:04,875 --> 00:27:07,992
@@ -1126,7 +1125,7 @@ Où est cette famille ?
 
 262
 00:27:10,500 --> 00:27:13,083
-Jurer sur Dieu ?
+Jurer devant Dieu ?
 
 263
 00:27:13,083 --> 00:27:17,165
@@ -1134,7 +1133,7 @@ Sur quel Dieu as-tu juré maintenant ?
 
 264
 00:27:24,833 --> 00:27:28,924
-Krishna ? Alors tu as 8 amants ?
+Krishna ? Donc tu as 8 amantes ?
 
 265
 00:27:31,750 --> 00:27:33,707
@@ -1142,38 +1141,38 @@ Seigneur Rama ?
 
 266
 00:27:33,708 --> 00:27:38,082
-Va demander au garçon de dire
-tu n'as pas d'autre femme ni d'autres enfants.
+Va chercher le garçon pour dire
+que tu n'as pas d'autre femme ou enfants.
 
 267
 00:27:38,083 --> 00:27:40,840
 Alors seulement je te laisserai
-dans la maison.
+entrer dans la maison.
 
 268
 00:27:40,875 --> 00:27:44,666
-Ou j'appelle la police
-une affaire de violence domestique
+Sinon j'appellerai la police
+pour violence domestique
 
 269
 00:27:44,666 --> 00:27:48,624
-et te faire battre à coups de matraque.
+et je te ferai battre avec des bâtons.
 
 270
 00:27:49,583 --> 00:27:50,790
-Aller!
+Vas-y !
 
 271
 00:27:50,791 --> 00:27:54,099
-Allez, dis-je !
+Allez, je dis !
 
 272
 00:27:57,000 --> 00:27:58,750
-Vous avez été battu ?
+Tu t'es fait battre ?
 
 273
 00:27:58,750 --> 00:28:01,791
-Vous avez donné la mauvaise adresse.
+Tu as donné la mauvaise adresse.
 
 274
 00:28:01,791 --> 00:28:03,580
@@ -1181,18 +1180,18 @@ Atroce.
 
 275
 00:28:03,583 --> 00:28:07,915
-Atroce? Ce qu'il faut faire,
-votre personnage est inconnu.
+Atroce ? Que faire,
+ton caractère est inconnu.
 
 276
 00:28:07,916 --> 00:28:11,500
-- Et si tu agitais un couteau
-contre elle par amour ? - Moi?
+Et si tu agitais un couteau
+pour l'amour ? - Moi ?
 
 277
 00:28:11,500 --> 00:28:13,683
-- Ou la violer ? - Un viol ?
-- Violer et tuer ? - Tuer?
+Ou la violais ? - La violer ?
+Violer et tuer ? - Tuer ?
 
 278
 00:28:13,683 --> 00:28:16,083
@@ -1200,13 +1199,13 @@ Ou jeter le corps ?
 
 279
 00:28:16,083 --> 00:28:20,415
-Oh mon Dieu! Beau,
-mais un horrible cerveau.
+Oh mon Dieu ! Belle,
+mais un cerveau horrible.
 
 280
 00:28:20,416 --> 00:28:23,916
-- Quoi?
-- Elle est ma vie.
+Quoi ?
+Elle est ma vie.
 
 281
 00:28:23,916 --> 00:28:26,707
@@ -1214,40 +1213,40 @@ Croyez-moi, je ne l'ai jamais touchée.
 
 282
 00:28:26,708 --> 00:28:30,333
-Vous ne l'avez vue qu'aujourd'hui.
+Tu ne l'as vue qu'aujourd'hui.
 Comment la toucher ?
 
 283
 00:28:30,333 --> 00:28:33,791
-Parle moi?
+Me parler ?
 Rien ne s'est passé.
 
 284
 00:28:33,791 --> 00:28:38,990
-Je veux voir Indu une fois. S'il te plaît.
+Je veux voir Indu une fois. S'il vous plaît.
 
 285
 00:28:42,458 --> 00:28:45,199
-Son adresse?
+Son adresse ?
 
 286
 00:28:45,250 --> 00:28:48,200
-Son père n'est-il pas ennuyeux ?
+Son père n'est-il pas un grand ennui ?
 
 287
 00:28:48,200 --> 00:28:50,333
-- Il peut mordre.
-- Grande gueule !
+Il peut mordre.
+Grande bouche !
 
 288
 00:28:50,333 --> 00:28:54,000
-je vais l'amener à
-Restaurant le Jardin des Rochers.
+Je vais l'amener
+au restaurant Rock Garden.
 
 289
 00:28:54,000 --> 00:28:59,999
-- Vraiment. - Viens là.
-- Super. Si gentil de ta part.
+Vraiment. - Viens là.
+Super. Trop gentil de ta part.
 
 290
 00:29:00,330 --> 00:29:02,350
@@ -1255,12 +1254,12 @@ Merci.
 
 291
 00:29:02,350 --> 00:29:03,450
-Oui!
+Oui !
 
 292
 00:29:03,458 --> 00:29:07,900
 Pourquoi es-tu tombé amoureux
-avec une robe de fille ?
+d'une robe de fille ?
 
 293
 00:29:07,900 --> 00:29:10,832
@@ -1268,42 +1267,42 @@ Je dois t'étudier.
 
 294
 00:29:10,833 --> 00:29:14,750
-Mon pote, toucher une fille donne des étincelles.
+Pote, toucher une fille donne des étincelles.
 
 295
 00:29:14,750 --> 00:29:17,891
-- Tu poursuivrais n'importe quelle fille ?
-- Fermez-la. - Trouvons-la.
+Tu poursuivrais n'importe quelle fille ?
+Tais-toi. - Trouvons-la.
 
 296
 00:29:17,891 --> 00:29:21,916
-Ne m'ennuie pas.
-Je suis en colère de ne pas la trouver.
+Ne m'agace pas.
+Je suis fou de ne pas l'avoir trouvée.
 
 297
 00:29:21,916 --> 00:29:25,199
-Cette fois, j'obtiendrai
-tous les détails.
+Cette fois-ci, j'obtiendrai
+toutes les informations.
 
 298
 00:29:25,200 --> 00:29:27,200
-L'automobile est là.
+L'auto est là.
 
 299
 00:29:27,200 --> 00:29:29,000
-Tous mes vœux.
+Bonne chance.
 
 300
 00:29:34,208 --> 00:29:36,800
-<i>Poser ?</i>
+<i>Poser ?</i>
 
 301
 00:29:36,908 --> 00:29:39,550
-Bouquet? Pour moi. Non?
+Bouquet ? Pour moi. Non ?
 
 302
 00:29:39,550 --> 00:29:43,415
-D'ACCORD. Je suis allé trop loin quand
+OK. J'ai été trop loin quand
 tu es venu chez moi ?
 
 303
@@ -1312,128 +1311,128 @@ Bien sûr.
 
 304
 00:29:44,666 --> 00:29:48,250
-- Je t'ai abusé. - Bien sûr.
+Je t'ai maltraité. - Oh que oui.
 
 305
 00:29:48,250 --> 00:29:50,000
-Oh je suis désolé. En fait, je suis désolé.
+Oh, pardon. Je suis vraiment désolé.
 
 306
 00:29:50,000 --> 00:29:54,000
-Dans les moments difficiles, nous bavardons.
+En temps difficiles, nous délirons.
 
 307
 00:29:54,000 --> 00:29:56,199
-Si ça ne te dérange pas, viens avec moi.
+Si tu n'y vois pas d'inconvénient, viens avec moi.
 
 308
 00:29:56,200 --> 00:29:59,999
-Je suis à côté de toi. Quoi de neuf?
+Je suis à tes côtés. Qu'est-ce qui se passe ?
 
 309
 00:30:00,750 --> 00:30:03,965
-S'il te plaît, voir ma femme ?
+S'il te plaît, vois ma femme ?
 
 310
 00:30:04,791 --> 00:30:07,990
-Tournez de ce côté.
+Tourne de ce côté.
 
 311
 00:30:08,500 --> 00:30:12,000
-De quoi j'ai l'air?
+À quoi je ressemble ?
 
 312
 00:30:19,708 --> 00:30:25,999
-Mon pote, les beautés arrivent.
-Comment trouver Indu parmi eux ?
+Pote, les beautés arrivent.
+Comment trouver Indu parmi elles ?
 
 313
 00:30:35,708 --> 00:30:38,500
-Êtes-vous nouveau pour moi ? Se déplacer.
+Tu es nouveau pour moi ? Dégage.
 
 314
 00:30:38,500 --> 00:30:42,850
-- Salut. Harcha. - Ameesha.
-- Salut. Harcha. - Biju.
+Salut. Harsha. - Ameesha.
+Salut. Harsha. - Biju.
 
 315
 00:30:42,850 --> 00:30:45,500
-- Salut.  - Salut.
 
+Salut. - Salut.
 316
 00:30:46,200 --> 00:30:49,200
 Salut.
 
 317
 00:30:53,900 --> 00:30:57,499
-- Salut. - Salut.
 
+Salut. - Salut.
 318
 00:30:59,650 --> 00:31:01,458
-Pourquoi pas d'Indu ?
+Pas d'Indu ?
 
 319
 00:31:01,458 --> 00:31:04,625
-- Elle sera en retard.
-- Zut ! - Bon sang ?
 
+Elle sera en retard.
+Zut ! - Zut ?
 320
 00:31:04,625 --> 00:31:07,707
 'Zut'. Pour une princesse !
 
 321
 00:31:07,708 --> 00:31:11,700
-S'il te plaît, arrête. Viens viens,
+S'il te plaît, arrête. Viens, viens,
 s'il te plaît.
 
 322
 00:31:11,500 --> 00:31:13,080
-<i>Allez !</i>
+<i>Allons-y !</i>
 
 323
 00:31:14,080 --> 00:31:17,000
-Oh mon Dieu! Ils mangent comme des géants.
+Oh mon Dieu ! Ils mangent comme des géants.
 
 324
 00:31:17,666 --> 00:31:21,250
-Leurs tailles et leur inadéquation alimentaire.
+Leur taille et leur appétit ne vont pas ensemble.
 
 325
 00:31:21,250 --> 00:31:24,790
-- Mon pote, une minute. - Quoi?
-- J'ai un doute.
 
+Pote, une minute. - Quoi ?
+J'ai un doute.
 326
 00:31:24,791 --> 00:31:29,500
 Il n'y a pas d'Indu.
-Ils sont venus chercher de la nourriture gratuite.
+Ils sont venus pour la nourriture gratuite.
 
 327
 00:31:29,500 --> 00:31:32,333
-Nous ferons faillite.
-Tu vois son visage ?
+Nous allons faire faillite.
+Regarde son visage ?
 
 328
 00:31:32,333 --> 00:31:34,375
-- Son air rusé ?
-- Là là!
+Son air sournois ?
+Là, là !
 
 329
 00:31:34,375 --> 00:31:36,000
-Qui est-ce?
+Qui est-ce ?
 
 330
 00:31:36,000 --> 00:31:37,375
-- Aah ! - Condamner.
+Aah ! - Zut.
 
 331
 00:31:37,375 --> 00:31:41,000
-- Il pense que nous sommes des mendiants. Se lever!
-- S'il vous plaît, attendez, attendez...
+Il nous prend pour des mendiants. Lève-toi !
+Attends s'il te plaît, attends...
 
 332
 00:31:41,000 --> 00:31:43,290
-Oh! Pourquoi me gifler ?
+Oh ! Pourquoi me gifler ?
 
 333
 00:31:43,291 --> 00:31:45,375
@@ -1441,43 +1440,42 @@ Les amis d'Indu sont nos amis.
 
 334
 00:31:45,375 --> 00:31:47,999
-Respectez-les.
+Respecte-les.
 
 335
 00:31:48,000 --> 00:31:49,415
-Asseyez-vous s'il vous plaît.
+S'il te plaît, assieds-toi.
 
 336
 00:31:49,416 --> 00:31:53,625
-Il nous dissuade de manger.
-Il est comme une pâtisserie rassis.
+Il nous coupe l'appétit.
+Il est comme une pâtisserie rance.
 
 337
 00:31:53,625 --> 00:31:58,099
-Vous êtes modeste. Il a des années
-de la pourriture des aliments. S'en aller.
+Tu es modeste. Il est devenu de la nourriture gâtée. Va-t'en.
 
 338
 00:31:58,099 --> 00:32:01,800
-Tu veux que je parte ?
+Veux-tu que je parte ?
 
 339
 00:32:04,000 --> 00:32:07,199
-Sans aucun doute. Ils sont en freeload.
+Aucun doute. Ils profitent de nous.
 
 340
 00:32:07,200 --> 00:32:09,750
-Il ne peut pas le voir.
+Il ne le voit pas.
 
 341
 00:32:09,750 --> 00:32:12,666
-- Vous comprenez ?
-- Clairement.
+Tu comprends ?
+Clairement.
 
 342
 00:32:12,666 --> 00:32:16,700
-- Dis-le à mon pote.
-- Pourquoi? Je perdrais l'argent de mes factures.
+Dis-le à mon pote.
+Pourquoi ? Je perdrais mon argent de la note.
 
 343
 00:32:20,916 --> 00:32:22,333
@@ -1485,20 +1483,20 @@ Toujours là ?
 
 344
 00:32:22,333 --> 00:32:24,291
-Je la retrouverai à Imax. Viens.
+Je la rencontrerai à Imax. Viens.
 
 345
 00:32:24,291 --> 00:32:30,660
-Non je t'en prie. Par chance,
-si Indu ne trouve personne ici,
+Non, s'il te plaît. Si par hasard,
+Indu ne trouve personne ici,
 
 346
 00:32:30,660 --> 00:32:32,160
-Ce n'est pas bon.
+ce n'est pas bon.
 
 347
 00:32:32,160 --> 00:32:35,995
-Tu vas. J'attendrai.
+Tu y vas. J'attendrai.
 
 348
 00:32:41,000 --> 00:32:43,933
@@ -1506,7 +1504,7 @@ Très clair.
 
 349
 00:32:45,708 --> 00:32:49,333
-À mon avis, ce fort est le vôtre.
+À mon avis, ce fort est à toi.
 
 350
 00:32:49,333 --> 00:32:52,875
@@ -1515,12 +1513,12 @@ n'a aucun droit.
 
 351
 00:32:52,875 --> 00:32:57,375
-Même si c'est le nôtre,
-Je ne peux rien faire.
+Bien que ce soit le nôtre,
+je ne peux rien faire.
 
 352
 00:32:57,375 --> 00:33:01,500
-J'ai parcouru les tribunaux
+J'ai été dans les tribunaux
 pendant 15 ans.
 
 353
@@ -1529,25 +1527,25 @@ Tu ne m'as rencontré que maintenant.
 
 354
 00:33:05,666 --> 00:33:10,790
-Je vais déposer une plainte devant la Cour suprême.
-Vous aurez ce fort.
+Je vais déposer un recours devant
+la Cour Suprême. Tu obtiendras ce fort.
 
 355
 00:33:10,791 --> 00:33:12,500
-  Udaigarh  
+Udaigarh -
 
 356
 00:33:12,900 --> 00:33:15,290
-Défenseur Priyaranjan !
+Avocat Priyaranjan !
 
 357
 00:33:15,291 --> 00:33:18,165
-Ce foutu gars est dangereux.
+Ce gars est vraiment dangereux.
 
 358
 00:33:18,166 --> 00:33:23,900
-Sa prise en charge de cette affaire
-est très mauvais.
+C'est très mauvais
+qu'il prenne cette affaire.
 
 359
 00:33:23,900 --> 00:33:27,090
@@ -1556,68 +1554,68 @@ Nous allons perdre le fort.
 360
 00:33:28,250 --> 00:33:31,990
 Salutations, seigneur !
-Votre fils est là !
+Ton fils est ici !
 
 361
 00:33:35,350 --> 00:33:38,457
-Comment connaissait-il l'avocat ?
+Comment sait-il pour l'avocat ?
 
 362
 00:33:38,458 --> 00:33:43,120
-Monsieur, monsieur. J'ai pris cette affaire par surprise.
+Monsieur, monsieur. J'ai accepté ce cas sans le savoir.
 
 363
 00:33:43,120 --> 00:33:48,400
-Je vais rester en dehors de ça.
-Laisse-moi tranquille. S'il vous plait, Monsieur.
+Je vais m'en retirer.
+Laisse-moi tranquille. S'il te plaît, monsieur.
 
 364
 00:33:53,166 --> 00:33:59,000
 Pardonne-moi. J'ai une femme et des enfants.
-S'il vous plait, Monsieur.
+S'il te plaît, monsieur.
 
 365
 00:33:59,000 --> 00:34:02,290
-Monsieur. S'il vous plait, Monsieur. S'il vous plait, Monsieur.
+Monsieur. S'il te plaît, monsieur. S'il te plaît, monsieur.
 
 366
 00:34:02,291 --> 00:34:06,240
-Monsieur, dites-lui de me laisser tranquille.
+Monsieur, dis-lui de me laisser tranquille.
 S'il te plaît...
 
 367
 00:34:06,250 --> 00:34:11,900
-Monsieur, monsieur, dites-lui de me quitter.
-S'il vous plait, Monsieur...
+Monsieur, monsieur, dis-lui de me laisser tranquille.
+S'il te plaît...
 
 368
 00:34:12,125 --> 00:34:13,990
-Fuyez!
+Fuis !
 
 369
 00:34:14,090 --> 00:34:17,199
-Courir!
+Fuis !
 
 370
 00:35:07,083 --> 00:35:14,165
-Si je décide que quelque chose m'appartient,
+Si je décide que quelque chose est à moi,
 alors je dois l'obtenir.
 
 371
 00:35:14,166 --> 00:35:17,995
-C’était acquis d’avance.
+C'était une conclusion inévitable.
 
 372
 00:35:18,000 --> 00:35:21,290
-Il en reste encore un.
+Il en reste encore une.
 
 373
 00:35:21,291 --> 00:35:22,999
-Un de plus? Quoi?
+Une autre ? Quoi ?
 
 374
 00:35:23,000 --> 00:35:26,100
-Encore une personne à quitter.
+Il reste une personne à aller.
 
 375
 00:35:26,125 --> 00:35:28,999
@@ -1630,37 +1628,37 @@ Pratap Varma.
 
 377
 00:35:43,125 --> 00:35:45,199
-- Bye Papa.
-- Où aller ?
+Au revoir, papa.
+Où vas-tu ?
 
 378
 00:35:45,200 --> 00:35:48,874
-Mon bouc émissaire attend. Au revoir.
+Mon bouc émissaire m'attend. Au revoir.
 
 379
 00:35:48,875 --> 00:35:53,199
-Tuez Indira pour y mettre fin.
+Tue Indira pour en finir.
 
 380
 00:35:56,166 --> 00:36:00,599
-- Sœur, fleur, s'il te plaît.
-- Tu veux une fleur ?
+Sœur, une fleur, s'il te plaît.
+Tu veux une fleur ?
 
 381
 00:36:20,916 --> 00:36:23,700
-Prends-le... Est-ce que c'est bon ?
+Prends... C'est bon ?
 
 382
 00:36:23,700 --> 00:36:25,974
-- Au revoir. - Au revoir.
+Au revoir. - Au revoir.
 
 383
 00:36:30,250 --> 00:36:31,707
-Qu'est-ce qu'il y a, mon fils ?
+Qu'est-ce que c'est, mon fils ?
 
 384
 00:36:31,708 --> 00:36:36,580
-Indira (Beauté) est devenue si belle.
+Indira (la beauté) est devenue si belle.
 
 385
 00:36:36,580 --> 00:36:38,165
@@ -1668,8 +1666,8 @@ Je la veux.
 
 386
 00:36:38,166 --> 00:36:41,707
-OK, finis-le.
-Ayez-la ce soir.
+D'accord, achève-le.
+Aie-la ce soir.
 
 387
 00:36:41,708 --> 00:36:49,790
@@ -1678,13 +1676,13 @@ jour et nuit, toute ma vie.
 
 388
 00:36:49,791 --> 00:36:52,665
-- Je veux la marier.
-- Se marier ?
+Je veux l'épouser.
+Épouser ?
 
 389
 00:36:52,666 --> 00:36:56,995
-Es-tu fou?
-Il ne sera pas d'accord tant que je vivrai.
+Es-tu fou ?
+Il n'acceptera pas tant que je serai en vie.
 
 390
 00:37:05,416 --> 00:37:08,582
@@ -1696,20 +1694,20 @@ Si je décide que quelque chose m'appartient,
 
 392
 00:37:12,041 --> 00:37:15,125
-Je dois l'obtenir, Père.
+je dois l'obtenir, père.
 
 393
 00:37:15,125 --> 00:37:17,800
-Oncle!
+Oncle !
 
 394
 00:37:28,833 --> 00:37:34,000
-Vous devriez vivre comme un Maharaja.
-Ce...
+Tu devrais vivre comme un Maharaja.
+Ceci...
 
 395
 00:37:34,000 --> 00:37:35,500
-Raghuveer?
+Raghuveer ?
 
 396
 00:37:35,500 --> 00:37:41,000
@@ -1722,32 +1720,32 @@ Il ne m'a pas écouté.
 
 398
 00:37:43,450 --> 00:37:48,915
-Il a usurpé votre propriété.
+Il a usurpé ta propriété.
 Ce péché lui a coûté la vie.
 
 399
 00:37:48,916 --> 00:37:51,832
-Qu'est-ce que vous avez dit?
+Que dis-tu ?
 
 400
 00:37:51,833 --> 00:37:56,098
-Oui, mon oncle. Père est mort.
+Oui, oncle. Père est mort.
 
 401
 00:37:57,390 --> 00:37:59,125
-Dieu!
+Mon Dieu !
 
 402
 00:37:59,125 --> 00:38:01,790
-Je n'ai que toi, mon oncle.
+Je n'ai que toi, oncle.
 
 403
 00:38:01,791 --> 00:38:05,999
-Le fort est à vous.
+Le fort est à toi.
 
 404
 00:38:06,000 --> 00:38:08,999
-J'ai de la chance si je suis avec toi.
+Je suis chanceux si je suis avec toi.
 
 405
 00:38:09,000 --> 00:38:11,499
@@ -1755,7 +1753,7 @@ Je ne veux rien d'autre.
 
 406
 00:38:11,833 --> 00:38:14,790
-Si ton père avait ton Dieu,
+Si ton père avait eu ta bonté,
 
 407
 00:38:14,791 --> 00:38:17,540
@@ -1763,58 +1761,58 @@ nos familles ne se seraient pas séparées.
 
 408
 00:38:17,541 --> 00:38:21,900
-Dieu merci, nous sommes unis maintenant.
+Merci à Dieu que nous soyons réunis maintenant.
 
 409
 00:38:24,041 --> 00:38:28,705
-Ça suffit, mon oncle.
+C'est assez, oncle.
 Où est Indu ?
 
 410
 00:38:28,708 --> 00:38:33,458
-Juste des billets de cinéma, ou
-polaire davantage ton amant ?
+Juste des tickets de cinéma, ou
+tu dépouilles davantage ton amoureux ?
 
 411
 00:38:33,458 --> 00:38:36,990
-Laissez-moi voir combien il peut en supporter.
+Laisse-moi voir ce qu'il peut supporter.
 
 412
 00:38:37,041 --> 00:38:41,082
 Forme ravissante !
-Mec! Belle figurine !
+Mec ! Jolie silhouette !
 
 413
 00:38:41,083 --> 00:38:43,832
-- Ça va être bouleversant avec elle.
-- Oui.
+Ça va éclater avec elle.
+Oui.
 
 414
 00:38:43,833 --> 00:38:47,875
-- Une silhouette sexy ! Bébé!
-- Elle court.
 
+Silhouette sexy ! Chérie !
+Elle court.
 415
 00:38:47,875 --> 00:38:51,999
-- Quelle nuisance.
-- Aller se faire cuire un œuf.
+Quel embêtement.
+Dégage.
 
 416
 00:38:55,250 --> 00:38:58,165
-Pourquoi des vieux visages ? Où est Indu ?
+Pourquoi des visages vieux ? Où est Indu ?
 
 417
 00:38:58,166 --> 00:39:01,999
-- Ils ont fait des commentaires horribles.
-- OMS?
+Ils ont fait des commentaires horribles.
+Qui ?
 
 418
 00:39:03,041 --> 00:39:06,040
-La jeunesse...très courante. Indu...?
+Jeunesse... très courant. Indu... ?
 
 419
 00:39:06,041 --> 00:39:07,333
-Vous savez ce qu'ils ont dit ?
+Tu sais ce qu'ils ont dit ?
 
 420
 00:39:07,333 --> 00:39:11,250
@@ -1822,21 +1820,21 @@ Ils diraient que nous devons...
 
 421
 00:39:11,250 --> 00:39:13,915
-Oublie les.
-Concentrez-vous sur notre affaire.
+Oublie-les.
+Concentrons-nous sur notre affaire.
 
 422
 00:39:13,916 --> 00:39:17,120
-Quand Indu sera-t-il là ? S'il te plaît.
+Quand Indu sera-t-elle ici ? S'il te plaît.
 
 423
 00:39:17,125 --> 00:39:19,207
-- Indu ne viendra jamais.
-- Pourquoi?
+Indu ne viendra jamais.
+Pourquoi ?
 
 424
 00:39:19,208 --> 00:39:23,090
-Ils ont fait des commentaires pires sur elle.
+Ils ont fait des commentaires encore pires sur elle.
 
 425
 00:39:26,900 --> 00:39:27,999
@@ -1844,11 +1842,11 @@ Ton...
 
 426
 00:39:34,541 --> 00:39:37,790
-Hé, tu as fini...
+Hé, tu es fini...
 
 427
 00:39:41,791 --> 00:39:44,990
-Pourquoi partez-vous?
+Pourquoi pars-tu ?
 
 428
 00:39:45,998 --> 00:39:48,632
@@ -1856,20 +1854,20 @@ Hé, fou...
 
 429
 00:39:55,458 --> 00:39:59,999
-Vous osez dénigrer Indu ?
+Tu oses dénigrer Indu ?
 
 430
 00:40:00,875 --> 00:40:04,099
-- T'es qui mec?
-- Où est-ce que tu t'enfuis ?
+Qui es-tu, mec ?
+Où t'enfuis-tu ?
 
 431
 00:40:04,108 --> 00:40:05,666
-Osez faire passer des commentaires !
+Ose passer des commentaires !
 
 432
 00:40:05,666 --> 00:40:10,949
-<i>~ Je t'aime bien ~</i>
+<i>~ Je t'aime ~</i>
 
 433
 00:40:15,791 --> 00:40:21,790
@@ -1881,12 +1879,12 @@ Il a ignoré tes larmes
 
 435
 00:40:24,250 --> 00:40:28,590
-mais il les a battus
+mais il les a frappés
 pour avoir dénigré Indu.
 
 436
 00:40:28,800 --> 00:40:31,400
-Es tu amoureuse?
+Es-tu amoureux ?
 
 437
 00:40:31,500 --> 00:40:33,700
@@ -1894,11 +1892,11 @@ Dis-lui que tu es Indu ?
 
 438
 00:40:33,700 --> 00:40:35,100
-Il arrive. Aller.
+Il arrive. Va.
 
 439
 00:40:35,100 --> 00:40:37,900
-Aller se faire cuire un œuf.
+Dégage.
 
 440
 00:40:38,333 --> 00:40:40,375
@@ -1907,11 +1905,11 @@ Ils ne taquineront plus Indu.
 441
 00:40:40,375 --> 00:40:43,790
 Dis à Indu qu'ils sont partis
-et venir ?
+et qu'elle vienne ?
 
 442
 00:40:43,791 --> 00:40:46,207
-- J'ai déjà téléphoné. - Merci.
+J'ai déjà téléphoné. - Merci.
 
 443
 00:40:46,208 --> 00:40:48,900
@@ -1919,26 +1917,26 @@ Elle viendra au parc.
 
 444
 00:40:50,916 --> 00:40:53,290
-- Hé. Elle viendra ?
-- Oui.
+Hé. Elle viendra ?
+Oui.
 
 445
 00:40:53,290 --> 00:40:55,900
-- Bien sûr? - Bien-sûr. - D'ACCORD.
+Sûr ? - Sûr, sûr. - OK.
 
 446
 00:41:00,708 --> 00:41:07,000
-- Hé. Elle vient, c'est sûr, n'est-ce pas ?
-- Ouais. - D'ACCORD.
+Hé. Elle vient sûrement, hein ?
+Oui. - OK.
 
 447
 00:41:17,550 --> 00:41:19,200
-Aie!
+Aïe !
 
 448
 00:41:19,208 --> 00:41:23,099
-- Gardez vos distances.
-- Pourquoi?
+Maintiens tes distances.
+Pourquoi ?
 
 449
 00:41:23,333 --> 00:41:27,375
@@ -1947,7 +1945,7 @@ tu es belle.
 
 450
 00:41:27,375 --> 00:41:30,800
-Au moment où tu es proche,
+Dès que tu seras proche,
 Indu pourrait venir.
 
 451
@@ -1957,43 +1955,43 @@ quelque chose entre nous. Oh mon Dieu.
 
 452
 00:41:33,208 --> 00:41:35,999
-- Nous n'en avons pas besoin. Gardez un écart.
-- OK OK.
+Nous n'avons pas besoin de ça. Garde une distance.
+D'accord, d'accord.
 
 453
 00:41:36,000 --> 00:41:38,965
-- Assez? - Super.
+Assez ? - Super.
 
 454
 00:41:39,375 --> 00:41:42,499
-Que fais-tu?
+Que fais-tu ?
 
 455
 00:41:42,500 --> 00:41:44,999
-- Courses de moto. - Oh ho.
+Courses de moto. - Oh ho.
 
 456
 00:41:45,098 --> 00:41:50,770
-- Combien gagnes tu?
-- Ne demandez jamais les gains d'un homme.
+Combien tu gagnes ?
+Ne demande jamais le salaire d'un homme.
 
 457
 00:41:50,830 --> 00:41:57,458
-- Avez-vous économisé un solde bancaire ?
-- J'en ai assez.
+As-tu épargné un solde bancaire ?
+J'ai assez.
 
 458
 00:41:57,458 --> 00:42:01,500
-J'épouserai Indu.
+Je vais épouser Indu.
 
 459
 00:42:01,666 --> 00:42:07,250
-- En fait, avant Indu, des histoires d'amour ?
-- Quoi?
+En fait, avant Indu, des histoires d'amour ?
+Quoi ?
 
 460
 00:42:07,250 --> 00:42:08,790
-N'importe lequel?
+Des ?
 
 461
 00:42:08,791 --> 00:42:14,583
@@ -2002,37 +2000,37 @@ Pas d'histoires d'amour.
 
 462
 00:42:14,583 --> 00:42:19,082
-- Quel genre?
-- Le type....
+Quel type ?
+Le type....
 
 463
 00:42:19,083 --> 00:42:21,583
-Vous ne pouvez pas vous attendre à des détails.
+Tu ne peux pas attendre les détails.
 
 464
 00:42:21,583 --> 00:42:25,900
-- Bien. Votre opinion amoureuse de moi.
-- Un courtier.
+D'accord. Ton opinion amoureuse de moi.
+Un courtier.
 
 465
 00:42:25,900 --> 00:42:28,250
-- Quoi?! - Tu as mal compris.
+Quoi ?! - Tu as mal compris.
 
 466
 00:42:28,250 --> 00:42:31,375
-Un courtier fédère les amoureux.
+Un courtier unit les amoureux.
 
 467
 00:42:31,375 --> 00:42:34,082
-Pourquoi Indu n'est-il pas venu ?
+Pourquoi Indu n'est-elle pas venue ?
 
 468
 00:42:34,083 --> 00:42:35,540
-- Oh merde! - Quoi?
+Oh mince ! - Quoi ?
 
 469
 00:42:35,541 --> 00:42:39,200
-Je lui ai dit à Sanjeevaiah Park.
+Je lui ai dit Sanjeevaiah Park.
 
 470
 00:42:39,458 --> 00:42:42,099
@@ -2044,12 +2042,12 @@ Pourquoi ne pas lui dire que tu es Indu ?
 
 472
 00:42:48,291 --> 00:42:51,750
-- Personne n'a cette chance.
-- Quelle chance ?
+Personne n'a cette chance.
+Quelle chance ?
 
 473
 00:42:51,750 --> 00:42:55,500
-Je vois mon amour aspirer à moi.
+Je vois mon amour aspirer pour moi.
 
 474
 00:42:55,500 --> 00:42:59,000
@@ -2057,7 +2055,7 @@ Quelle chance.
 
 475
 00:42:59,666 --> 00:43:03,332
-La façon dont il aspire à moi
+La façon dont il aspire pour moi
 et s'inquiète pour moi.
 
 476
@@ -2067,7 +2065,7 @@ C'est si bon.
 
 477
 00:43:28,375 --> 00:43:36,625
-<i>~ c'est bon, tout va bien ~</i>
+<i>~ c'est bon, si bon ~</i>
 
 478
 00:43:36,625 --> 00:43:40,707
@@ -2076,17 +2074,17 @@ c'est bon ~</i>
 
 479
 00:43:40,708 --> 00:43:44,950
-<i>~ quand tu deviens fou de moi,
+<i>~ quand tu deviens fou pour moi,
 c'est bon ~</i>
 
 480
 00:43:44,950 --> 00:43:49,000
-<i>~ quand tu te tires les cheveux
-pour moi, c'est bien ~</i>
+<i>~ quand tu tires tes cheveux
+pour moi, c'est bon ~</i>
 
 481
 00:43:49,000 --> 00:43:53,080
-<i>~ quand tu deviens fou de moi,
+<i>~ quand tu deviens fou pour moi,
 c'est bon ~</i>
 
 482
@@ -2101,23 +2099,23 @@ c'est bon ~</i>
 
 484
 00:44:01,416 --> 00:44:05,374
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ je suis fou de toi, c'est bon ~</i>
 
 485
 00:44:05,375 --> 00:44:09,999
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ je suis fou de toi, c'est bon ~</i>
 
 486
 00:44:10,000 --> 00:44:13,000
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ je suis fou de toi, c'est bon ~</i>
 
 487
 00:44:13,000 --> 00:44:18,000
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ je suis fou de toi, c'est bon ~</i>
 
 488
 00:44:47,100 --> 00:44:52,900
-<i>~ au KBR Park tu fais du jogging ~</i>
+<i>~ au parc KBR, tu fais du jogging ~</i>
 
 489
 00:44:52,900 --> 00:44:57,450
@@ -2126,17 +2124,17 @@ c'est bon ~</i>
 490
 00:44:57,458 --> 00:45:02,990
 <i>~ dans les rues froides de Suisse,
-parlant en français ~</i>
+en parlant français ~</i>
 
 491
 00:45:03,541 --> 00:45:07,870
-<i>~ tu manges un hamburger,
-J'ai des informations ~</i>
+<i>~ tu manges un burger,
+j'ai des informations ~</i>
 
 492
 00:45:07,875 --> 00:45:16,150
 <i>~ tu dormiras sur un lit de fleurs
-en mer profonde, c'est mon calcul ~</i>
+au fond de la mer, c'est mon calcul ~</i>
 
 493
 00:45:16,166 --> 00:45:20,300
@@ -2145,136 +2143,136 @@ avec moi en public ~</i>
 
 494
 00:45:20,300 --> 00:45:26,600
-<i>~ Je pense que c'est cache-cache
-avec moi, c'est ton intention ~</i>
+<i>~ Je pense que jouer à cache-cache
+avec moi est ton intention ~</i>
 
 495
 00:45:26,600 --> 00:45:30,000
 <i>~ Je suis fou de toi...
-c'est bon ~</i>
+c'est bien ~</i>
 
 496
 00:45:30,000 --> 00:45:34,900
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ Je suis fou de toi, c'est bien ~</i>
 
 497
 00:45:34,900 --> 00:45:38,900
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ Je suis fou de toi, c'est bien ~</i>
 
 498
 00:45:38,900 --> 00:45:43,900
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ Je suis fou de toi, c'est bien ~</i>
 
 499
 00:45:55,900 --> 00:45:57,500
-- Salut, Indu. - Hein?
+Hé, Indu. - Hein ?
 
 500
 00:45:57,500 --> 00:46:01,000
-- Oh. Oh, désolé, désolé.
-- Idiot.
+Oh. Oh, désolé, désolé.
+Idiot.
 
 501
 00:46:01,000 --> 00:46:03,700
-Peux tu voir? Peux tu voir?
+Tu vois ? Tu vois ?
 
 502
 00:46:03,750 --> 00:46:07,875
 <i>~ en voyant une fille,
-Je pensais que c'était toi ~</i>
+j'ai pensé que c'était toi ~</i>
 
 503
 00:46:07,875 --> 00:46:13,099
 <i>~ mais après avoir su que ce n'était pas toi,
-Je suis parti déprimé ~</i>
+je suis parti déçu ~</i>
 
 504
 00:46:14,083 --> 00:46:22,999
-<i>~ Avez-vous déjà pensé que
-elle ne pouvait être qu'à côté de toi ? ~</i>
+<i>~ As-tu jamais pensé
+qu'elle pourrait être tout près de toi ? ~</i>
 
 505
 00:46:24,041 --> 00:46:28,290
 <i>~ Je pense à elle, je rêve d'elle,
-Je veux passer ma vie avec elle ~</i>
+je veux passer ma vie avec elle ~</i>
 
 506
 00:46:28,291 --> 00:46:34,900
-<i>~ une beauté si proche et si loin ;
-quand vais-je la retrouver ? ~</i>
+<i>~ une beauté si proche mais si loin ;
+quand la trouverai-je ? ~</i>
 
 507
 00:46:34,900 --> 00:46:38,900
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ Je suis fou de toi, c'est bien ~</i>
 
 508
 00:46:38,900 --> 00:46:43,000
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ Je suis fou de toi, c'est bien ~</i>
 
 509
 00:46:43,000 --> 00:46:46,100
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ Je suis fou de toi, c'est bien ~</i>
 
 510
 00:46:46,100 --> 00:46:51,000
-<i>~ Je suis folle de toi, c'est bien ~</i>
+<i>~ Je suis fou de toi, c'est bien ~</i>
 
 511
 00:46:59,166 --> 00:47:01,625
-Votre cousin, Raghuveer.
+Ton cousin, Raghuveer.
 
 512
 00:47:01,625 --> 00:47:04,700
-Il est venu nous rendre nos richesses.
+Il est venu rendre notre richesse.
 
 513
 00:47:12,200 --> 00:47:18,833
-Indu, cette maison d'hôtes d'Hyderabad est grande.
-Pensez à notre fort du Rajasthan.
+Indu, cette maison d'hôtes à Hyderabad est grande.
+Pense à notre fort du Rajasthan.
 
 514
 00:47:18,833 --> 00:47:23,099
 Mon rêve de te voir là-bas
-sera accompli.
+sera réalisé.
 
 515
 00:47:25,200 --> 00:47:26,915
-Qu'est-ce que c'est?
+Qu'est-ce que c'est ?
 
 516
 00:47:26,916 --> 00:47:29,415
-La richesse ne m'intéresse pas.
+Je ne suis pas intéressée par la richesse.
 
 517
 00:47:29,416 --> 00:47:35,750
 Mais après si longtemps,
-Je vois mon père si heureux.
+je vois mon père si heureux.
 
 518
 00:47:35,750 --> 00:47:39,284
-- Grand merci. - C'est bon.
+Merci beaucoup. - Ça va.
 
 519
 00:47:39,333 --> 00:47:42,375
-Oncle. Pourquoi attendre? Allez-y demain.
+Oncle. Pourquoi attendre ? Partez demain.
 
 520
 00:47:42,375 --> 00:47:45,990
-Demain? Allons-y dans une semaine.
+Demain ? Allons-y dans une semaine.
 
 521
 00:47:46,000 --> 00:47:49,124
-- J'ai du travail à faire.
-- Quel travail?
+J'ai du travail à faire.
+Quel travail ?
 
 522
 00:47:49,125 --> 00:47:53,999
-- Mes examens doivent se terminer.
-- D'ACCORD. Oui.
+Mes examens doivent se terminer.
+D'accord. Oui.
 
 523
 00:48:53,000 --> 00:48:55,550
-Ghora!
+Ghora !
 
 524
 00:49:00,041 --> 00:49:04,207
@@ -2283,17 +2281,17 @@ mais je ne pouvais pas la toucher.
 
 525
 00:49:04,208 --> 00:49:09,999
-J'ai senti quelqu'un me décapiter.
+Je sentais quelqu'un me décapiter.
 Je deviens fou.
 
 526
 00:49:10,083 --> 00:49:15,207
-Colère de tuer de mes propres mains.
+Colère pour tuer de mes propres mains.
 Vengeance inconnue dans mon cœur.
 
 527
 00:49:15,208 --> 00:49:20,007
-Qui est-ce qui se met entre nous ?
+Qui vient entre nous ?
 J'ai besoin d'une réponse.
 
 528
@@ -2303,20 +2301,20 @@ sans réponses.
 
 529
 00:49:45,791 --> 00:49:48,415
-Aimer le désir
+Amour passionnel–
 
 530
 00:49:48,416 --> 00:49:55,500
-4 siècles
-désir inassouvi.
+Désir non réalisé vieux
+de 4 siècles.
 
 531
 00:49:55,500 --> 00:49:59,200
-Il y a environ 400 ans,
+Environ 400 ans auparavant,
 
 532
 00:49:59,200 --> 00:50:05,999
-tu étais le commandant en chef
+tu étais le Commandant en Chef
 de l'armée d'Udaigarh.
 
 533
@@ -2325,46 +2323,46 @@ C'est ta vie passée.
 
 534
 00:50:16,375 --> 00:50:21,500
-Renaître après 400 ans ?
-Je ne peux pas croire ça.
+Revenir après 400 ans ?
+Je n'arrive pas à y croire.
 
 535
 00:50:21,500 --> 00:50:23,160
-Idiot!
+Fou !
 
 536
 00:50:23,166 --> 00:50:27,666
-C'est celui d'Udaigarh
-des documents historiques.
+Ce sont les archives historiques
+d'Udaigarh.
 
 537
 00:50:27,666 --> 00:50:36,499
-Voici celui de Rani (Princesse) Mithravinda
-portrait. La reconnaître ?
+Voici le portrait de Rani (Princesse) Mithravinda.
+La reconnais-tu ?
 
 538
 00:50:41,166 --> 00:50:47,949
-Vous étiez Ranadev Billa
+Tu étais Ranadev Billa
 qui est mort fou d'elle.
 
 539
 00:50:48,208 --> 00:50:52,333
-Ce désir t’a fait renaître.
+Ce désir t'a fait renaître.
 
 540
 00:50:52,333 --> 00:50:59,199
-Ce fort désir te fait
-faire n'importe quoi pour elle.
+Cette forte passion te fait
+tout faire pour elle.
 
 541
 00:50:59,916 --> 00:51:07,999
-Comme toi, il est né de nouveau
+Comme toi, il est revenu
 pour récupérer ce qu'il a perdu.
 
 542
 00:51:10,000 --> 00:51:15,500
-Pendant qu'il est en vie,
-tu ne peux jamais la toucher.
+Tant qu'il est vivant,
+tu ne pourras jamais la toucher.
 
 543
 00:51:15,500 --> 00:51:23,994
@@ -2373,8 +2371,8 @@ tu dois le tuer.
 
 544
 00:51:28,166 --> 00:51:32,790
-Son visage n'est pas clair.
-Où est-il maintenant?
+Son visage est flou.
+Où est-il maintenant ?
 
 545
 00:51:32,791 --> 00:51:36,540
@@ -2382,11 +2380,11 @@ La femme qui t'a fait revenir
 
 546
 00:51:36,541 --> 00:51:41,400
-vous fera rencontrer.
+te fera le rencontrer.
 
 547
 00:51:41,400 --> 00:51:47,540
-Comme lors de vos naissances précédentes,
+Comme dans tes vies précédentes,
 vous vous battrez pour elle.
 
 548
@@ -2395,17 +2393,17 @@ Comment le trouver ?
 
 549
 00:51:49,375 --> 00:51:55,375
-La nature sentira votre inimitié
-avant vous deux.
+La nature sentira votre hostilité
+avant même que vous ne le fassiez.
 
 550
 00:51:55,375 --> 00:52:01,665
-Quand vous vous retrouvez face à face,
+Quand vous vous ferez face,
 les oiseaux s'envoleront.
 
 551
 00:52:01,666 --> 00:52:06,000
-Le soleil rouge va noircir.
+Le soleil rouge s'assombrira.
 
 552
 00:52:06,000 --> 00:52:12,400
@@ -2414,21 +2412,21 @@ un volcan en éruption.
 
 553
 00:52:12,400 --> 00:52:16,999
-Il s'appelle Bhairava.
+Il est Bhairava.
 
 554
 00:52:20,291 --> 00:52:23,332
-- Salim bhai, 2 thés.
-- 2 thés.
 
+Salim bhai, 2 thés.
+2 thés.
 555
 00:52:23,375 --> 00:52:26,707
-Mon pote, va voir les chevaux de la police.
+Pal, regarde les chevaux de police.
 
 556
 00:52:26,708 --> 00:52:31,907
-Si nous les chevauchions,
-n'importe quelle fille tombera amoureuse de nous.
+Si nous les montions,
+n'importe quelle fille tomberait pour nous.
 
 557
 00:52:31,908 --> 00:52:34,125
@@ -2437,7 +2435,7 @@ si tu tombes,
 
 558
 00:52:34,125 --> 00:52:37,290
-imaginez un cheval qui vous donne des coups de pied.
+imagine un cheval te donnant un coup de pied.
 
 559
 00:52:37,291 --> 00:52:42,125
@@ -2446,52 +2444,52 @@ comme Robin des Bois.
 
 560
 00:52:42,125 --> 00:52:45,665
-Vous vous êtes trompé de bœufs.
+Tu confonds avec des bœufs.
 
 561
 00:52:45,666 --> 00:52:48,707
-Oh! Ce ne sont pas les mêmes ?
+Oh ! Ce n'est pas pareil ?
 
 562
 00:52:48,708 --> 00:52:53,666
-- Vous avez peur des chevaux ? Vous n’en avez jamais monté ?
-- Non, je ne peux pas.
+Peur des chevaux ? Jamais monté ?
+Non. Je ne peux pas.
 
 563
 00:52:53,666 --> 00:52:59,625
-Prenez une voiture ou une moto.
+Prends une voiture ou une moto.
 Pourquoi un cheval ou un âne ?
 
 564
 00:52:59,625 --> 00:53:02,040
-Âne? Cela signifie Buffalo.
+Âne ? Ça veut dire buffle.
 
 565
 00:53:02,041 --> 00:53:05,900
-Un mot Telugu a plusieurs
-Significations anglaises.
+Un mot telugu a beaucoup
+de significations en anglais.
 
 566
 00:53:06,166 --> 00:53:11,800
 Madame a été vue avec
-un jeune homme, Harsha, dans ce quartier.
+un jeune homme, Harsha, dans cette région.
 
 567
 00:53:14,875 --> 00:53:20,750
-Recherchez n'importe qui dans n'importe quel endroit
-nommé Harsha. Apporte-les.
+Recherchez partout pour toute personne
+nommée Harsha. Amenez-les.
 
 568
 00:53:20,750 --> 00:53:23,990
-Allez le trouver. Aller.
+Allez les trouver. Allez.
 
 569
 00:53:25,666 --> 00:53:30,199
-Bonjour chef. Vous pouvez vous asseoir ici.
+Bonjour, patron. Vous pouvez vous asseoir ici.
 
 570
 00:53:34,625 --> 00:53:38,999
-- Quel est ton nom? - Hein?
+Comment vous appelez-vous ? - Hein ?
 
 571
 00:53:40,400 --> 00:53:43,250
@@ -2499,24 +2497,24 @@ Chiranjeevi.
 
 572
 00:53:43,875 --> 00:53:46,800
-Quelle compagnie?
+Dans quelle compagnie ?
 
 573
 00:53:47,708 --> 00:53:49,875
-Je t'ai demandé.
+Je vous ai demandé.
 
 574
 00:53:49,875 --> 00:53:53,850
-Quelle compagnie dramatique ?
+Quelle compagnie de théâtre ?
 
 575
 00:53:54,041 --> 00:54:00,199
-Churidhar coloré,
+Churidar coloré,
 un turban et des bijoux.
 
 576
 00:54:00,541 --> 00:54:03,000
-Cela ne vous va pas bien.
+Ça ne te va pas du tout.
 
 577
 00:54:03,200 --> 00:54:06,799
@@ -2524,21 +2522,20 @@ Comment est sa tenue ?
 
 578
 00:54:06,833 --> 00:54:09,124
-Dis ce que tu penses.
+Dis ce que tu en penses.
 
 579
 00:54:10,333 --> 00:54:14,999
-Ne ressemble-t-il pas à un valet de chambre
-tu attends des conseils ?
+Ne ressemble-t-il pas à un valet en attente de pourboires ?
 
 580
 00:54:26,000 --> 00:54:31,465
-Patron... Elle a appelé
+Patron... Elle appelait
 ce numéro souvent.
 
 581
 00:54:38,800 --> 00:54:40,900
-Oui! Bonjour. Qui est-ce?
+Oui! Allô. Qui est à l'appareil?
 
 582
 00:54:40,900 --> 00:54:44,999
@@ -2550,11 +2547,11 @@ Merci.
 
 584
 00:54:57,000 --> 00:55:02,290
-- N'importe quelle réponse? - Oui, mon pote. Allons-y.
+Une réponse? - Oui, mec. Allons-y.
 
 585
 00:55:03,541 --> 00:55:06,990
-<i>Vous ne comprenez pas ?</i>
+<i>Tu ne comprends pas?</i>
 
 586
 00:55:13,375 --> 00:55:16,694
@@ -2567,32 +2564,32 @@ Il affiche votre numéro.
 588
 00:55:24,166 --> 00:55:28,200
 Je n'ai vu aucun signe mentionné par Ghora.
-Ce n'est peut-être pas lui.
+Peut-être que ce n'est pas lui.
 
 589
 00:55:28,208 --> 00:55:33,800
 Peu importe si ce n'est pas lui.
-Toute personne proche d'Indu doit mourir.
+Quiconque proche d'Indu doit mourir.
 
 590
 00:55:56,000 --> 00:55:58,900
-Arrête, Rahi !
+Arrête, Rahi!
 
 591
 00:56:14,000 --> 00:56:16,090
-Comment cela s'est-il passé?
+Comment ça s'est passé?
 
 592
 00:56:53,708 --> 00:56:56,000
-Arrête, Rahi !
+Arrête, Rahi!
 
 593
 00:56:56,000 --> 00:56:58,900
-Arrêt! Arrêt!
+Arrête! Arrête!
 
 594
 00:57:03,041 --> 00:57:06,909
-Rahi, arrête ! Arrête, Rahi !
+Rahi, arrête! Arrête, Rahi!
 
 595
 00:57:57,090 --> 00:58:00,050
@@ -2600,7 +2597,7 @@ Indu! Indu...!
 
 596
 00:58:00,050 --> 00:58:02,099
-Bonjour!
+Allô!
 
 597
 00:58:02,125 --> 00:58:04,500
@@ -2608,13 +2605,14 @@ Bonjour!
 
 598
 00:58:04,500 --> 00:58:08,000
-<i>- Quel est son nom maintenant ?
-- Indu.</i>
+<i>- Quel est son nom maintenant?
+
+Indu.</i>
 
 599
 00:58:20,000 --> 00:58:24,194
 Hé! Que fais-tu?
-Rendez-le-moi.
+Rends-le-moi.
 
 600
 00:58:25,333 --> 00:58:27,982
@@ -2622,49 +2620,49 @@ Rends mon chunni (écharpe).
 
 601
 00:58:32,041 --> 00:58:36,924
-- Je vais te tuer.
-- Poursuivre.
+Je vais te tuer.
+Vas-y.
 
 602
 00:58:44,108 --> 00:58:48,982
-- Si vous tombez, vous vous casserez des membres.
-- Dois-je tomber ?
+Si tu tombes, tu te casseras les membres.
+Devrais-je tomber?
 
 603
 00:58:53,041 --> 00:58:57,880
-- Es-tu fou?
-- Oui, je suis en colère contre toi.
+Es-tu fou?
+Oui, fou de toi.
 
 604
 00:59:01,916 --> 00:59:04,625
-- Comme il était arrogant !
-- Oublie ça.
+Comme il était arrogant!
+Oublie ça.
 
 605
 00:59:04,625 --> 00:59:08,995
 Je vais l'identifier et le dire à Harsha.
-Il va le tuer.
+Il le tuera.
 
 606
 00:59:12,125 --> 00:59:14,582
-Arrêt. Seuls les candidats à l'examen à l'intérieur.
+Stop. Seulement les candidats aux examens à l'intérieur.
 
 607
 00:59:14,583 --> 00:59:16,457
-Hey salut. Toi.
+Hé, bonjour. Toi.
 
 608
 00:59:16,458 --> 00:59:18,875
-Quand on parle du loupe on en voit la queue.
+Parler du loup.
 
 609
 00:59:18,875 --> 00:59:22,875
-Pas maintenant. Parlez après mon examen.
-Attendez dehors.
+Pas maintenant. Parle après mon examen.
+Attends dehors.
 
 610
 00:59:22,875 --> 00:59:31,915
-Bien. Faites vos examens.
+Bien. Fais tes examens.
 Je suis venu dire que j'ai trouvé Indu.
 
 611
@@ -2673,43 +2671,43 @@ Erreur?
 
 612
 00:59:33,416 --> 00:59:36,832
-- Quoi? Vous avez trouvé Indu ?
-- Oui.
+Quoi? Tu as trouvé Indu?
+Oui.
 
 613
 00:59:36,833 --> 00:59:41,875
-Nous sommes enfin unis.
+Nous sommes enfin réunis.
 Merci pour ton aide.
 
 614
 00:59:41,875 --> 00:59:44,000
-Trouvez un bon petit ami.
-Tous mes vœux.
+Trouve un bon petit ami.
+Tout le meilleur.
 
 615
 00:59:44,000 --> 00:59:48,850
-- Hé, n'y va pas !
-- Pas de sortie une fois la carte glissée.
+Hé, ne pars pas!
+Aucune sortie une fois la carte glissée.
 
 616
 00:59:48,900 --> 00:59:51,990
-<i>~ Qui peut me sauver maintenant ? ~</i>
+<i>~ Qui peut me sauver maintenant? ~</i>
 
 617
 00:59:50,000 --> 00:59:51,600
-Harcha.
+Harsha.
 
 618
 00:59:52,050 --> 00:59:55,099
-Salut Indu.
+Salut, Indu.
 
 619
 00:59:56,000 --> 01:00:01,000
-Ta voix est tellement douce.
+Ta voix est si douce.
 
 620
 01:00:01,000 --> 01:00:04,199
-Continuer de parler.
+Continue à parler.
 
 621
 01:00:04,200 --> 01:00:05,682
@@ -2717,70 +2715,69 @@ Quoi?
 
 622
 01:00:05,708 --> 01:00:09,990
-Tu te sens mal à propos de la nuit dernière ?
+Tu te sens mal à propos de la nuit dernière?
 
 623
 01:00:10,208 --> 01:00:13,915
 Allez, ouais. Ces choses
-maintenant, c'est courant, vous savez.
+sont courantes maintenant, tu sais.
 
 624
 01:00:13,916 --> 01:00:18,932
-- Pourtant, tu te sentiras mal
-si je ne t'épouse pas. - Se marier ?
+Pourtant, tu te sentiras mal
+si je ne t'épouse pas. - Épouser?
 
 625
 01:00:18,933 --> 01:00:24,832
 Je viens de voir le courtier qui
-nous a unis pour dire merci.
+nous a réunis pour te remercier.
 
 626
 01:00:24,833 --> 01:00:30,699
-Non, non... je n'ai pas d'alchimie
+Non, non... Je n'ai aucune chimie
 avec elle, Indu.
 
 627
 01:00:30,791 --> 01:00:35,125
-Aller où... à Golconde ?
-Oh! À Golkondaka ?
+Où vais-je... à Golconda?
+Oh! À Golcondaka?
 
 628
 01:00:35,125 --> 01:00:40,700
-Je serai là.
-Hein, encore ? D'ACCORD.
+J'arrive. Hein, encore? D'accord.
 
 629
 01:00:41,930 --> 01:00:46,000
-<i>~ Qui peut vous sauver maintenant ? ~</i>
+<i>~ Qui peut te sauver maintenant? ~</i>
 
 630
 01:00:46,000 --> 01:00:50,400
-<i>~ Qui peut me sauver maintenant ? ~</i>
+<i>~ Qui peut me sauver maintenant? ~</i>
 
 631
 01:00:50,500 --> 01:00:52,415
-Indu, qu'est-ce que c'est ?
+Indu, qu'est-ce que c'est?
 
 632
 01:00:52,416 --> 01:00:54,790
-Vous perdrez vos études d'examen.
+Tu vas gâcher l'étude pour les examens.
 
 633
 01:00:54,791 --> 01:00:58,500
-Ma vie est sur le point d'être gâchée.
+Ma vie est sur le point d'être gaspillée.
 
 634
 01:00:59,000 --> 01:01:02,900
-- Allez... - Je suis tendu.
-- Venez ici.
+Allez... - Je suis tendu.
+Viens ici.
 
 635
 01:01:02,900 --> 01:01:05,500
-
+#$@&%*!
 
 636
 01:01:05,500 --> 01:01:06,850
-cul!
+Âne!
 
 637
 01:01:06,850 --> 01:01:09,900
@@ -2788,35 +2785,35 @@ cul!
 
 638
 01:01:10,800 --> 01:01:12,799
-Merde! Que fais-tu?
+Merde! Qu'est-ce que tu fais?
 
 639
 01:01:12,916 --> 01:01:17,999
-Oh salut! C'est toi!
-Comment puis-je vous dire?
+Oh, salut! C'est toi!
+Comment puis-je te dire?
 
 640
 01:01:18,000 --> 01:01:22,290
 J'embrasse ma chérie,
-ma chérie Indu.
+ma douce Indu.
 
 641
 01:01:22,291 --> 01:01:24,550
-Espèce de merde ! Ce n'est pas Indu.
+Espèce de merde! Ce n'est pas Indu.
 
 642
 01:01:24,666 --> 01:01:28,290
-Elle est tellement bonne.
-Comment ça va, elle n'est pas Indu ?
+Elle est si bonne.
+Comment n'est-elle pas Indu?
 
 643
 01:01:28,291 --> 01:01:33,350
-Fais-moi confiance. Indu est-il un gros cochon ?
+Fais-moi confiance. Est-ce qu'Indu est un gros cochon?
 
 644
 01:01:33,375 --> 01:01:38,250
-- Découvrez la beauté d'Indu à travers
-mes yeux. - Ne touchez pas.
+Vois la beauté d'Indu à travers
+mes yeux. - Laisse-moi tranquille.
 
 645
 01:01:38,250 --> 01:01:41,099
@@ -2824,41 +2821,41 @@ Oh non! Je suis Indu.
 
 646
 01:01:41,166 --> 01:01:45,995
-Chéri. Pourquoi nous dérange-t-elle ?
-Renvoyez-la.
+Chéri. Pourquoi elle nous dérange?
+Fais-la partir.
 
 647
 01:01:46,000 --> 01:01:51,207
-Je suis un perturbateur ?
-Tu es. Aller se faire cuire un œuf.
+Je suis une gêne?
+Tu l'es. Dégage.
 
 648
 01:01:51,208 --> 01:01:56,290
-Tu veux me l'enlever ?
-Ton sale visage veut mon Harsha ?
+Tu veux le prendre loin de moi?
+Ton visage sale veut mon Harsha?
 
 649
 01:01:56,291 --> 01:02:01,250
-- Faire demi-tour. Regardez-moi...
-- Ne tirez pas... - Tournez-vous. - Ne le faites pas...
+Tourne-toi. Regarde-moi...
+Ne tire pas... - Tourne. - Ne...
 
 650
 01:02:01,250 --> 01:02:04,999
-Oh non! Euh hein.
+Oh non! Uh huh.
 
 651
 01:02:20,200 --> 01:02:23,099
-« Tu veux emporter mon Harsha ? »
+"Veux-tu prendre mon Harsha?"
 
 652
 01:02:23,583 --> 01:02:26,625
-Elle est tellement jalouse,
-me tirant les cheveux.
+Elle est si jalouse,
+tirant mes cheveux.
 
 653
 01:02:26,625 --> 01:02:30,999
 Elle m'aurait tué
-si je t'embrassais.
+si je t'avais embrassé.
 
 654
 01:02:31,250 --> 01:02:35,197
@@ -2866,25 +2863,25 @@ Elle est prise la main dans le sac.
 
 655
 01:02:35,500 --> 01:02:39,282
-- Nous l'avons fait pour nous amuser.
-- Mais je déteste ça.
+On l'a fait pour s'amuser.
+Mais je déteste ça.
 
 656
 01:02:39,283 --> 01:02:43,099
-- Eh, allez.
-- Ne me touche pas.
+Eh, allez.
+Ne me touche pas.
 
 657
 01:03:07,625 --> 01:03:10,415
-<i>~ Ô poupée enrobée de bonbons ! ~</i>
+<i>~ Ô poupée enrobée de bonbon! ~</i>
 
 658
 01:03:10,416 --> 01:03:12,207
-<i>~ ne dis pas de ne pas te retenir ~</i>
+<i>~ ne dis pas de ne pas te tenir ~</i>
 
 659
 01:03:12,208 --> 01:03:15,287
-<i>~ Ô branche de fleurs de neige ! ~</i>
+<i>~ Ô branche de fleurs de neige! ~</i>
 
 660
 01:03:15,291 --> 01:03:17,375
@@ -2893,11 +2890,11 @@ Elle est prise la main dans le sac.
 661
 01:03:17,375 --> 01:03:22,000
 <i>~ si tu ne me laisses pas te toucher
-ou approchez-vous ~</i>
+ou m'approcher ~</i>
 
 662
 01:03:22,000 --> 01:03:25,040
-<i>~ que va-t-il m'arriver ? ~</i>
+<i>~ que va-t-il m'arriver? ~</i>
 
 663
 01:03:25,041 --> 01:03:29,875
@@ -2905,8 +2902,8 @@ ou approchez-vous ~</i>
 
 664
 01:03:29,875 --> 01:03:34,950
-<i>~ si je ne peux pas vous joindre,
-ma vie ne vaut rien ~</i>
+<i>~ si je ne peux pas t'atteindre,
+ma vie n'a pas de valeur ~</i>
 
 665
 01:03:34,950 --> 01:03:39,800
@@ -2914,18 +2911,18 @@ ma vie ne vaut rien ~</i>
 
 666
 01:03:39,800 --> 01:03:45,900
-<i>~ si je ne peux pas vous joindre,
-ma vie ne vaut rien ~</i>
+<i>~ si je ne peux pas t'atteindre,
+ma vie n'a pas de valeur ~</i>
 
 667
 01:04:27,458 --> 01:04:32,200
 <i>~ quand j'ai touché une fleur,
-ça m'a grondé ~</i>
+elle m'a grondé ~</i>
 
 668
 01:04:32,250 --> 01:04:36,900
 <i>~ tu es la fleur tendre
-cela m'a guidé vers ~</i>
+qu'elle m'a guidée ~</i>
 
 669
 01:04:36,900 --> 01:04:41,750
@@ -2938,63 +2935,63 @@ cette fleur a des épines ~</i>
 
 671
 01:04:46,500 --> 01:04:51,332
-<i>~ quand j'ai touché une plante grimpante,
-ça m'a grondé ~</i>
+<i>~ quand j'ai touché une liane,
+elle m'a grondé ~</i>
 
 672
 01:04:51,333 --> 01:04:54,790
 <i>~ tu es l'éclair
-cela m'a guidé vers ~</i>
+qu'elle m'a guidé ~</i>
 
 673
 01:04:54,791 --> 01:05:02,540
-<i>~ avec les éclairs vient le tonnerre,
-alors des inondations suivront pour vous troubler ~</i>
+<i>~ avec l'éclair vient le tonnerre,
+ensuite les inondations suivront pour te troubler ~</i>
 
 674
 01:05:02,541 --> 01:05:07,249
-<i>~ Je considère les inondations comme une aubaine ~</i>
+<i>~ je considérerai les inondations comme une bénédiction ~</i>
 
 675
 01:05:07,250 --> 01:05:11,900
-<i>~ Je vais même me noyer
-pour s'unir à toi ~</i>
+<i>~ je me noierai même
+pour me réunir avec toi ~</i>
 
 676
 01:05:11,900 --> 01:05:16,500
-<i>~Je suis né pour gagner ton amour ~</i>
+<i>~ je suis né pour gagner ton amour ~</i>
 
 677
 01:05:16,500 --> 01:05:22,990
-<i>~ si je ne peux pas vous joindre,
-ma vie ne vaut rien ~</i>
+<i>~ si je ne peux pas t'atteindre,
+ma vie n'a aucune valeur ~</i>
 
 678
 01:06:09,541 --> 01:06:14,290
 <i>~ les brises te touchent,
-La Terre Mère vous touche ~</i>
+la Mère Terre te touche ~</i>
 
 679
 01:06:14,291 --> 01:06:17,999
-<i>~ est-ce que c'est mal que je te touche ? ~</i>
+<i>~ est-ce mal que je te touche ? ~</i>
 
 680
 01:06:18,000 --> 01:06:22,750
-<i>~ Je respire des brises,
-La Terre mène ma foulée ~</i>
+<i>~ je respire les brises,
+la Terre guide ma démarche ~</i>
 
 681
 01:06:22,750 --> 01:06:27,415
-<i>~ qu'est-ce qu'il y a de si génial chez toi ? ~</i>
+<i>~ qu'est-ce qui est si grand chez toi ? ~</i>
 
 682
 01:06:27,416 --> 01:06:32,332
-<i>~ la lumière du jour te touche,
+<i>~ la lumière te touche,
 les gouttes de pluie te touchent ~</i>
 
 683
 01:06:32,333 --> 01:06:35,790
-<i>~ pourquoi indifférent à moi ? ~</i>
+<i>~ pourquoi es-tu indifférent à moi ? ~</i>
 
 684
 01:06:35,791 --> 01:06:38,199
@@ -3002,87 +2999,87 @@ les gouttes de pluie te touchent ~</i>
 
 685
 01:06:38,200 --> 01:06:40,541
-<i>~ les gouttes de pluie me nettoient ~</i>
+<i>~ les gouttes de pluie me purifient ~</i>
 
 686
 01:06:40,541 --> 01:06:43,540
-<i>~ comment pouvez-vous comparer ? ~</i>
+<i>~ comment peux-tu comparer ? ~</i>
 
 687
 01:06:43,541 --> 01:06:48,207
 <i>~ ils seront avec toi
-pendant que tu es en vie ~</i>
+tant que tu seras en vie ~</i>
 
 688
 01:06:48,208 --> 01:06:53,400
-<i>~ Je serai avec toi même après ta mort ~</i>
+<i>~ je serai avec toi même après ta mort ~</i>
 
 689
 01:06:53,400 --> 01:06:56,999
-<i>~ Je suis né pour gagner ton amour ~</i>
+<i>~ je suis né pour gagner ton amour ~</i>
 
 690
 01:06:57,000 --> 01:07:05,000
-<i>~ si je ne peux pas vous joindre,
-ma vie ne vaut rien ~</i>
+<i>~ si je ne peux pas t'atteindre,
+ma vie n'a aucune valeur ~</i>
 
 691
 01:07:40,583 --> 01:07:41,750
-Bel endroit.
+Endroit génial.
 
 692
 01:07:41,750 --> 01:07:46,999
-Si cela vous impressionne,
-Le fort d'Udaigarh sera époustouflant.
+Si cela t'impressionne,
+le Fort d'Udaigarh sera époustouflant.
 
 693
 01:07:47,000 --> 01:07:50,099
-Lâcher.
+Laissez partir.
 
 694
 01:07:55,000 --> 01:07:59,990
-- Oserais taquiner ma fille, coquin ?
-- Père...
+Tu oses taquiner ma fille, vaurien ?
+Père...
 
 695
 01:08:10,333 --> 01:08:13,940
 Je te tuerai si je te vois
-avec elle à nouveau.
+encore avec elle.
 
 696
 01:08:15,208 --> 01:08:20,832
-Indu est à moi. Le mien.
-Compris?
+Indu est à moi. À moi.
+Tu as compris ?
 
 697
 01:08:20,833 --> 01:08:26,432
-Si vous essayez de nous séparer,
-Je vais te tuer. Je vais te tuer.
+Si tu essaies de nous séparer,
+je te tuerai. Je te tuerai.
 
 698
 01:08:26,541 --> 01:08:31,000
-Harsha, laisse-le tranquille. Harcha....
+Harsha, laisse-le. Harsha...
 
 699
 01:08:31,000 --> 01:08:33,080
-- Je vais te tuer.
-- Harcha !
+Je te tuerai.
+Harsha !
 
 700
 01:08:33,080 --> 01:08:37,000
-Indu est à moi. Je vais te tuer.
+Indu est à moi. Je te tuerai.
 
 701
 01:08:37,000 --> 01:08:39,900
-- Harsha. - Allons-y.
+Harsha. - Allons-nous-en.
 
 702
 01:08:41,350 --> 01:08:43,457
-Harsha!
+Harsha !
 
 703
 01:08:43,458 --> 01:08:45,957
-Hé, éloigne-toi.
+Hé, écarte-toi.
 
 704
 01:08:47,708 --> 01:08:52,374
@@ -3090,8 +3087,8 @@ Pardonnez-moi de ne pas avoir révélé mon amour.
 
 705
 01:08:52,375 --> 01:08:58,684
-Les paroles de Harsha étaient douloureuses,
-pas de vengeance.
+Les paroles de Harsha étaient de la douleur,
+pas de la vengeance.
 
 706
 01:08:58,750 --> 01:09:07,332
@@ -3108,8 +3105,8 @@ Pardonne-moi.
 
 709
 01:09:35,000 --> 01:09:39,874
-J'avais peur que tu me sépares
-de l'Indu.
+J'avais peur que tu nous sépares
+d'Indu.
 
 710
 01:09:39,875 --> 01:09:46,165
@@ -3118,11 +3115,11 @@ ne m'a rien demandé.
 
 711
 01:09:46,166 --> 01:09:49,874
-Mais maintenant, elle te veut.
+Mais maintenant elle te veut.
 
 712
 01:09:49,875 --> 01:09:54,900
-Je dois réaliser son seul souhait.
+Je dois réaliser son unique souhait.
 
 713
 01:09:55,000 --> 01:09:58,900
@@ -3130,26 +3127,26 @@ Je vais te marier.
 
 714
 01:10:00,291 --> 01:10:05,150
-Je n'aurais jamais pensé que tu serais d'accord bientôt.
+Je n'aurais jamais pensé que tu accepterais si vite.
 Merci.
 
 715
 01:10:05,291 --> 01:10:08,999
-- Le fiancé d'Indu, c'est lui ?
-- Oui.
 
+Le fiancé d'Indu, c'est lui ?
+Oui.
 716
 01:10:09,000 --> 01:10:12,999
 Ne me juge pas pour l'autre jour...
 
 717
 01:10:13,541 --> 01:10:17,707
-Bon. Match parfait.
+Bien. Parfait accord.
 
 718
 01:10:17,708 --> 01:10:23,150
 Ce chunni prouve
-comme il est un bon amant.
+à quel point il est bon amant.
 
 719
 01:10:23,150 --> 01:10:25,790
@@ -3159,7 +3156,7 @@ un bon gendre.
 720
 01:10:25,791 --> 01:10:30,000
 Une bonne fille.
-Alors à quoi je sert ?
+Alors que suis-je ?
 
 721
 01:10:30,500 --> 01:10:32,900
@@ -3171,15 +3168,15 @@ Oncle... Oncle.
 
 723
 01:10:53,900 --> 01:10:55,800
-Dire quelque chose.
+Dis quelque chose.
 
 724
 01:10:55,800 --> 01:10:56,900
-Oncle!
+Oncle !
 
 725
 01:10:56,900 --> 01:11:01,000
-Madame, venez vite. Madame...
+Madame, viens vite. Madame...
 
 726
 01:11:01,000 --> 01:11:05,099
@@ -3191,61 +3188,61 @@ Madame, venez vite. Madame...
 
 728
 01:11:10,000 --> 01:11:13,900
-- Entraînez-le.
-- Oncle. Mon oncle, parle.
+Emmène-le.
+Oncle. Oncle, parle.
 
 729
 01:11:13,900 --> 01:11:17,965
-- Papa! - Tu as osé le tuer !
+Papa ! - Tu as osé le tuer !
 
 730
 01:11:18,000 --> 01:11:22,900
-Il a désapprouvé notre mariage,
+Il désapprouvait notre mariage,
 alors tu l'as tué ?
 
 731
 01:11:25,791 --> 01:11:29,599
-- Écoute-moi, Indu.
-- Merde!
+Écoute-moi, Indu.
+Bêtises !
 
 732
 01:11:29,708 --> 01:11:35,099
-- Indu, ne le crois pas. Entends moi.
-- Je vais te tuer. - Non!
+Indu, ne le crois pas. Écoute-moi.
+Je te tuerai. - Non !
 
 733
 01:11:35,190 --> 01:11:40,750
-- Emmenons-le à l'hôpital.
-- Écouter!
+Emmenons-le à l'hôpital.
+Écoute !
 
 734
 01:11:40,750 --> 01:11:46,000
 Comment oses-tu essayer
-tuer mon oncle ?
+de tuer mon oncle ?
 
 735
 01:11:47,000 --> 01:11:49,000
-Lancez-vous.
+Roule !
 
 736
 01:11:49,208 --> 01:11:52,930
-Pilote, commencez à rouler.
+Pilote, commence à rouler.
 
 737
 01:11:52,990 --> 01:11:55,100
-Prudent...
+Attention...
 
 738
 01:11:55,100 --> 01:11:58,500
-Indu! S'il te plaît, Indu.
+Indu ! S'il te plaît, Indu.
 
 739
 01:11:59,000 --> 01:12:02,124
-Indu...!
+Indu... !
 
 740
 01:12:03,125 --> 01:12:07,000
-Pilote, démarrez les moteurs.
+Pilote, démarre les moteurs.
 
 741
 01:12:17,041 --> 01:12:19,040
@@ -3257,12 +3254,12 @@ Ce que je veux, je dois l'obtenir.
 
 743
 01:13:24,291 --> 01:13:31,800
-<i>La nature sentira votre inimitié
-avant de le faire.</i>
+<i>La nature percevra ton hostilité
+avant même toi.</i>
 
 744
 01:13:32,166 --> 01:13:39,099
-<i>Quand vous vous retrouvez face à face,
+<i>Quand vous vous retrouverez face à face,
 les oiseaux s'envoleront.</i>
 
 745
@@ -3276,39 +3273,39 @@ un volcan en éruption.</i>
 
 747
 01:14:11,208 --> 01:14:15,000
-Salut les gars! Allez aider notre patron.
+Hé, les gars ! Allez aider notre patron.
 
 748
 01:14:15,000 --> 01:14:17,900
-Se lever.
+Levez-vous.
 
 749
 01:14:36,458 --> 01:14:41,190
-Indu. S'il vous plaît écoutez. Indu!
+Indu. S'il te plaît écoute. Indu !
 
 750
 01:14:44,208 --> 01:14:46,207
-Indu!
+Indu !
 
 751
 01:14:46,208 --> 01:14:52,090
-Écoutez-moi. Indu! Entends moi.
+Écoute-moi. Indu ! Entends-moi.
 
 752
 01:14:52,090 --> 01:14:55,990
-Indu!
+Indu !
 
 753
 01:15:50,600 --> 01:15:52,700
-Écoute-moi, Indu !
+Écoute-moi, Indu !
 
 754
 01:15:52,700 --> 01:15:56,090
-En bas, descendez l'hélicoptère.
+Descends, fais descendre l'hélico.
 
 755
 01:15:56,230 --> 01:16:00,900
-- Pilote, descendez. - Descendre.
+Pilote, descends. - Descends.
 
 756
 01:16:11,400 --> 01:16:15,100
@@ -3316,49 +3313,49 @@ Hé, Indu, tu m'as mal compris.
 
 757
 01:16:17,000 --> 01:16:18,870
-Écoutez une fois.
+Écoute une fois.
 
 758
 01:16:18,870 --> 01:16:24,982
-- Votre père a accepté...
-- Laisse-moi tranquille.
+Ton père a accepté de...
+Laisse-moi tranquille.
 
 759
 01:16:42,833 --> 01:16:47,090
-<i>Vive Udaigarh
-Maharaja, Vikram Singh.</i>
+<i>Vive le Maharaja d'Udaigarh,
+Vikram Singh.</i>
 
 760
 01:16:47,090 --> 01:16:50,500
-<i>Salut, Son Altesse.</i>
+<i>Vive Sa Majesté.</i>
 
 761
 01:16:50,500 --> 01:16:55,750
-<i>Ô les gars, le juge
-de ce concours est</i>
+<i>Ô compagnons, le juge
+de cette compétition est</i>
 
 762
 01:16:55,750 --> 01:16:58,707
-<i>La future reine d'Udaigarh,</i>
+<i>la future reine d'Udaigarh,</i>
 
 763
 01:16:58,708 --> 01:17:05,900
-<i>Le seul enfant du Maharaja,
+<i>l'unique enfant du Maharaja,
 Rani Mithravinda Devi.</i>
 
 764
 01:17:06,375 --> 01:17:11,707
-<i>Le premier prétendant à
-futur gendre royal</i>
+<i>Le premier prétendant au
+futur gendre royal est</i>
 
 765
 01:17:11,708 --> 01:17:18,982
-<i>est le commandant en chef du royaume,
+<i>le Commandant en chef du royaume,
 Ranadev Billa.</i>
 
 766
 01:17:19,750 --> 01:17:27,099
-<i>Le deuxième concurrent est
+<i>Le deuxième prétendant est
 le guerrier qui écrase nos ennemis...</i>
 
 767
@@ -3367,36 +3364,36 @@ le guerrier qui écrase nos ennemis...</i>
 
 768
 01:17:31,208 --> 01:17:34,997
-<i>Kala Bhairava !</i>
+<i>Kala Bhairava !</i>
 
 769
 01:17:40,900 --> 01:17:44,099
-<i>Kala Bhairava !</i>
+<i>Kala Bhairava !</i>
 
 770
 01:17:49,000 --> 01:17:53,099
-<i>Kala Bhairava !</i>
+<i>Kala Bhairava !</i>
 
 771
 01:18:01,000 --> 01:18:03,994
-<i>Voici Bhairava !</i>
+<i>Voici venir Bhairava !</i>
 
 772
 01:18:17,166 --> 01:18:26,790
-<i>Retournons il y a 400 ans...</i>
+<i>Retournons 400 ans en arrière...</i>
 
 773
 01:19:03,583 --> 01:19:09,000
 Maharaja, ces mauvais présages
-méchante calamité.
+signifient la calamité.
 
 774
 01:19:09,000 --> 01:19:11,457
-- Une calamité ? - Oui.
+Calamité ? - Oui.
 
 775
 01:19:11,458 --> 01:19:17,374
-Huit planètes se réunissent
+Huit planètes se rejoignent
 une fois tous les 400 ans.
 
 776
@@ -3405,22 +3402,22 @@ Les huit planètes proches de la Terre
 
 777
 01:19:20,791 --> 01:19:26,900
-sont si brillants qu'ils apparaissent
-en plein jour aussi.
+sont si brillantes qu'elles apparaissent
+aussi en plein jour.
 
 778
 01:19:28,166 --> 01:19:32,160
 Dans trois jours,
-une comète va tomber.
+une comète tombera.
 
 779
 01:19:32,166 --> 01:19:34,500
-L'horoscope de Rani
+L'horoscope de la Rani
 
 780
 01:19:34,500 --> 01:19:38,375
-lui raconte le désastre
-et nous, Maharaja.
+annonce un désastre pour elle
+et pour nous, Maharaja.
 
 781
 01:19:38,375 --> 01:19:41,999
@@ -3432,20 +3429,20 @@ Je ne peux pas prévoir.
 
 783
 01:19:44,791 --> 01:19:49,290
-Maharaja. Je vois des indications.
+Maharajah. Je vois des signes.
 
 784
 01:19:49,291 --> 01:19:51,400
-Rapport de nos espions
+Nos espions rapportent
 
 785
 01:19:51,400 --> 01:19:58,657
-une immense armée dirigée par Sher Khan
+qu'une immense armée dirigée par Sher Khan
 attend à notre frontière pour attaquer.
 
 786
 01:19:59,000 --> 01:20:01,994
-Sher Khan?
+Sher Khan ?
 
 787
 01:20:06,875 --> 01:20:09,900
@@ -3454,12 +3451,12 @@ Qui est Sher Khan, Maharaja ?
 788
 01:20:09,900 --> 01:20:16,090
 C'est un barbare qui aspire
-conquérir toute l'Inde.
+à conquérir toute l'Inde.
 
 789
 01:20:21,000 --> 01:20:29,700
-Chaque royaume qu'il envisage doit devenir
-son vassal, sinon il sera ravagé par la guerre.
+Chaque royaume qu'il convoite doit devenir
+son vassal ou être ravagé par la guerre.
 
 790
 01:20:29,700 --> 01:20:33,990
@@ -3467,12 +3464,12 @@ Cette tempête est sur nous maintenant.
 
 791
 01:20:48,000 --> 01:20:50,900
-- Shaji. - Oui Seigneur!
+Shaji. - Oui, Seigneur !
 
 792
 01:21:14,791 --> 01:21:20,207
-- Udaigarh ! Que c'est beau!
-Ousman ! -  Oui Seigneur.
+Udaigarh ! Comme c'est beau !
+Usman ! - Oui, Seigneur.
 
 793
 01:21:20,208 --> 01:21:23,332
@@ -3482,46 +3479,46 @@ dans une semaine.
 794
 01:21:23,333 --> 01:21:27,332
 Pas besoin d'une semaine, Seigneur.
-Une journée suffit.
+Un jour suffit.
 
 795
 01:21:27,333 --> 01:21:30,290
-Non, Usman.  Vous vous trompez.
+Non, Usman. Tu te trompes.
 
 796
 01:21:30,291 --> 01:21:32,790
-Ils ont été invincibles.
+Ils ont été inconquis jusqu'ici.
 
 797
 01:21:32,791 --> 01:21:35,790
-Savez-vous qui entraîne ses soldats ?
+Tu sais qui forme leurs soldats ?
 
 798
 01:21:35,791 --> 01:21:40,999
-C'est un grand guerrier, Kala Bhairava !
+C'est le grand guerrier, Kala Bhairava !
 
 799
 01:21:41,375 --> 01:21:46,050
-Kala Bhairava? Est-il Dieu ?
+Kala Bhairava ? Est-il un dieu ?
 
 800
 01:21:46,050 --> 01:21:50,375
-Une épée peut lui transpercer le cœur,
+Une épée peut percer son cœur,
 Maan Singh.
 
 801
 01:21:50,375 --> 01:21:55,997
-Vous avez raison, Sher Khan.
-Mais un homme doit le faire.
+Tu as raison, Sher Khan.
+Mais il faut qu'un homme le fasse.
 
 802
 01:21:56,500 --> 01:22:01,375
-Aucun homme dans son clan
-vécu au-delà de 30 ans.
+Aucun homme de son clan
+n'a vécu au-delà de 30 ans.
 
 803
 01:22:01,375 --> 01:22:05,165
-Pour eux, la mort n’est qu’un jeu.
+Pour eux, la mort n'est qu'un jeu.
 
 804
 01:22:06,791 --> 01:22:11,250
@@ -3529,26 +3526,26 @@ Chacun en tue 100 avant de mourir.
 
 805
 01:22:11,250 --> 01:22:14,000
-Arrêtez cette pourriture !
+Arrête ces bêtises !
 
 806
 01:22:15,041 --> 01:22:21,707
-Prenez note, Maan Singh.
+Prends note, Maan Singh.
 Je vais réécrire cette légende.
 
 807
 01:22:21,708 --> 01:22:27,207
-Je vais tuer Kala Bhairava
+Je tuerai Kala Bhairava
 dans cette guerre.
 
 808
 01:22:27,208 --> 01:22:32,207
-Je vais tuer ta peur
-il en tuera 100 avant de mourir.
+Je tuerai ta peur
+qu'il tue 100 avant de mourir.
 
 809
 01:22:32,208 --> 01:22:36,100
-Je jure sur Allah le Grand !
+Je le jure sur Allah le Grand !
 
 810
 01:22:38,375 --> 01:22:41,999
@@ -3556,7 +3553,7 @@ Puissant guerrier !
 
 811
 01:22:43,458 --> 01:22:47,857
-Celui qui peut en tuer 100 !
+Celui qui peut tuer 100 !
 
 812
 01:22:49,900 --> 01:22:53,700
@@ -3564,7 +3561,7 @@ Kala Bhairava !
 
 813
 01:23:46,000 --> 01:23:47,330
-Vous avez raté la cible.
+Tu as manqué la cible.
 
 814
 01:23:47,330 --> 01:23:48,790
@@ -3572,8 +3569,8 @@ Pas alerte ?
 
 815
 01:23:48,791 --> 01:23:52,992
-- Ne sois pas désinvolte. Aller.
-- Nettoyer.
+Ne sois pas négligent. Va.
+Nettoie.
 
 816
 01:24:15,000 --> 01:24:17,600
@@ -3582,7 +3579,7 @@ Bhairava.
 817
 01:24:17,708 --> 01:24:21,700
 Localiser un ennemi arrière
-est votre première tâche.
+est ta première tâche.
 
 818
 01:24:21,708 --> 01:24:25,875
@@ -3596,20 +3593,20 @@ Pour trouver des ennemis ?
 820
 01:24:29,541 --> 01:24:34,790
 Notre future reine
-il ne faut pas compter sur les autres.
+ne doit pas dépendre des autres.
 
 821
 01:24:34,791 --> 01:24:38,207
-Si vous perdez votre concentration,
-vous risquez de rater la cible.
+Si tu perds ta concentration,
+tu pourrais manquer la cible.
 
 822
 01:24:38,208 --> 01:24:43,500
-Je n'y arrive pas. Enseigne moi.
+Je n'y arrive pas. Apprends-moi.
 
 823
 01:24:52,375 --> 01:24:55,990
-Vos yeux doivent être fixés sur la cible.
+Tes yeux doivent être sur la cible.
 
 824
 01:25:01,708 --> 01:25:03,090
@@ -3617,40 +3614,40 @@ Salut, Rani Mithravinda Devi !
 
 825
 01:25:03,090 --> 01:25:06,990
-<i>Victoire !</i>
+<i>Victoire !</i>
 
 826
 01:25:34,458 --> 01:25:40,199
-Votre travail consiste à protéger comme un chien,
-rester derrière les femmes.
+Ton travail est de protéger comme un chien,
+en restant derrière les femmes.
 
 827
 01:25:40,791 --> 01:25:44,499
-Vous entraînerez les Rani ?
+Tu vas former la Rani ?
 
 828
 01:25:44,500 --> 01:25:46,874
-- Mithra. - Cousin.
+Mithra. - Cousin.
 
 829
 01:25:46,875 --> 01:25:52,907
-Pour vous apprendre le tarif du combat,
+Pour t'enseigner les combats,
 voici Ranadev Billa.
 
 830
 01:25:53,000 --> 01:25:58,982
 Tu n'as pas besoin d'imbéciles qui se vantent
-des prouesses des ancêtres.
+des prouesses de leurs ancêtres.
 
 831
 01:25:59,375 --> 01:26:07,099
-Son Altesse Vikram Singh arrive !
+Son Altesse, Vikram Singh, arrive !
 Vikram Singh, salut !
 
 832
 01:26:07,900 --> 01:26:11,990
-- Vikram Singh, vis longtemps !
-- <i>Victoire !</i>
+Vikram Singh, longue vie !
+<i>Victoire !</i>
 
 833
 01:26:13,291 --> 01:26:17,582
@@ -3658,8 +3655,8 @@ Sher Khan est sur le point de nous attaquer.
 
 834
 01:26:17,583 --> 01:26:21,374
-Jusqu'à présent, votre clan
-protégé ce royaume.
+Jusqu'à présent, ton clan
+a protégé ce royaume.
 
 835
 01:26:21,375 --> 01:26:25,090
@@ -3668,7 +3665,7 @@ Je te fais confiance, Bhairava.
 836
 01:26:24,125 --> 01:26:30,982
 Pour garder cette confiance,
-Je donnerais ma vie.
+je donnerais ma vie.
 
 837
 01:26:31,541 --> 01:26:35,374
@@ -3678,33 +3675,33 @@ Je ferai la guerre avec lui.
 838
 01:26:35,375 --> 01:26:38,500
 Il vient de m'apprendre
-pour toucher une cible.
+à atteindre une cible.
 
 839
 01:26:38,500 --> 01:26:40,965
-Vouloir voir?
+Veux-tu voir ?
 
 840
 01:27:00,166 --> 01:27:03,582
-Très agréable. Quel est son thème ?
+Très bien. Quel est son thème ?
 
 841
 01:27:03,583 --> 01:27:09,040
 Pour son amour,
-briser les traditions,
+bravant les traditions,
 
 842
 01:27:09,040 --> 01:27:14,000
-un guerrier dont l'amour gagne,
+un guerrier dont l'amour triomphe,
 mon Bhairava.
 
 843
 01:27:14,000 --> 01:27:15,582
-- Mithra. - Arrêt. - Mithra.
 
+Mithra. - Arrête. - Mithra.
 844
 01:27:15,583 --> 01:27:17,999
-Oh mon. Qu'est-ce que c'est ça?
+Oh mon dieu. Qu'est-ce que c'est ?
 
 845
 01:27:18,000 --> 01:27:20,099
@@ -3721,25 +3718,25 @@ Je serai son futur mari.
 
 848
 01:27:37,791 --> 01:27:42,499
-Ta timidité m'exaspère.
+Ta timidité me rend fou.
 
 849
 01:27:42,500 --> 01:27:47,099
-Ton corps brille davantage
+Ton corps brille plus
 que ce fruit.
 
 850
 01:27:48,708 --> 01:27:51,290
-Je veux presser son jus.
+Je veux en presser le jus.
 
 851
 01:27:51,291 --> 01:28:00,990
-Mais on peut s'amuser
-seulement par petites bouchées.
+Mais on ne peut profiter du plaisir
+qu'en petites bouchées.
 
 852
 01:28:18,300 --> 01:28:21,100
-Comment oses-tu attaquer au poignard !
+Comment oses-tu attaquer avec un poignard !
 
 853
 01:28:21,100 --> 01:28:25,790
@@ -3753,7 +3750,7 @@ C'est mon devoir.
 
 855
 01:28:33,875 --> 01:28:38,999
-Ne mangez qu'après l'avoir testé.
+Ne mange que si je le teste d'abord.
 
 856
 01:28:44,000 --> 01:28:46,165
@@ -3761,15 +3758,15 @@ Tu peux manger maintenant.
 
 857
 01:28:46,150 --> 01:28:49,800
-Vais-je manger de la nourriture que vous avez goûtée ?
+Vais-je manger de la nourriture que tu as goûtée ?
 
 858
 01:28:52,000 --> 01:28:54,965
-Je vais le manger.
+Je vais la manger.
 
 859
 01:29:06,150 --> 01:29:08,040
-Hé!
+Hey !
 
 860
 01:29:08,041 --> 01:29:14,099
@@ -3777,12 +3774,12 @@ Si je veux quelque chose, je dois l'obtenir.
 
 861
 01:29:14,800 --> 01:29:18,050
-Souviens-toi-en, Bhairava !
+Souviens-toi de cela, Bhairava !
 
 862
 01:29:18,166 --> 01:29:25,965
-D'ici la fin du concours de demain,
-votre porte vers la mort s'ouvre.
+À la fin du concours de demain,
+ta porte vers la mort s'ouvrira.
 
 863
 01:29:43,000 --> 01:29:49,000
@@ -3795,41 +3792,41 @@ le guerrier qui écrase nos ennemis,</i>
 
 865
 01:29:51,000 --> 01:29:54,699
-<i>Kala Bhairava !</i>
+<i>Kala Bhairava !</i>
 
 866
 01:29:54,800 --> 01:29:57,299
-<i>Kala Bhairava !</i>
+<i>Kala Bhairava !</i>
 
 867
 01:29:57,375 --> 01:30:00,474
-Voici Bhairava !
+Voici Bhairava !
 
 868
 01:30:26,990 --> 01:30:41,900
-<i>Bhairava !</i>
+<i>Bhairava !</i>
 
 869
 01:30:43,750 --> 01:30:49,500
 Je suis excité avec mes sujets
-pour voir qui va gagner.
+de voir qui va gagner.
 
 870
 01:30:49,500 --> 01:30:50,582
-Commencer.
+Commencez.
 
 871
 01:30:50,583 --> 01:30:55,999
 Il y a autre chose
-les gens doivent le savoir à l’avance.
+que les gens doivent savoir avant.
 
 872
 01:30:56,000 --> 01:30:57,083
-Quoi?
+Quoi ?
 
 873
 01:30:57,083 --> 01:31:00,083
-Qui gouvernera ensuite ?
+Qui régnera ensuite ?
 
 874
 01:31:00,083 --> 01:31:01,457
@@ -3837,17 +3834,17 @@ Question discutable.
 
 875
 01:31:01,458 --> 01:31:07,265
-Celui qui gouvernera ensuite,
+Celui qui régnera ensuite,
 en tant que reine, est Rani Mithravinda.
 
 876
 01:31:13,625 --> 01:31:17,040
-- Commandez-moi, Maharaja !
-- Arrête, Bhairava !
 
+Ordonne-moi, Maharaja !
+Arrête, Bhairava !
 877
 01:31:17,041 --> 01:31:20,583
-Vous avez franchi une ligne, Ranadev. Pourquoi?
+Tu as franchi une ligne, Ranadev. Pourquoi ?
 
 878
 01:31:20,583 --> 01:31:23,332
@@ -3855,7 +3852,7 @@ J'ai une raison.
 
 879
 01:31:23,333 --> 01:31:25,999
-Future reine ?!
+Reine future ?!
 
 880
 01:31:26,000 --> 01:31:30,374
@@ -3864,26 +3861,26 @@ et s'est couverte.
 
 881
 01:31:30,375 --> 01:31:34,000
-Elle n’a pas tiré d’épée.
+Elle n'a tiré aucune épée.
 
 882
 01:31:34,416 --> 01:31:40,500
-Comment une reine qui ne sait pas se défendre
-elle-même règne, Maharaja ?
+Comment une reine qui ne peut pas se défendre
+peut-elle régner, Maharaja ?
 
 883
 01:31:40,500 --> 01:31:45,040
-L'armée de Sher Khan est en marche
-notre frontière. Les gens ont peur.
+L'armée de Sher Khan est à
+notre frontière. Le peuple a peur.
 
 884
 01:31:45,041 --> 01:31:49,665
-Ce concours a lieu en
+Ce concours a lieu dans
 ces circonstances.
 
 885
 01:31:49,666 --> 01:31:52,165
-On ne sait pas qui est le meilleur.
+Qui est le meilleur est inconnu.
 
 886
 01:31:52,166 --> 01:32:00,950
@@ -3893,102 +3890,50 @@ qui régnera sur le trône.
 887
 01:32:08,000 --> 01:32:14,099
 Mithravinda doit épouser l'homme
-qui ramène son chunni.
+qui ramènera son chunni.
 
 888
 01:32:14,100 --> 01:32:19,099
-Si tu penses que je me trompe,
-pendez-moi maintenant.
+Si tu penses que j'ai tort,
+pends-moi maintenant.
 
 889
 01:32:19,750 --> 01:32:23,999
-Ou acceptez mon défi.
+Ou accepte mon défi.
 
 890
 01:32:24,000 --> 01:32:26,540
-Acceptez-vous?
+Acceptes-tu ?
 
 891
 01:32:26,541 --> 01:32:29,165
-Les gens attendent votre décision.
+Le peuple attend ta décision.
 
 892
 01:32:29,166 --> 01:32:32,700
-Acceptez-vous?
+Acceptes-tu ?
 
 893
 01:32:33,800 --> 01:32:36,900
 J'accepte.
 
 894
-01:32:41,458 --> 01:32:45,540
-- À une condition.
-- Quoi?
-
-895
-01:32:45,541 --> 01:32:50,800
-Le perdant sera banni
-du royaume.
-
-896
-01:32:50,800 --> 01:32:55,540
-Super! Battez-moi, exilez-moi,
-
-897
-01:32:55,541 --> 01:32:58,999
-alors tu vas l'apprécier ?
-
-898
-01:33:00,000 --> 01:33:03,207
-Il ne vivra pas.
-
-899
-01:33:03,208 --> 01:33:06,290
-Je vais le laisser revenir vivant, Rani.
-
-900
-01:33:06,291 --> 01:33:14,540
-Je veux que tu voies les gens cracher
-sur son visage honteux.
-
-901
-01:33:32,250 --> 01:33:39,500
-Celui qui franchit cette ligne en premier
-avec le chunni de Rani est le gagnant.
-
-902
-01:33:39,500 --> 01:33:42,207
-<i>Bhairava, victoire !</i>
-
-903
-01:33:42,208 --> 01:33:45,999
-Les gens veulent que Bhairava gagne.
-
-904
-01:33:46,000 --> 01:33:49,582
-Il va sûrement gagner.
-
-905
-01:33:49,666 --> 01:33:54,900
-Je sais qui va gagner, Premier ministre.
-
-906
 01:36:27,708 --> 01:36:34,500
-Bhairava ! Je connais ton cœur
-n'est pas aussi fort que votre corps.
+Bhairava ! Je sais que ton cœur
+n'est pas aussi fort que ton corps.
 
 907
 01:36:34,500 --> 01:36:37,095
-Que ferez-vous maintenant?
+Que feras-tu maintenant ?
 
 908
 01:36:37,291 --> 01:36:41,540
-Sauverez-vous les chevaux
+Vas-tu sauver les chevaux
 ou l'honneur de Rani ?
 
 909
 01:36:41,541 --> 01:36:44,097
-Ce qu'il faut faire?!
+Que faire ?!
 
 910
 01:37:49,300 --> 01:37:51,957
@@ -3996,16 +3941,16 @@ Badshah !
 
 911
 01:38:05,458 --> 01:38:09,995
-Debout, Badshah !
+Debout, Badshah !
 
 912
 01:38:33,666 --> 01:38:37,699
 Badshah ! Nous devons sauver
-L'honneur de Rani.
+l'honneur de Rani.
 
 913
 01:38:37,708 --> 01:38:41,150
-Ou ça ne sert à rien de me sauver la vie.
+Ou sauver ma vie ne sert à rien.
 
 914
 01:38:41,150 --> 01:38:42,999
@@ -4013,79 +3958,79 @@ Allez.
 
 915
 01:39:28,416 --> 01:39:31,199
-Ils arrivent!
+Ils arrivent !
 
 916
 01:39:50,208 --> 01:39:51,999
-Mithravinda est à moi !
+Mithravinda est à moi !
 
 917
 01:39:52,000 --> 01:39:54,999
-Ranadev a votre chunni.
+Ranadev a ton chunni.
 
 918
 01:39:55,000 --> 01:39:58,099
-Bhairava va gagner !
+Bhairava va gagner !
 
 919
 01:40:42,416 --> 01:40:46,099
-Comment peux-tu en être si sûr
-Bhairava va-t-il gagner ?
+Comment peux-tu être si sûr
+que Bhairava va gagner ?
 
 920
 01:41:01,083 --> 01:41:02,331
-Bannissez-le !
+Bannis-le !
 
 921
 01:41:02,333 --> 01:41:06,982
-<i>Bannissez-le ! Bannissez-le !</i>
+<i>Bannis-le ! Bannis-le !</i>
 
 922
 01:42:01,000 --> 01:42:07,332
-<i>~ Ô guerrier ! Mon cœur
-je ne peux pas attendre plus longtemps ~</i>
+<i>~ Ô guerrier ! Mon cœur
+ne peut plus attendre ~</i>
 
 923
 01:42:07,333 --> 01:42:13,332
-<i>~ approche ma beauté séduisante,
-Ô grand héros ! ~</i>
+<i>~ approche de ma beauté séduisante,
+ô grand héros ! ~</i>
 
 924
 01:42:13,333 --> 01:42:19,375
 <i>~ ta valeur invincible
-me vole le sommeil ~</i>
+me vole mon sommeil ~</i>
 
 925
 01:42:19,375 --> 01:42:28,990
-<i>~ abandonnant les règles, gagne mes plaisirs royaux,
-Ô guerrier ~</i>
+<i>~ en dépit des règles, gagne mes plaisirs royaux,
+ô guerrier ~</i>
 
 926
 01:42:29,000 --> 01:42:34,900
-<i>~ Ô guerrier ! Mon cœur
-je ne peux plus attendre ~</i>
+<i>~ Ô guerrier ! Mon cœur
+ne peut plus attendre ~</i>
 
 927
 01:42:34,900 --> 01:42:42,500
-<i>~ approche ma beauté séduisante,
-Ô grand héros ! ~</i>
+<i>~ approche de ma beauté séduisante,
+ô grand héros ! ~</i>
 
 928
 01:43:12,041 --> 01:43:18,250
-<i>~ vous entrez sur les champs de bataille
-avec un génie ingénieux ~</i>
+<i>~ tu entres sur les champs de bataille
+avec une brillance ingénieuse ~</i>
 
 929
 01:43:18,250 --> 01:43:24,582
-<i>~ montrer cet esprit dans notre amour ~</i>
+<i>~ montre cet esprit dans notre amour ~</i>
 
 930
 01:43:24,583 --> 01:43:30,665
-<i>~ Mon devoir est d'être votre garde du corps ~</i>
+<i>~ mon devoir est comme ton garde du corps ~</i>
 
 931
 01:43:30,666 --> 01:43:37,699
-<i>~ dois-je te posséder comme un conquérant ? ~</i>
+<i>~ vais-je te posséder comme un conquérant ? ~</i>
 
 932
 01:43:37,700 --> 01:43:43,540
@@ -4093,56 +4038,56 @@ avec un génie ingénieux ~</i>
 
 933
 01:43:43,541 --> 01:43:49,915
-<i>~ Je suis prêt à servir mon amour ou mon combat ~</i>
+<i>~ je suis prêt à servir mon amour ou la bataille ~</i>
 
 934
 01:43:49,916 --> 01:43:56,000
 <i>~ ma vie et mon âme sont à toi,
-ô fils du Seigneur Indra ~</i>
+ô fils de Lord Indra ~</i>
 
 935
 01:43:56,000 --> 01:44:02,000
-<i>~ Ô guerrier ! Mon cœur
-je ne peux pas attendre plus ~</i>
+<i>~ Ô guerrier ! Mon cœur
+ne peut plus attendre ~</i>
 
 936
 01:44:02,000 --> 01:44:09,100
-<i>~ approche ma beauté séduisante,
-Ô grand héros ! ~</i>
+<i>~ approche de ma beauté séduisante,
+ô grand héros ! ~</i>
 
 937
 01:44:51,700 --> 01:44:58,190
-<i>~ notre paire est comme
+<i>~ notre couple est comme
 un lion féroce et une lune radieuse ~</i>
 
 938
 01:44:58,208 --> 01:45:04,150
-<i>~ une puissante épée se balance
+<i>~ une épée puissante se balance
 avec une fleur délicate ~</i>
 
 939
 01:45:04,150 --> 01:45:10,415
-<i>~ si ta riche virilité
+<i>~ si ta virilité riche
 touche ma beauté éternelle ~</i>
 
 940
 01:45:10,416 --> 01:45:17,370
-<i>~ Chaque instant ne sera-t-il pas un paradis ? ~</i>
+<i>~ chaque moment ne serait-il pas paradisiaque ? ~</i>
 
 941
 01:45:17,370 --> 01:45:23,332
-<i>~ pas d'édit royal sur terre
-peut arrêter cette passion ~</i>
+<i>~ aucun édit royal sur terre
+ne peut arrêter cette passion ~</i>
 
 942
 01:45:23,333 --> 01:45:29,457
-<i>~ ce désir rageur
-ne pourra jamais être emprisonné ~</i>
+<i>~ ce désir ardent
+ne peut jamais être emprisonné ~</i>
 
 943
 01:45:29,458 --> 01:45:36,207
 <i>~ des centaines de renaissances
-je ne peux pas étancher ma soif d'amour ~</i>
+ne peuvent étancher ma soif d'amour ~</i>
 
 944
 01:45:36,208 --> 01:45:42,375
@@ -4154,28 +4099,28 @@ je ne peux pas étancher ma soif d'amour ~</i>
 
 946
 01:45:48,291 --> 01:45:54,449
-<i>~ J'abandonne le sommeil, je regarde
+<i>~ je renonce au sommeil, en regardant
 sa beauté enchanteresse ~</i>
 
 947
 01:45:54,458 --> 01:46:01,450
-<i>~ Je t'adore, couche-toi dans mes bras ~</i>
+<i>~ je t'adore, allonge-toi dans mes bras ~</i>
 
 948
 01:46:01,450 --> 01:46:04,990
-<i>~ Ô guerrier ! Ô guerrier ~</i>
+<i>~ Ô guerrier ! Ô guerrier ~</i>
 
 949
 01:46:07,400 --> 01:46:11,000
-<i>~ Ô guerrier ! Ô guerrier ~</i>
+<i>~ Ô guerrier ! Ô guerrier ~</i>
 
 950
 01:46:17,375 --> 01:46:20,000
-Elle s'enfuyait !
+Elle se précipitait !
 
 951
 01:46:23,708 --> 01:46:27,990
-Vous aviez tort, Maharajah.
+Tu avais tort, Maharajah.
 Bhairava a gagné.
 
 952
@@ -4192,7 +4137,7 @@ Rani l'aime.
 
 955
 01:46:39,166 --> 01:46:43,590
-Voyez comme elle est heureuse !
+Regarde comme elle est heureuse !
 
 956
 01:46:43,900 --> 01:46:46,290
@@ -4201,25 +4146,25 @@ Tu vois son bonheur
 957
 01:46:46,291 --> 01:46:53,665
 mais sur son visage
-Je vois le veuvage.
+je vois le veuvage.
 
 958
 01:46:53,666 --> 01:46:55,701
-Maharaja?!
+Maharajah?!
 
 959
 01:46:55,708 --> 01:47:02,290
-Tous les hommes du clan de Kala Bhairava
-sacrifié sa vie pour ce royaume.
+Chaque homme du clan de Kala Bhairava
+a sacrifié sa vie pour ce royaume.
 
 960
 01:47:02,291 --> 01:47:06,582
-Aucun n’a vécu plus de 30 ans.
+Aucun n'a vécu plus de 30 ans.
 
 961
 01:47:07,583 --> 01:47:10,332
 Il est destiné à mourir
-La guerre de Sher Khan.
+dans la guerre contre Sher Khan.
 
 962
 01:47:10,333 --> 01:47:13,207
@@ -4227,21 +4172,21 @@ Si j'accepte ce mariage,
 
 963
 01:47:13,208 --> 01:47:17,957
-Je peux voir ma fille
+je pourrais voir ma fille
 veuve toute ma vie.
 
 964
 01:47:18,166 --> 01:47:22,099
-Le prêtre royal prédit
+Le prêtre royal a prédit
 cette calamité.
 
 965
 01:47:36,750 --> 01:47:39,307
-Vous avez sauvé l'honneur de Rani.
+Tu as sauvé l'honneur de Rani.
 
 966
 01:47:39,333 --> 01:47:43,125
-Avec toi, je n'ai aucun souci.
+Avec toi, je n'ai aucune inquiétude.
 
 967
 01:47:43,125 --> 01:47:47,040
@@ -4249,12 +4194,12 @@ C'est mon devoir. Je mourrais pour toi.
 
 968
 01:47:47,041 --> 01:47:51,207
-Tu sacrifierais la vie
+Tu sacrifierais ta vie
 pour le royaume.
 
 969
 01:47:51,208 --> 01:47:54,800
-Tu ne peux pas sacrifier ton amour ?
+Ne peux-tu pas sacrifier ton amour ?
 
 970
 01:47:56,000 --> 01:47:57,125
@@ -4262,12 +4207,12 @@ Maharaja !
 
 971
 01:47:57,125 --> 01:47:59,624
-Pas comme Maharaja.
+Pas en tant que Maharaja.
 
 972
 01:47:59,625 --> 01:48:03,900
 En tant que père de Mithravinda,
-Je vous en prie.
+je te supplie.
 
 973
 01:48:32,000 --> 01:48:36,250
@@ -4276,20 +4221,20 @@ et le prestige d'Udaigarh,
 
 974
 01:48:36,250 --> 01:48:39,250
-J'ai participé au concours
+je suis entré dans le concours
 
 975
 01:48:39,250 --> 01:48:43,000
-sans intention de gouverner.
+sans intention de régner.
 
 976
 01:48:45,000 --> 01:48:49,900
-- Je ne suis qu'un soldat.
-- Salut, Bhairava !
+Je suis juste un soldat.
+Vive Bhairava !
 
 977
 01:48:49,900 --> 01:48:53,007
-<i>Salut, Bhairava !</i>
+<i>Vive Bhairava !</i>
 
 978
 01:49:15,000 --> 01:49:20,199
@@ -4298,11 +4243,11 @@ Venez, Madame.
 
 979
 01:49:24,880 --> 01:49:28,199
--Bhairava ! - Il n'est pas venu.
+Bhairava ! - Il n'est pas venu.
 
 980
 01:49:28,200 --> 01:49:30,700
-Il est venu!
+Il est venu !
 
 981
 01:49:30,880 --> 01:49:32,000
@@ -4314,12 +4259,12 @@ Bhairava !
 
 983
 01:49:35,000 --> 01:49:40,090
--Bhairava. - Bhairava est absent,
-préparer la guerre.
 
+Bhairava. - Bhairava est absent,
+il se prépare pour la guerre.
 984
 01:49:40,090 --> 01:49:44,982
-Bhairava est là. Je sais cela.
+Bhairava est ici. Je le sais.
 
 985
 01:49:45,350 --> 01:49:50,099
@@ -4327,12 +4272,12 @@ Bhairava !
 
 986
 01:49:53,250 --> 01:49:55,874
-- Est-ce vrai, Gourou ?
-- Oui, Maharaja.
 
+Est-ce vrai, Guru ?
+Oui, Maharaja.
 987
 01:49:55,875 --> 01:49:59,040
-Bhairavakona se trouve à 130 km.
+Bhairavakona est à 80 miles.
 
 988
 01:49:59,041 --> 01:50:02,400
@@ -4341,21 +4286,21 @@ C'est sacré pour le Seigneur Kalabhai (Dieu).
 989
 01:50:02,400 --> 01:50:05,707
 Puja (prière) là-bas
-peut éviter un désastre.
+peut éviter le désastre.
 
 990
 01:50:05,708 --> 01:50:07,040
-Super.
+Génial.
 
 991
 01:50:07,041 --> 01:50:10,790
-Puja doit se terminer avant
-les planètes sont conjointes.
+La puja doit se terminer avant
+la conjonction des planètes.
 
 992
 01:50:10,791 --> 01:50:15,250
-j'y vais immédiatement
-pour l'arranger.
+J'irai là-bas immédiatement
+pour l'organiser.
 
 993
 01:50:15,250 --> 01:50:18,940
@@ -4371,35 +4316,35 @@ Maharaja.
 
 996
 01:50:22,708 --> 01:50:25,457
-- C'est votre tâche.
-- Comme tu dis.
 
+C'est ta tâche.
+Comme tu le dis.
 997
 01:50:25,458 --> 01:50:32,982
 Rani, sois prête...
-pour faire ce voyage.
+à entreprendre ce voyage.
 
 998
 01:51:23,333 --> 01:51:25,999
-Vivre longtemps!
+Vis longtemps !
 
 999
 01:51:26,208 --> 01:51:28,332
-Puja aux 7 couleurs
+Puja avec 7 couleurs
 
 1000
 01:51:28,333 --> 01:51:32,000
-recevra les bénédictions de Dieu.
+obtiendra les bénédictions de Dieu.
 
 1001
 01:51:32,000 --> 01:51:33,040
--Bhairava. - Gourou.
 
+Bhairava. - Guru.
 1002
 01:51:33,041 --> 01:51:37,999
-- Battez les tambours pour plaire à Dieu.
-- Comme tu dis.
 
+Battez les tambours pour plaire à Dieu.
+Comme tu dis.
 1003
 01:51:46,041 --> 01:51:48,100
 Bhairava.
@@ -4422,7 +4367,7 @@ où je suis dans ton cœur.
 
 1008
 01:52:03,583 --> 01:52:08,992
-Dites-moi. Dis la vérité, Bhairava.
+Dis-moi. Dis la vérité, Bhairava.
 
 1009
 01:52:12,291 --> 01:52:14,457
@@ -4430,7 +4375,7 @@ Le temps presse.
 
 1010
 01:52:14,458 --> 01:52:17,700
-Commencez la puja, Guru.
+Commence la puja, Guru.
 
 1011
 01:53:47,000 --> 01:53:52,340
@@ -4445,11 +4390,11 @@ un homme de parole
 1013
 01:53:56,041 --> 01:54:02,990
 mais chaque lettre sera
-écrit avec mon sang.
+écrite avec mon sang.
 
 1014
 01:54:24,000 --> 01:54:26,500
-Oh mon Dieu!
+Oh Dieu !
 
 1015
 01:54:30,500 --> 01:54:32,940
@@ -4461,12 +4406,12 @@ Jairam... que s'est-il passé ?
 
 1017
 01:54:36,541 --> 01:54:39,999
-Ranadev est devenu un traître.
+Ranadev est devenu traître.
 
 1018
 01:54:40,000 --> 01:54:45,949
-Il s'est allié à Sher Khan
-et ouvrit les portes du fort.
+Il s'est allié avec Sher Khan
+et a ouvert les portes du fort.
 
 1019
 01:54:51,900 --> 01:54:54,949
@@ -4474,8 +4419,8 @@ Mithra !
 
 1020
 01:54:56,041 --> 01:55:00,457
-Pendant que Bhairava vit,
-vous n'aurez pas Mithra.
+Tant que Bhairava vit,
+tu n'auras pas Mithra.
 
 1021
 01:55:00,458 --> 01:55:03,082
@@ -4483,20 +4428,20 @@ Mithravinda est à moi.
 
 1022
 01:55:03,083 --> 01:55:10,090
-Il a tué Maharaja.
+Il a tué le Maharaja.
 Il vient chercher Rani avec une armée.
 
 1023
 01:55:10,090 --> 01:55:12,990
-Jaïram....
+Jairam...
 
 1024
 01:55:32,291 --> 01:55:35,782
-Visez les flèches !
+Armez les flèches !
 
 1025
 01:55:36,000 --> 01:55:38,992
-Tirer!
+Tirez !
 
 1026
 01:56:12,500 --> 01:56:15,890
@@ -4504,7 +4449,7 @@ Bhairava, sauve Rani.
 
 1027
 01:56:35,458 --> 01:56:38,182
-Tenez le feu !
+Cessez le feu !
 
 1028
 01:56:38,250 --> 01:56:44,099
@@ -4520,11 +4465,11 @@ Viens.
 
 1031
 01:56:55,000 --> 01:56:58,250
-Clan de guerriers puissants
+Noble clan de guerriers
 
 1032
 01:56:58,250 --> 01:57:03,290
-où un homme en tue 100
+où un homme tue 100
 avant de mourir.
 
 1033
@@ -4533,12 +4478,12 @@ Maan Singh.
 
 1034
 01:57:05,041 --> 01:57:10,790
-Je vais prouver maintenant que tu l'as dit
+Je vais prouver maintenant que tu as raconté
 une histoire de marionnettes.
 
 1035
 01:57:10,791 --> 01:57:13,665
-Hé, Bhairava !
+Hey, Bhairava !
 
 1036
 01:57:13,666 --> 01:57:17,082
@@ -4546,8 +4491,8 @@ Je lui ai promis Rani.
 
 1037
 01:57:17,083 --> 01:57:22,999
-Amenez-la, faites-la asseoir sur ses genoux,
-tomber à mes pieds.
+Amène-la, fais-la s'asseoir sur ses genoux,
+tombe à mes pieds.
 
 1038
 01:57:23,000 --> 01:57:25,500
@@ -4559,7 +4504,7 @@ Je te fais aussi une promesse, Sher Khan.
 
 1040
 01:57:29,080 --> 01:57:32,500
-Donnez-moi le traître.
+Remets-moi le traître.
 
 1041
 01:57:32,500 --> 01:57:35,415
@@ -4567,8 +4512,8 @@ Je vous épargnerai tous.
 
 1042
 01:57:35,416 --> 01:57:38,999
-- Super! - Non!
 
+Super ! - Non !
 1043
 01:57:39,600 --> 01:57:42,124
 Tu m'épargneras la vie ?
@@ -4579,36 +4524,36 @@ Je suis Dieu.
 
 1045
 01:57:44,333 --> 01:57:47,665
-Si vous êtes un homme courageux,
+Si tu es un homme avec du courage,
 
 1046
 01:57:47,666 --> 01:57:51,457
-J'enverrai 100 hommes.
+j'enverrai 100 hommes.
 Arrête-les.
 
 1047
 01:57:51,458 --> 01:57:54,332
-Je te donnerai Rani et le royaume.
+Je te remettrai Rani et le royaume.
 
 1048
 01:57:54,333 --> 01:58:00,374
-- Envoyez des hommes qui ne feront pas demi-tour.
-- Ils vont te pétrifier.
 
+Envoie des hommes qui ne fuiront pas.
+Ils te pétrifieront.
 1049
 01:58:00,375 --> 01:58:06,540
-- Plus c'est bien, pas un de moins.
-- Si l'un d'entre eux survit, vous perdez.
 
+Plus, c'est bien, pas un de moins.
+Si un survit, tu perds.
 1050
 01:58:06,541 --> 01:58:12,415
 Pas un par un, Sher Khan.
-Envoyez-les ensemble.
+Envoie-les ensemble.
 
 1051
 01:58:12,416 --> 01:58:18,999
-Simplement parler ne suffira pas.
-Montrez l’action.
+Parler ne suffit pas.
+Montre des actes.
 
 1052
 01:58:19,041 --> 01:58:23,082
@@ -4620,8 +4565,8 @@ Je ne l'épargnerai pas, Rani.
 
 1054
 01:58:42,900 --> 01:58:49,900
-Je vais le décapiter et prier pour
-Seigneur Kalabhai avec son sang.
+Je vais le décapiter et prier
+le Seigneur Kalabhai avec son sang.
 
 1055
 01:59:20,208 --> 01:59:23,099
@@ -4629,15 +4574,15 @@ Le jeu commence.
 
 1056
 01:59:48,666 --> 01:59:50,874
-Un!
+Un !
 
 1057
 02:00:11,400 --> 02:00:13,900
-Dix!
+Dix !
 
 1058
 02:00:26,700 --> 02:00:28,665
-Vingt-trois!
+Vingt-trois !
 
 1059
 02:00:28,666 --> 02:00:31,807
@@ -4645,7 +4590,7 @@ Attaquez-le par derrière.
 
 1060
 02:00:45,000 --> 02:00:48,207
-29, 30 ! Hé, porc.
+29, 30 ! Hey, porc.
 
 1061
 02:00:48,208 --> 02:00:51,600
@@ -4657,41 +4602,41 @@ Seigneur, 32.
 
 1063
 02:01:27,100 --> 02:01:29,800
-43 !
+43 !
 
 1064
 02:01:43,100 --> 02:01:45,490
-Super!
+Génial !
 
 1065
 02:01:59,000 --> 02:02:02,307
-55 !
+55 !
 
 1066
 02:03:18,541 --> 02:03:40,250
-<i>~ Ô guerrier ! Reste en vie
-et continue à te battre, ô guerrier ~</i>
+<i>~ Ô guerrier ! Reste en vie
+et continue de te battre, ô guerrier ~</i>
 
 1067
 02:03:40,250 --> 02:03:42,500
-85 !
+85 !
 
 1068
 02:03:42,500 --> 02:03:57,449
-<i>~ Que le silence soit entendu
+<i>~ Que le silence se fasse entendre
 et continue de te battre ~</i>
 
 1069
 02:03:57,500 --> 02:04:00,500
-93 !
+93 !
 
 1070
 02:04:08,600 --> 02:04:12,000
-95 !
+95 !
 
 1071
 02:04:13,666 --> 02:04:17,999
-<i>~ Ô guerrier ! ~</i>
+<i>~ Ô guerrier ! ~</i>
 
 1072
 02:04:18,000 --> 02:04:22,999
@@ -4699,16 +4644,16 @@ et continue de te battre ~</i>
 
 1073
 02:04:44,416 --> 02:04:47,900
-99 !
+99 !
 
 1074
 02:05:28,100 --> 02:05:34,707
 Assez, Sher Khan ?
-Vous voulez en envoyer 100 autres ?
+Veux-tu en envoyer 100 autres ?
 
 1075
 02:05:35,500 --> 02:05:39,782
-Merveilleux!
+Merveilleux !
 
 1076
 02:05:39,791 --> 02:05:41,457
@@ -4716,31 +4661,31 @@ Bhairava.
 
 1077
 02:05:41,458 --> 02:05:46,999
-J'ai rencontré des rois qui ont abandonné
+J'ai rencontré des rois qui abandonnaient
 leurs royaumes en entendant mon nom.
 
 1078
 02:05:47,083 --> 02:05:53,099
-Et les armées se sont enfuies
+Et des armées fuyaient
 en voyant mes yeux devenir rouges.
 
 1079
 02:05:53,125 --> 02:05:58,000
-Même si ton cœur saigne,
-vous avez tué vos ennemis.
+Bien que ton cœur saigne,
+tu as tué tes ennemis.
 
 1080
 02:05:58,000 --> 02:06:01,750
-Je n'en avais jamais rencontré d'aussi courageux.
+Je n'avais jamais rencontré quelqu'un d'aussi brave.
 
 1081
 02:06:01,750 --> 02:06:08,200
 Moi, un empereur qui
-terrorisé l'Inde,
+terrorisait l'Inde,
 
 1082
 02:06:08,200 --> 02:06:13,199
-je suis maintenant esclave de votre valeur.
+suis maintenant esclave de ta vaillance.
 
 1083
 02:06:16,291 --> 02:06:19,415
@@ -4748,15 +4693,15 @@ J'ai de la chance de m'allier à toi.
 
 1084
 02:06:19,416 --> 02:06:23,099
-Joignez-vous la main, ma chère.
+Joins tes mains, mon cher.
 
 1085
 02:06:26,208 --> 02:06:27,999
-Oserez donner un coup de pied à mon ami ?
+Oses-tu frapper mon ami ?
 
 1086
 02:06:28,000 --> 02:06:30,790
-Vous avez donné votre parole.
+Tu as donné ta parole.
 
 1087
 02:06:30,791 --> 02:06:34,990
@@ -4764,12 +4709,12 @@ Tu m'as promis Rani et le royaume.
 
 1088
 02:06:35,000 --> 02:06:38,957
-L'honorerez-vous, Sher Khan ?
-Dites-moi.
+Tiendras-tu ta promesse, Sher Khan ?
+Dis-le-moi.
 
 1089
 02:06:39,000 --> 02:06:42,199
-Veux-tu?
+Le feras-tu ?
 
 1090
 02:06:52,708 --> 02:06:58,949
@@ -4791,25 +4736,25 @@ Lui ou moi ?
 1094
 02:08:06,625 --> 02:08:12,999
 Si je ne peux pas avoir quelque chose,
-personne ne le fera.
+personne ne l'aura.
 
 1095
 02:08:51,166 --> 02:09:00,999
-Au moins, accompagne-moi...
+Accompagne-moi au moins...
 dans la mort, Bhairava.
 
 1096
 02:09:49,000 --> 02:09:56,940
 Mais un jour tu perceras
-les ténèbres pour réclamer ton amour !
+les ténèbres pour revendiquer ton amour !
 
 1097
 02:09:57,791 --> 02:10:03,099
-<i>Tu reviendras, Bhairava !</i>
+<i>Tu reviendras, Bhairava !</i>
 
 1098
 02:10:24,150 --> 02:10:27,995
-C'est ça!
+Ça y est !
 
 1099
 02:10:35,498 --> 02:10:41,000
@@ -4825,16 +4770,16 @@ Mon bon moment a-t-il commencé ?
 
 1102
 02:10:47,000 --> 02:10:50,375
-- Yesu et Thomas, allez.
-- Quoi, Salomon ?
 
+Yesu et Thomas, venez.
+Quoi, Solomon ?
 1103
 02:10:50,375 --> 02:10:54,332
 Allez découvrir le prix de Srikakulam.
 
 1104
 02:10:54,333 --> 02:10:57,124
-Srikakulam ? Pourquoi?
+Srikakulam ? Pourquoi ?
 
 1105
 02:10:57,125 --> 02:10:58,999
@@ -4842,21 +4787,21 @@ Je prévois de l'acheter.
 
 1106
 02:10:59,000 --> 02:11:02,500
-- J'ai attrapé un trésor.
-- Trésor?
 
+J'ai attrapé un trésor.
+Trésor ?
 1107
 02:11:02,500 --> 02:11:08,790
-Tirez le filet avec force~
+Tirez le filet avec force ~
 
 1108
 02:11:11,333 --> 02:11:14,124
-Salomon a marqué gros.
+Solomon a fait un gros coup.
 
 1109
 02:11:14,125 --> 02:11:18,000
-Srikakulam est-il suffisant ?
-Vous achèterez même Vizag ?
+Srikakulam suffit ?
+Tu achèteras même Vizag ?
 
 1110
 02:11:18,000 --> 02:11:22,040
@@ -4864,36 +4809,36 @@ Arrête de rire. Aide-moi.
 
 1111
 02:11:22,041 --> 02:11:24,999
-- Dégagez le banc.
-- Bien.
 
+Dégage le banc.
+D'accord.
 1112
 02:11:25,120 --> 02:11:27,090
-Là.
+Voilà.
 
 1113
 02:11:27,350 --> 02:11:30,000
-Retirez-le.
+Enlève-le.
 
 1114
 02:11:32,290 --> 02:11:34,083
-Ah non non non !
+Oh non non non !
 
 1115
 02:11:34,083 --> 02:11:37,250
-Il est trop jeune. Pourquoi Dieu?
+Il est trop jeune. Pourquoi, Dieu ?
 
 1116
 02:11:37,250 --> 02:11:41,707
-Enfant...
+Gamin...
 
 1117
 02:11:41,708 --> 02:11:43,082
-Entends moi?
+Tu m'entends ?
 
 1118
 02:11:43,083 --> 02:11:44,994
-Pouvez-vous me voir?
+Tu peux me voir ?
 
 1119
 02:11:46,416 --> 02:11:49,850
@@ -4905,7 +4850,7 @@ Sher Khan.
 
 1121
 02:11:55,150 --> 02:11:58,965
-Pas Sher Khan. Je m'appelle Salomon.
+Pas Sher Khan. Je suis Solomon.
 
 1122
 02:11:59,200 --> 02:12:01,665
@@ -4913,85 +4858,85 @@ Il s'est évanoui.
 
 1123
 02:12:01,666 --> 02:12:04,499
-- Récupérez le chariot.
-- Oncle, bouge.
+Prenez la charrette.
+Oncle, bouge.
 
 1124
 02:12:04,541 --> 02:12:06,415
-Salomon a attrapé un gros poisson.
+Solomon a eu un gros poisson.
 
 1125
 02:12:06,416 --> 02:12:09,990
-- Arrête de me taquiner.
-- Ce qui s'est passé?
+Arrêtez de me taquiner.
+Que s'est-il passé ?
 
 1126
 02:12:11,250 --> 02:12:13,374
-Éloignez-vous.
+Écartez-vous.
 
 1127
 02:12:13,708 --> 02:12:15,410
-Aide-le, Doc.
+Aidez-le, Doc.
 
 1128
 02:12:15,410 --> 02:12:19,375
-Donnez des injections ou des pilules.
-Faites-lui bien bientôt.
+Donnez-lui des injections ou des pilules.
+Remettez-le vite sur pied.
 
 1129
 02:12:19,375 --> 02:12:21,000
-Bien.
+D'accord.
 
 1130
 02:12:25,375 --> 02:12:29,297
-- Mon pote, ta chérie
-vous fait signe.- Bougez.
+Mon ami, ta bien-aimée
+te fait signe. - Bouge.
 
 1131
 02:12:30,541 --> 02:12:35,992
 Chérie, je ne peux pas acheter ta timidité
-même au prix de Srikakulam.
+même pour le prix de Srikakulam.
 
 1132
 02:12:36,375 --> 02:12:40,290
-Je suis tombée amoureuse de ton sourire.
+Je suis tombé amoureux de ton sourire.
 
 1133
 02:12:40,291 --> 02:12:45,400
-- Embrasse-moi. - Oh.
+Donne-moi un baiser. - Hé.
 
 1134
 02:12:45,400 --> 02:12:48,950
-- Donne m'en un. - Mmhmm.
+Donne-moi un. - Mm hmm.
 
 1135
 02:12:49,208 --> 02:12:52,500
-Salomon! Le garçon ne vivra pas.
+Solomon ! Le garçon ne survivra pas.
 
 1136
 02:12:55,458 --> 02:12:56,332
-Quoi de neuf?
+Quoi de neuf ?
 
 1137
 02:12:56,333 --> 02:12:59,665
-- Son pouls est si faible.
-- Aller se faire cuire un œuf.
+Son pouls est si faible.
+Dégage.
 
 1138
 02:12:59,666 --> 02:13:02,207
-Salomon, qu'est-ce que c'est ?
+Solomon, c'est quoi ça ?
 
 1139
 02:13:02,208 --> 02:13:06,900
-C'est de l'arack, du poison et des médicaments.
+C'est de l'arrack– poison et remède.
 
 1140
 02:13:14,000 --> 02:13:15,125
-Super!
+Génial !
 
 1141
 02:13:15,125 --> 02:13:18,500
-C'est le remède de Salomon.
+C'est le remède de Solomon.
 
 1142
 02:13:21,300 --> 02:13:25,099
@@ -4999,39 +4944,39 @@ Hé, Hamsa est là.
 
 1143
 02:13:29,000 --> 02:13:32,375
-- Oh, Hamsa.
-- Petit garçon.
+Oh, Hamsa.
+Petit garçon.
 
 1144
 02:13:32,375 --> 02:13:34,332
-Laisse mon chunni.
+Lâche mon chunni.
 
 1145
 02:13:34,333 --> 02:13:40,582
-- Que se passe-t-il si je ne le fais pas ?
-- Maman va être en colère.
+Que se passe-t-il si je ne le fais pas ?
+Maman sera en colère.
 
 1146
 02:13:40,583 --> 02:13:41,790
-Quoi?
+Quoi ?
 
 1147
 02:13:41,791 --> 02:13:47,160
-<i>~ Maman va-t-elle se taire
+<i>~ Est-ce que Maman se taira
 si mon chunni est froissé ? ~</i>
 
 1148
 02:13:47,160 --> 02:13:52,790
-<i>~ Grand-mère va-t-elle se taire
+<i>~ Est-ce que Grand-mère se taira
 si mon bindi est effacé ? ~</i>
 
 1149
 02:13:52,791 --> 02:14:01,165
-<i>~ Dans ce cas, Tante deviendra folle ~</i>
+<i>~ Dans ce cas, Tatie deviendra folle ~</i>
 
 1150
 02:14:01,166 --> 02:14:12,790
-<i>~ Que puis-je dire ? ~</i>
+<i>~ Que puis-je dire ? ~</i>
 
 1151
 02:14:13,000 --> 02:14:14,707
@@ -5043,21 +4988,21 @@ si mon bindi est effacé ? ~</i>
 
 1153
 02:14:18,375 --> 02:14:23,790
-<i>~ Ne dites aucune raison,
+<i>~ Ne donne aucune raison,
 ne secoue pas tes hanches ~</i>
 
 1154
 02:14:23,791 --> 02:14:26,582
-<i>~ N'essayez pas de glisser
+<i>~ Ne cherche pas à glisser
 hors de mes mains ~</i>
 
 1155
 02:14:26,583 --> 02:14:30,750
-<i>~ sinon tu le paieras cher ~</i>
+<i>~ sinon tu paieras cher ~</i>
 
 1156
 02:14:31,900 --> 02:14:37,660
-<i>~ Ne dites aucune raison,
+<i>~ Ne donne aucune raison,
 ne secoue pas tes hanches ~</i>
 
 1157
@@ -5070,7 +5015,7 @@ ne secoue pas tes hanches ~</i>
 
 1159
 02:14:44,375 --> 02:14:49,875
-<i>~ Partout où une fleur fleurit, je suis là ~</i>
+<i>~ Où que fleurisse une fleur, je suis là ~</i>
 
 1160
 02:14:49,875 --> 02:14:53,000
@@ -5082,61 +5027,61 @@ ne secoue pas tes hanches ~</i>
 
 1162
 02:14:55,708 --> 02:14:58,000
-<i>~ Coupez-le vite, coupez-le vite ~</i>
+<i>~ Coupe vite, coupe vite ~</i>
 
 1163
 02:14:58,000 --> 02:15:01,000
-<i>~ Faites-le toujours, faites-le toujours ~</i>
+<i>~ Fais-le toujours, fais-le toujours ~</i>
 
 1164
 02:15:01,000 --> 02:15:03,100
-<i>~ Coupez-le vite (coupez-le vite) ~</i>
+<i>~ Coupe vite (coupe vite) ~</i>
 
 1165
 02:15:03,100 --> 02:15:06,000
-<i>~ Faites-le toujours (faites-le toujours) ~</i>
+<i>~ Fais-le toujours (fais-le toujours) ~</i>
 
 1166
 02:15:06,000 --> 02:15:09,000
-<i>~ Coupez-le vite ~</i>
+<i>~ Coupe vite ~</i>
 
 1167
 02:15:09,000 --> 02:15:12,100
-<i>~ Faites-le toujours ~</i>
+<i>~ Fais-le toujours ~</i>
 
 1168
 02:15:12,166 --> 02:15:18,000
-<i>~ Aujourd'hui est une mauvaise journée,
+<i>~ Aujourd'hui est un mauvais jour,
 laisse-moi tranquille ~</i>
 
 1169
 02:15:56,200 --> 02:16:01,790
-<i>~ Je te suivrai comme un top,
-Je vais t'assiéger ~</i>
+<i>~ Je te suivrai comme une toupie,
+je te ferai le siège ~</i>
 
 1170
 02:16:01,791 --> 02:16:07,099
 <i>~ Je chasserai la honte de toi,
-te montrer le bonheur ~</i>
+je te montrerai la béatitude ~</i>
 
 1171
 02:16:07,100 --> 02:16:12,899
-<i>~ Chabba !~</i>
+<i>~ Shabba ! ~</i>
 
 1172
 02:16:12,900 --> 02:16:18,000
-<i>~ Je te suivrai comme un top,
-Je vais t'assiéger ~</i>
+<i>~ Je te suivrai comme une toupie,
+je te ferai le siège ~</i>
 
 1173
 02:16:18,000 --> 02:16:23,790
 <i>~ Je chasserai la honte de toi,
-te montrer le bonheur ~</i>
+je te montrerai la béatitude ~</i>
 
 1174
 02:16:23,791 --> 02:16:28,490
 <i>~ Même s'il pleut du feu,
-Je ne m'arrêterai pas ~</i>
+je ne m'arrêterai pas ~</i>
 
 1175
 02:16:28,490 --> 02:16:35,200
@@ -5146,36 +5091,36 @@ ouais, ouais, ouais, ouais ~</i>
 1176
 02:16:35,208 --> 02:16:40,000
 <i>~ Je sauterai par-dessus le feu,
-Je hisserai mon drapeau d'amour dans ton cœur ~</i>
+je hisserai mon drapeau d'amour dans ton cœur ~</i>
 
 1177
 02:16:40,000 --> 02:16:45,900
-<i>~ Coupez-le vite, coupez-le vite,
+<i>~ Coupe vite, coupe vite,
 fais-le toujours, fais-le toujours ~</i>
 
 1178
 02:16:46,008 --> 02:16:51,000
-<i>~ Je peux survoler les étoiles,
-dois-je vous montrer la merveille? ~</i>
+<i>~ Je peux voler par-dessus les étoiles,
+veux-tu que je te montre la merveille ? ~</i>
 
 1179
 02:16:51,000 --> 02:16:57,150
-<i>~ Coupez-le vite, coupez-le vite,
+<i>~ Coupe vite, coupe vite,
 fais-le toujours, fais-le toujours ~</i>
 
 1180
 02:16:57,150 --> 02:17:02,500
-<i>~ Une fois que je l'aurai,
-Je n'en peux plus ~</i>
+<i>~ Une fois que je l'ai,
+je ne peux plus tenir ~</i>
 
 1181
 02:17:02,583 --> 02:17:09,440
-<i>~ Hé, mon garçon ! Salut mec!
-Hé, mon garçon. Oh, oh, mon garçon ~</i>
+<i>~ Hé, garçon ! Hé, garçon !
+Oi, garçon. Oi, oi, garçon ~</i>
 
 1182
 02:17:10,708 --> 02:17:13,415
-<i>~ dans la brise, sous un arbre ~</i>
+<i>~ dans une brise, sous un arbre ~</i>
 
 1183
 02:17:13,416 --> 02:17:16,249
@@ -5183,41 +5128,41 @@ Hé, mon garçon. Oh, oh, mon garçon ~</i>
 
 1184
 02:17:16,250 --> 02:17:19,207
-<i>~ sur les berges des lacs et des rivières,
-dans la rue, dans des endroits solitaires ~</i>
+<i>~ sur les rives du lac et de la rivière,
+dans la rue, dans les endroits solitaires ~</i>
 
 1185
 02:17:19,208 --> 02:17:24,375
 <i>~ dans les bosquets, dans les fermes,
-dans une cabane en herbe dans une ferme d'oignons ~</i>
+dans une hutte d'herbe sur une ferme d'oignons ~</i>
 
 1186
 02:17:24,375 --> 02:17:29,490
-<i>~ Ô garçon... Ô garçon ! ~</i>
+<i>~ Ô garçon... Ô garçon ! ~</i>
 
 1187
 02:17:29,875 --> 02:17:35,900
-<i>~ Garçon, tu viens avec moi ? ~</i>
+<i>~ Garçon, viendras-tu avec moi ? ~</i>
 
 1188
 02:17:36,000 --> 02:17:41,579
 <i>~ Je viendrai comme une flèche,
-J'écrirai comme une craie ~</i>
+j'écrirai comme de la craie ~</i>
 
 1189
 02:17:41,580 --> 02:17:46,582
-<i>~ Te porter comme un palanquin,
-arrive comme un festival ~</i>
+<i>~ Te porterai comme un palanquin,
+arriverai comme une fête ~</i>
 
 1190
 02:17:46,583 --> 02:17:52,082
 <i>~ Je viendrai comme une flèche,
-J'écrirai ton nom à la craie ~</i>
+j'écrirai ton nom comme de la craie ~</i>
 
 1191
 02:17:52,083 --> 02:17:59,000
 <i>~ Je porterai ta jeunesse comme un palanquin,
-Je serai avec toi comme un festival ~</i>
+je serai avec toi comme une fête ~</i>
 
 1192
 02:18:07,166 --> 02:18:12,790
@@ -5226,58 +5171,58 @@ avec la vie en jeu ~</i>
 
 1193
 02:18:12,791 --> 02:18:18,500
-<i>~ mon voyage va-t-il s'arrêter ?
+<i>~ mon voyage s'arrêtera-t-il ?
 Ouais, ouais, ouais, ouais, ouais ~</i>
 
 1194
 02:18:18,500 --> 02:18:21,000
-<i>~ Coupez-le vite, coupez-le vite ~</i>
+<i>~ Coupe vite, coupe vite ~</i>
 
 1195
 02:18:21,000 --> 02:18:23,500
-<i>~ fais-le toujours, fais-le toujours ~</i>
+<i>~ Fais-le toujours, fais-le toujours ~</i>
 
 1196
 02:18:23,500 --> 02:18:26,500
-<i>~ coupe-le vite, coupe-le vite ~</i>
+<i>~ Coupe vite, coupe vite ~</i>
 
 1197
 02:18:26,500 --> 02:18:29,000
-<i>~ fais-le toujours, fais-le toujours ~</i>
+<i>~ Fais-le toujours, fais-le toujours ~</i>
 
 1198
 02:18:29,000 --> 02:18:32,000
-<i>~ coupe-le vite, coupe-le vite ~</i>
+<i>~ Coupe vite, coupe vite ~</i>
 
 1199
 02:18:32,000 --> 02:18:35,000
-<i>~ fais-le toujours, fais-le toujours ~</i>
+<i>~ Fais-le toujours, fais-le toujours ~</i>
 
 1200
 02:18:35,000 --> 02:18:38,000
-<i>~ coupe-le vite, coupe-le vite ~</i>
+<i>~ Coupe vite, coupe vite ~</i>
 
 1201
 02:18:38,000 --> 02:18:41,000
-<i>~ fais-le toujours, fais-le toujours ~</i>
+<i>~ Fais-le toujours, fais-le toujours ~</i>
 
 1202
 02:18:41,000 --> 02:18:43,000
-<i>~ coupe-le vite, coupe-le vite ~</i>
+<i>~ Coupe vite, coupe vite ~</i>
 
 1203
 02:18:43,000 --> 02:18:46,500
-<i>~ fais-le toujours, fais-le toujours ~</i>
+<i>~ Fais-le toujours, fais-le toujours ~</i>
 
 1204
 02:19:26,500 --> 02:19:29,540
-- Salutations, Raghuveer.
-- Salutations, Prêtre. - Salutations.
+Salutations, Raghuveer.
+Salutations, Prêtre. - Salutations.
 
 1205
 02:19:29,541 --> 02:19:34,250
 Indu. Une lampe allumée ici
-laisse les morts se reposer.
+laisse les morts reposer.
 
 1206
 02:19:34,250 --> 02:19:38,799
@@ -5289,15 +5234,15 @@ Pratap Varma.
 
 1208
 02:19:45,041 --> 02:19:47,990
-Harcha.
+Harsha.
 
 1209
 02:19:49,000 --> 02:19:51,207
-Votre cœur est noble.
+Ton cœur est noble.
 
 1210
 02:19:51,208 --> 02:19:53,000
-Bien qu'en colère contre lui,
+Bien que tu sois en colère contre lui,
 
 1211
 02:19:53,000 --> 02:19:56,093
@@ -5309,7 +5254,7 @@ Prêtre.
 
 1213
 02:20:11,190 --> 02:20:14,199
-Pourquoi? Qu'est-ce que c'est?
+Pourquoi ? Qu'est-ce que c'est ?
 
 1214
 02:20:14,208 --> 02:20:16,199
@@ -5317,7 +5262,7 @@ Harsha n'est pas mort.
 
 1215
 02:20:16,200 --> 02:20:18,083
-Que veux-tu dire?
+Que veux-tu dire ?
 
 1216
 02:20:18,083 --> 02:20:19,708
@@ -5325,19 +5270,19 @@ Il est tombé de l'hélicoptère...
 
 1217
 02:20:19,708 --> 02:20:22,290
-Non, il est vivant.
+Non. Il est vivant.
 
 1218
 02:20:22,291 --> 02:20:25,099
--Indu. - Il est là.
 
+Indu. - Il est là.
 1219
 02:20:29,250 --> 02:20:32,375
-Assurez-vous que je ne le vois pas.
+Assure-toi que je ne le vois pas.
 
 1220
 02:20:32,375 --> 02:20:36,957
-Je ne supporte même pas son ombre.
+Je ne peux même pas supporter son ombre.
 
 1221
 02:21:07,200 --> 02:21:08,832
@@ -5345,8 +5290,8 @@ Pas assez.
 
 1222
 02:21:08,833 --> 02:21:12,907
-Vous manquez de courage pour me tuer.
-Essayer!
+Tu manques de courage pour me tuer.
+Essaye !
 
 1223
 02:21:13,500 --> 02:21:14,625
@@ -5358,36 +5303,36 @@ Allez.
 
 1225
 02:21:16,583 --> 02:21:23,700
-Convertissez toute votre énergie
-à la vengeance, Ranadev Billa.
+Convertis toute ton énergie
+en vengeance, Ranadev Billa.
 
 1226
 02:21:28,916 --> 02:21:31,832
-- Tu le sais aussi.
-- Oui.
+Tu le sais aussi.
+Oui.
 
 1227
 02:21:31,833 --> 02:21:34,707
-Maintenant, Indu doit le savoir.
+Maintenant Indu doit le savoir.
 
 1228
 02:21:34,708 --> 02:21:41,290
-Au moment où elle se souvient de son passé,
-vous rencontrerez une mort horrible.
+Dès qu'elle se souviendra de son passé,
+tu connaîtras une mort atroce.
 
 1229
 02:21:41,291 --> 02:21:47,615
-Même la mort aurait peur
-en entendant tes cris.
+Même la mort craindrait
+d'entendre tes cris.
 
 1230
 02:21:47,666 --> 02:21:52,940
-Lord Kalabhai lui-même doit
-mettre fin à cette rivalité vieille de plusieurs siècles.
+Le Seigneur Kalabhai lui-même doit
+mettre fin à cette rivalité séculaire.
 
 1231
 02:21:53,000 --> 02:21:56,166
-Il vous reste très peu de temps.
+Il te reste très peu de temps.
 
 1232
 02:21:56,166 --> 02:21:58,800
@@ -5395,16 +5340,16 @@ Fais de ton mieux.
 
 1233
 02:22:00,800 --> 02:22:14,040
-<i>Salut, Seigneur Shiva !</i>
+<i>Vive Lord Shiva !</i>
 
 1234
 02:22:39,000 --> 02:22:43,450
-- Pourquoi encore réfléchir, gamin ?
-- Salomon ?
+Pourquoi hésiter encore, gamin ?
+Solomon ?
 
 1235
 02:22:43,450 --> 02:22:46,207
-Emmène simplement ta chérie.
+Emmène simplement ta douce.
 
 1236
 02:22:46,208 --> 02:22:49,374
@@ -5412,39 +5357,39 @@ Pourquoi es-tu ici le jour de ton mariage ?
 
 1237
 02:22:49,375 --> 02:22:52,707
-J'ai dû séparer les amants
-lors de ma naissance précédente
+J'ai dû séparer des amoureux
+dans ma vie précédente
 
 1238
 02:22:52,708 --> 02:22:58,540
-donc je ne peux pas trouver de partenaire
-dans cette naissance.
+donc je ne peux pas avoir de partenaire
+dans cette vie-ci.
 
 1239
 02:22:58,541 --> 02:23:01,332
-Si je vous unis les amoureux,
+Si je réunis vos deux cœurs,
 
 1240
 02:23:01,333 --> 02:23:06,090
-tous mes péchés disparaîtraient.
+tous mes péchés disparaîtront.
 
 1241
 02:23:06,333 --> 02:23:08,900
-Que dites-vous?
+Qu'en dites-vous ?
 
 1242
 02:23:25,333 --> 02:23:28,625
 Quoi de neuf, patron ?
-Je suis confus.
+Je suis perplexe.
 
 1243
 02:23:28,625 --> 02:23:33,499
 Le mort est vivant.
-Le ciel connaît des événements étranges.
+Le ciel a des événements étranges.
 
 1244
 02:23:33,500 --> 02:23:37,150
-Cela fait 8 planètes en conjonction.
+C'est l'alignement de 8 planètes.
 
 1245
 02:23:37,150 --> 02:23:38,333
@@ -5452,31 +5397,31 @@ Ghora.
 
 1246
 02:23:38,333 --> 02:23:45,394
-C'est le bon moment
-pour que Indu soit complètement vôtre.
+C'est le moment idéal
+de rendre Indu complètement tienne.
 
 1247
 02:23:45,583 --> 02:23:48,415
-Dis-moi, Ghora. Et maintenant?
+Dis-moi, Ghora. Quoi maintenant ?
 
 1248
 02:23:48,416 --> 02:23:54,957
-Avant la fin de cet événement,
+Avant que cet événement se termine,
 si Indu ne peut pas se souvenir de son passé,
 
 1249
 02:23:54,958 --> 02:23:58,957
 elle ne s'en souviendra jamais
-dans cette naissance.
+dans cette vie-ci.
 
 1250
 02:23:59,833 --> 02:24:03,874
-Assurez-vous qu'il ne rencontrera pas Indu.
+Assure-toi qu'il ne rencontre pas Indu.
 
 1251
 02:24:03,875 --> 02:24:09,900
-- Alors tu gagneras, Raghuveer.
-- Je vais sûrement gagner.
+Alors tu gagneras, Raghuveer.
+Je gagnerai sûrement.
 
 1252
 02:24:16,250 --> 02:24:20,900
@@ -5484,42 +5429,42 @@ Indu. J'ai beaucoup de choses à dire.
 
 1253
 02:24:20,900 --> 02:24:25,099
-- Tu veux dire comment
+Tu veux dire comment
 tu as tué mon père ? - Indu !
 
 1254
 02:24:25,100 --> 02:24:26,999
-Pas le temps pour les détails.
+Pas de temps pour les détails.
 
 1255
 02:24:27,000 --> 02:24:30,400
-Votre cousin n'est pas un homme bien.
+Ton cousin n'est pas un bon homme.
 
 1256
 02:24:30,500 --> 02:24:33,830
-Vous êtes en péril ici.
-Viens.
+Tu es en danger ici.
+Viens avec moi.
 
 1257
 02:24:33,833 --> 02:24:37,000
-Combien de mensonges encore ?
+Combien d'autres mensonges ?
 Tu as tué mon père.
 
 1258
 02:24:37,000 --> 02:24:40,750
-Mes propres yeux l'ont vu, n'est-ce pas ?
+Mes propres yeux l'ont vu, c'est vrai ?
 
 1259
 02:24:40,750 --> 02:24:43,874
-Je suis dégoûté d'être tombé amoureux de toi.
+Je suis dégoûtée d'être tombée amoureuse de toi.
 
 1260
 02:24:43,875 --> 02:24:47,182
-Sortir. Laisser ici.
+Sors. Quitte cet endroit.
 
 1261
 02:24:49,291 --> 02:24:52,999
-Ne parlez pas trop. Allons-y.
+Ne parle pas trop. Allons-y.
 
 1262
 02:24:57,666 --> 02:24:59,974
@@ -5531,7 +5476,7 @@ Indu.
 
 1264
 02:25:58,000 --> 02:26:01,999
-Vous êtes Bhairava, n'est-ce pas ?
+Tu es Bhairava, n'est-ce pas ?
 
 1265
 02:26:02,000 --> 02:26:02,999
@@ -5539,16 +5484,16 @@ Oui.
 
 1266
 02:26:03,000 --> 02:26:06,707
-- Comment savez-vous?
-- Je sais tout.
+Comment le sais-tu ?
+Je sais tout.
 
 1267
 02:26:06,708 --> 02:26:10,290
-C'est vrai, tu es la seule à l'avoir.
+C'est juste que tu dois l'obtenir.
 
 1268
 02:26:10,291 --> 02:26:12,750
-Viens. Je vais vous conduire.
+Viens. Je vais te guider.
 
 1269
 02:26:12,750 --> 02:26:15,095
@@ -5560,7 +5505,7 @@ Viens.
 
 1271
 02:26:19,208 --> 02:26:22,099
-Allez par ici...
+Va par ici...
 
 1272
 02:27:21,833 --> 02:27:25,990
@@ -5568,30 +5513,30 @@ Hé, gamin !
 
 1273
 02:27:34,000 --> 02:27:38,974
-Ça vient!
+Ça arrive !
 
 1274
 02:28:00,330 --> 02:28:03,800
-Ouais c'est ça.
+Ouais, voilà.
 
 1275
 02:28:35,500 --> 02:28:40,790
-- Tu vas bien? - Bien.
-- Va-t-elle bien? - Oui.
+Tu vas bien ? - Bien.
+Elle va bien ? - Oui.
 
 1276
 02:29:08,500 --> 02:29:14,832
-Gamin, pas d'autre solution.
+Gamin, pas d'autre choix.
 Je vais sauter en premier.
 
 1277
 02:29:14,833 --> 02:29:16,582
-Il me visera.
+Il visera moi.
 
 1278
 02:29:16,583 --> 02:29:19,790
-Avant de se réarmer,
-s'enfuir avec elle.
+Avant qu'il ne se réarme,
+échappe-toi avec elle.
 
 1279
 02:29:19,791 --> 02:29:22,900
@@ -5599,12 +5544,12 @@ Pas un mot de plus.
 
 1280
 02:29:33,090 --> 02:29:40,000
-Je peux tout sacrifier
-mais l'amitié.
+Je peux sacrifier tout
+sauf l'amitié.
 
 1281
 02:29:43,125 --> 02:29:46,199
-Oh cher!
+Oh mon Dieu !
 
 1282
 02:29:50,500 --> 02:29:52,099
@@ -5620,11 +5565,11 @@ Indu...
 
 1285
 02:30:01,590 --> 02:30:04,500
-Ghora!
+Ghora !
 
 1286
 02:30:05,208 --> 02:30:08,000
-Merveilleux!
+Magnifique !
 
 1287
 02:30:12,583 --> 02:30:15,200
@@ -5645,28 +5590,28 @@ Saute, gamin.
 1291
 02:30:42,833 --> 02:30:47,949
 Gamin, pars avec elle.
-Je vais m'occuper de ces gars.
+Je m'occupe de ces gars-là.
 
 1292
 02:30:50,875 --> 02:30:54,994
-Quoi? Où m'emmenez-vous?
+Quoi ? Où est-ce que tu m'emmènes ?
 
 1293
 02:31:48,900 --> 02:31:51,900
-Hé! Une moto n'est pas une bombe.
-Écrasez-le.
+Hé ! Une moto n'est pas une bombe.
+Passez dessus.
 
 1294
 02:31:51,900 --> 02:31:53,994
-Aller.
+Allez.
 
 1295
 02:32:02,500 --> 02:32:06,415
-Hé, reviens ! Inverse!
+Hé, retournez ! En arrière !
 
 1296
 02:32:16,458 --> 02:32:19,000
-Que veux-tu?
+Qu'est-ce que tu veux ?
 
 1297
 02:32:19,000 --> 02:32:21,807
@@ -5674,36 +5619,36 @@ Pourquoi m'as-tu amené ici ?
 
 1298
 02:32:21,900 --> 02:32:26,700
-- Je te déteste. Laisse-moi tranquille.
-- Je ne peux pas, Indu.
+Je te déteste. Laisse-moi.
+Je ne peux pas, Indu.
 
 1299
 02:32:26,700 --> 02:32:30,625
-Je t'ai perdu une fois par
-ne pas exprimer mon amour.
+Je t'ai perdu une fois en
+ne t'exprimant pas mon amour.
 
 1300
 02:32:30,625 --> 02:32:33,332
-je ne répéterai pas ça
-erreur de vie passée.
+Je ne répéterai pas
+cette erreur de ma vie passée.
 
 1301
 02:32:33,333 --> 02:32:35,160
-- Une vie antérieure ?
-- Oui, Indu.
+Vie passée ?
+Oui, Indu.
 
 1302
 02:32:35,160 --> 02:32:38,997
-Nous sommes tombés amoureux dans une vie antérieure...
+Nous sommes tombés amoureux dans une vie passée...
 
 1303
 02:32:43,450 --> 02:32:48,165
-Rappelez-vous, Indu. Tu m'as demandé
-devant Lord Kalabhai.
+Rappelle-toi, Indu. Tu m'as demandé
+devant le Seigneur Kalabhai.
 
 1304
 02:32:48,166 --> 02:32:51,900
-Vous avez exigé que j'avoue mon amour.
+Tu as exigé que j'admets mon amour.
 
 1305
 02:32:52,000 --> 02:32:54,375
@@ -5712,24 +5657,24 @@ Ici, tu m'as supplié.
 1306
 02:32:54,375 --> 02:32:57,165
 Avant que je puisse avouer,
-tu es mort.
+tu es morte.
 
 1307
 02:32:57,166 --> 02:33:00,207
-Tu te souviens, Indu ?
+Te souviens-tu, Indu ?
 
 1308
 02:33:08,625 --> 02:33:11,200
-Je suis tombé mort ici ?
+Je suis tombé à la mort ici ?
 
 1309
 02:33:11,200 --> 02:33:15,999
-Si tu ne t'arrêtes pas
-inventer des histoires d'amour,
+Si tu ne cesses pas
+d'inventer des histoires d'amour,
 
 1310
 02:33:16,000 --> 02:33:19,900
-Je vais vraiment sauter et mourir.
+je vais vraiment sauter et mourir.
 
 1311
 02:33:20,100 --> 02:33:24,950
@@ -5738,12 +5683,12 @@ avoue que tu m'aimes.</i>
 
 1312
 02:33:26,583 --> 02:33:29,365
-Ne veux-tu pas partir
+Ne partiras-tu pas
 si je parle de suicide ?
 
 1313
 02:33:29,375 --> 02:33:35,999
-<i>Accompagnez-moi dans la mort, Bhairava.</i>
+<i>Accompagne-moi dans la mort, Bhairava.</i>
 
 1314
 02:34:22,700 --> 02:34:26,999
@@ -5755,11 +5700,11 @@ Indu, éloigne-toi de lui.
 
 1316
 02:34:49,000 --> 02:34:51,030
-Indu!
+Indu !
 
 1317
 02:34:51,030 --> 02:34:54,090
-Indu, viens ici.
+Indu, monte ici.
 
 1318
 02:35:34,900 --> 02:35:40,500
@@ -5767,7 +5712,7 @@ Indu, viens ici.
 
 1319
 02:35:40,500 --> 02:35:46,500
-<i>~ ma vie ne vaut rien si je ne t'atteins pas ~</i>
+<i>~ Ma vie est sans valeur si je ne t'atteins pas ~</i>
 
 1320
 02:35:46,500 --> 02:35:52,900
@@ -5775,11 +5720,11 @@ Indu, viens ici.
 
 1321
 02:35:49,900 --> 02:35:51,090
-Indu!
+Indu !
 
 1322
 02:36:06,166 --> 02:36:09,990
-<i>Tu ne veux pas y aller
+<i>Ne partiras-tu pas
 si je parle de suicide ?</i>
 
 1323
@@ -5788,33 +5733,33 @@ Pardonne-moi, Bhairava.
 
 1324
 02:36:28,600 --> 02:36:30,990
-Hé!
+Hé !
 
 1325
 02:36:50,900 --> 02:36:53,099
-Chef!
+Patron !
 
 1326
 02:38:19,000 --> 02:38:21,099
-Zut!
+Zut !
 
 1327
 02:38:22,000 --> 02:38:25,000
-Salut, Pilote, en bas, en bas.
+Hoy, pilote, bas, bas.
 
 1328
 02:38:25,050 --> 02:38:27,990
-Pilote, descendez-le, descendez-le.
+Pilote, descends, bas.
 
 1329
 02:38:57,291 --> 02:39:03,999
-- Aller aller. Découpez-le.
-- Va le chercher.
+Allez-y, allez-y. Fendez-le.
+Vas le chercher.
 
 1330
 02:39:04,000 --> 02:39:08,500
-- Eh, va le chercher.
-- Je vais l'emmener. Je vais l'emmener, ouais.
+Hé, attrape-le.
+Je vais le prendre. Je vais le prendre, ouais.
 
 1331
 02:39:15,200 --> 02:39:19,799
@@ -5827,7 +5772,7 @@ Laisse-moi partir.
 1333
 02:39:54,333 --> 02:39:59,900
 Si je ne peux pas avoir quelque chose,
-personne ne le fera.
+personne ne le pourra.
 
 1334
 02:40:06,500 --> 02:40:09,965
@@ -5835,162 +5780,160 @@ Tue-le, gamin.
 
 1335
 02:40:30,500 --> 02:40:34,199
-Vous êtes si mignons tous les deux.
+Vous deux êtes tellement mignons.
 
 1336
 02:40:34,208 --> 02:40:36,370
-Prudent.
+Attention.
 
 1337
 02:40:36,375 --> 02:40:37,725
-Comment aller là?
+Comment y arriver ?
 
 1338
 02:40:37,725 --> 02:40:40,865
-Salomon aidera.
-Salomon, aide-nous.
+Solomon va aider.
+Solomon, amène-nous là.
 
 1339
 02:40:40,866 --> 02:40:44,580
-Je vous prie et j'y réfléchirai.
+Implore et j'y réfléchirai.
 
 1340
 02:40:44,580 --> 02:40:47,290
-Gamin, pourquoi s'asseoir sur le bord ?
+Gamin, pourquoi restes-tu au bord ?
 
 1341
 02:40:47,291 --> 02:40:50,600
-- Ne crie pas. Fais ton travail.
-- Aller se faire cuire un œuf.
+Ne crie pas. Fais ton boulot.
+Dégage.
 
 1342
 02:40:50,600 --> 02:40:54,500
-Je m'en fiche de toi.
-Je pars.
+Je me fiche de toi.
+Je m'en vais.
 
 1343
 02:40:54,500 --> 02:40:56,600
-Entendre? Je pars.
+Entendu ? Je m'en vais.
 
 1344
 02:40:56,600 --> 02:40:59,082
-- Salut, Salomon.
-- Ouais, quoi ?
+Hoy, Solomon.
+Ouais, quoi ?
 
 1345
 02:40:59,083 --> 02:41:05,190
-- C'est chaud. Tu me donnes un parapluie ?
-- Gamin, je vais te frapper.
+Il fait chaud. Tu peux me passer un parapluie ?
+Gamin, je vais te frapper.
 
 1346
 02:41:08,583 --> 02:41:20,374
-<i>~Il était une fois~</i>
+<i>~ Il était une fois ~</i>
 
 1347
 02:41:20,500 --> 02:41:28,374
-<i>~Pourquoi aucun poisson n'a-t-il apporté
-par les princes secs ?~</i>
+<i>~ Pourquoi un poisson apporté
+par les princes n'a-t-il pas séché ? ~</i>
 
 1348
 02:41:28,375 --> 02:41:31,700
-<i>~Pourquoi n'a-t-on pas séché ?~</i>
+<i>~ Pourquoi n'a-t-il pas séché ? ~</i>
 
 1349
 02:41:31,700 --> 02:41:34,375
-<i>~Il a plu avant qu'il ne sèche~</i>
+<i>~ Il a plu avant de sécher ~</i>
 
 1350
 02:41:34,375 --> 02:41:35,375
-Indiquer!
+Point !
 
 1351
 02:41:35,375 --> 02:41:45,000
-<i>~Il a été inondé après la pluie~</i>
+<i>~ Il y a eu des inondations après la pluie ~</i>
 
 1352
 02:41:45,000 --> 02:41:47,550
-<i>~Guerrier~</i>
+<i>~ Guerrier ~</i>
 
 1353
 02:41:47,550 --> 02:41:51,100
-<i>~Les femmes (guerrières) adorent~</i>
+<i>~ (Guerrier) les femmes adorent ~</i>
 
 1354
 02:41:51,100 --> 02:41:56,000
-<i>~(Guerrier) pour voler des coeurs,
-(Guerrier) le monde salue~</i>
+<i>~ (Guerrier) pour voler les cœurs,
+(Guerrier) le monde salue ~</i>
 
 1355
 02:41:56,000 --> 02:41:58,900
-<i>~Guerrier~</i>
+<i>~ Guerrier ~</i>
 
 1356
 02:42:12,000 --> 02:42:15,000
-<i> ~ ayez l'impression maintenant, déplacez-le dans la rue
-dis que nous voulons dire quelque chose de mieux, fais ce que tu penses ~</i>
+<i>~ ressens-le maintenant, bouge-le dans la rue
+dis ce que tu veux dire de mieux ~</i>
 
 1357
 02:42:15,000 --> 02:42:18,000
-<i>~ maintenant berce tout le monde, nous sommes en fuite,
-faites bouger le sol, bougez tout le monde~</i>
+<i>~ maintenant, secoue tout, nous sommes en fuite,
+garde le sol en mouvement, tout le monde bouge ~</i>
 
 1358
 02:42:18,000 --> 02:42:22,990
-<i>~ faites danser les adultes maintenant, tout le monde
-faites vibrer le spectacle maintenant attrapez tout le monde ~ </i>
+<i>~ prends de l'ampleur maintenant, danse tout le monde,
+rock le spectacle maintenant, attrape tout le monde ~</i>
 
 1359
 02:42:25,041 --> 02:42:33,000
-<i>~Il y a un citron brillant
-dans le bosquet à proximité~</i>
+<i>~ Il y a un citron brillant
+dans le verger à proximité ~</i>
 
 1360
 02:42:35,333 --> 02:42:42,034
-<i>~Vous devez équilibrer les choses
-sur ta moustache~</i>
+<i>~ Tu dois le faire tenir
+sur ta moustache ~</i>
 
 1361
 02:42:42,083 --> 02:42:55,500
-<i>~Tu dois promettre la lune,
-faire des choses impossibles~</i>
+<i>~ Tu dois promettre la lune,
+faire des choses impossibles ~</i>
 
 1362
 02:42:55,500 --> 02:42:58,900
-<i>~Guerrier~</i>
+<i>~ Guerrier ~</i>
 
 1363
 02:42:58,900 --> 02:43:06,300
-<i>~Je veux chanter et danser (Guerrier),
-je veux le bercer et le bouger (Guerrier)~</i>
+<i>~ Veux chanter et danser (Guerrier),
+veux rocker et le bouger (Guerrier) ~</i>
 
 1364
 02:43:06,300 --> 02:43:08,500
-<i>~Guerrier~</i>
+<i>~ Guerrier ~</i>
 
 1365
 02:43:34,500 --> 02:43:41,000
-<i>~ Que tous les mauvais yeux se tournent vers toi
-être conjuré~</i>
+<i>~ Que tous les mauvais regards posés sur toi
+soient éloignés ~</i>
 
 1366
 02:43:43,000 --> 02:43:49,700
-<i>~D'un seul coup, tout doit disparaître~</i>
+<i>~ Avec un coup, tout doit disparaître ~</i>
 
 1367
 02:43:49,700 --> 02:44:03,290
-<i>~Casser une citrouille, offrir une bougie~</i>
+<i>~ Casse une citrouille, offre une bougie ~</i>
 
 1368
 02:44:03,300 --> 02:44:07,000
-<i>~Guerrier~</i>
+<i>~ Guerrier ~</i>
 
 1369
 02:44:07,000 --> 02:44:20,700
-<i>~Je veux chanter et danser (Guerrier),
-je veux le bercer et le bouger (Guerrier) ~</i>
+<i>~ Veux chanter et danser (Guerrier),
+veux rocker et le bouger (Guerrier) ~</i>
 
 1370
 02:44:20,700 --> 02:44:26,900
-<i>~Dheera (Guerrier) ~</i>
-
-
+<i>~ Dheera (Guerrier) ~</i>
