@@ -1718,6 +1718,7 @@ Non mec...
 425
 00:23:06,275 --> 00:23:07,405
 C'est ton père qui lui appartient!
+
 426
 00:23:07,695 --> 00:23:09,025
 Et ton père...
